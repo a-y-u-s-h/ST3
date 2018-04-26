@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+colorMode(${1:mode-RGB/HSB}, ${2:${3:max-red/hue}, ${4:max-green/sat}, ${5:max-blue/brightness}, ${6:maxA}})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cm</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+bezierPoint(${1:a}, ${2:b}, ${3:c}, ${4:d}, ${5:t})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

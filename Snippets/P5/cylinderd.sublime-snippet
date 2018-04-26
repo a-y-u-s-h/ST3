@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+cylinder(${1:r}, ${2:h}, ${3:detailX}, ${4:detailY})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cyld</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

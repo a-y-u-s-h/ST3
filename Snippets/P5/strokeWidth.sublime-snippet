@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+strokeWeight(${0:pixels})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>stw</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
