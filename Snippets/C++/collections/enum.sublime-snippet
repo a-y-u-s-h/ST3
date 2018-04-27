@@ -1,0 +1,8 @@
+<snippet>
+	<description>enum</description>
+	<content><![CDATA[enum ${1:name} { 
+	${2} 
+};]]></content>
+	<tabTrigger>enum</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>
