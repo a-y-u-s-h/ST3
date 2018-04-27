@@ -1,11 +1,11 @@
 <snippet>
-	<description>while</description>
+	<description>if..</description>
 	<content><![CDATA[
-while (${1}) 
+if (${1}) 
 {
-   ${0}
+	${0}
 }
-]]></content>
-	<tabTrigger>while</tabTrigger>
+	]]></content>
+	<tabTrigger>if</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>
