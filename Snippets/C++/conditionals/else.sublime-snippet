@@ -1,8 +1,7 @@
 <snippet>
 	<description>else</description>
 	<content><![CDATA[
-else
-{
+else {
 	${0}
 }
 	]]></content>
