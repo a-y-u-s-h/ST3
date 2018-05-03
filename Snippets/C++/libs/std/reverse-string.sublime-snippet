@@ -1,0 +1,8 @@
+<snippet>
+	<description>for vector</description>
+	<content><![CDATA[
+reverse(${1:string}.begin(), ${1:string}.end());
+]]></content>
+	<tabTrigger>reversestring</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>
