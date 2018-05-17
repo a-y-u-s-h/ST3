@@ -1,0 +1,8 @@
+<snippet>
+	<description>descending sort vector</description>
+	<content><![CDATA[
+${1:std::}sort(begin(${2:arr}), end(${2:arr}), ${1:std::}greater<int>());
+]]></content>
+	<tabTrigger>dsortarray</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

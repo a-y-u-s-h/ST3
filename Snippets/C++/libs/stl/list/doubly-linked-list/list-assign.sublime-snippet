@@ -1,0 +1,6 @@
+<snippet>
+	<description>list assign</description>
+	<content><![CDATA[${1:list}.assign(${2});]]></content>
+	<tabTrigger>liassign</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

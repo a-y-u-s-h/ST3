@@ -1,8 +1,8 @@
 <snippet>
-	<description>for vector</description>
+	<description>begin(..), end(..)</description>
 	<content><![CDATA[
-reverse(${1:string}.begin(), ${1:string}.end());
+${1:std::}begin(${2:vec|arr}), ${1:std::}end(${2:vec|arr})
 ]]></content>
-	<tabTrigger>reversestring</tabTrigger>
+	<tabTrigger>sbeginend</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

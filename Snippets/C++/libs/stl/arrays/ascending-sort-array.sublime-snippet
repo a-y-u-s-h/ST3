@@ -1,8 +1,8 @@
 <snippet>
 	<description>ascending sort vector</description>
 	<content><![CDATA[
-${1:std::}sort(begin(${2:vector}), end(${2:vector}), ${1:std::}greater<int>());
+${1:std::}sort(begin(${2:arr}), end(${2:arr}));
 ]]></content>
-	<tabTrigger>dsortvector</tabTrigger>
+	<tabTrigger>asortarray</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

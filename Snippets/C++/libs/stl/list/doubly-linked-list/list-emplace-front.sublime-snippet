@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-emplace-front</description>
+	<content><![CDATA[
+${1:list}.emplace_front(${2:value});
+]]></content>
+	<tabTrigger>listemplacefront</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

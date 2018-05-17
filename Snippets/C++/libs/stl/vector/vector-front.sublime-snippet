@@ -1,0 +1,8 @@
+<snippet>
+	<description>vector.front()</description>
+	<content><![CDATA[
+${1:vector}.front()
+]]></content>
+	<tabTrigger>vfront</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>
