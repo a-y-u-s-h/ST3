@@ -1,8 +1,8 @@
 <snippet>
-	<description>list--descensing-sort</description>
+	<description>flist.empty()</description>
 	<content><![CDATA[
-${2:list}.sort(${1:std::}greater<int>());
+${1:flist}.empty()
 ]]></content>
-	<tabTrigger>dsortlist</tabTrigger>
+	<tabTrigger>sllistempty</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>
