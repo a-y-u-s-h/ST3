@@ -1,0 +1,11 @@
+<snippet>
+	<description>print deque</description>
+	<content><![CDATA[
+for (int i : ${2:deque}) {
+  ${1:std::}cout << i << " ";
+}
+${1:std::}cout << ${1:std::}endl;
+]]></content>
+	<tabTrigger>printdeque</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

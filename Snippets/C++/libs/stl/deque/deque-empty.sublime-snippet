@@ -1,0 +1,8 @@
+<snippet>
+	<description>deque.empty()</description>
+	<content><![CDATA[
+${1:deque}.empty()
+]]></content>
+	<tabTrigger>dqempty</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

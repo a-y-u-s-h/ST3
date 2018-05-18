@@ -1,0 +1,8 @@
+<snippet>
+	<description>binary_search</description>
+	<content><![CDATA[
+${1:std::}binary_search(begin(${1:std::}${2:}), ${1:std::}end(${2:}), ${3:value})
+]]></content>
+	<tabTrigger>binary_search</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

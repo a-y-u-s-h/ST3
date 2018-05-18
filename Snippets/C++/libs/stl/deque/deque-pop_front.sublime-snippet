@@ -1,0 +1,8 @@
+<snippet>
+	<description>deque.pop_front();</description>
+	<content><![CDATA[
+${1:deque}.pop_front();
+]]></content>
+	<tabTrigger>deque_pop_front</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>
