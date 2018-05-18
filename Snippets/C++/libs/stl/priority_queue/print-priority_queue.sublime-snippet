@@ -1,0 +1,14 @@
+<snippet>
+	<description>print priority_queue</description>
+	<content><![CDATA[
+[](${1:std::}priority_queue<int> q) {
+    while (!q.empty()) {
+      ${1:std::}cout << q.top() << " ";
+      q.pop();
+    }
+    ${1:std::}cout << ${1:std::}endl;
+}(${2:target});
+]]></content>
+	<tabTrigger>printpriority_queue</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

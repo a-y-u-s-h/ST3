@@ -1,8 +1,8 @@
 <snippet>
-	<description>vector.back()</description>
+	<description>priority_queue top</description>
 	<content><![CDATA[
-${1:vector}.back()
+${1:priority_queue}.top();
 ]]></content>
-	<tabTrigger>vback</tabTrigger>
+	<tabTrigger>priority_queuetop</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>
