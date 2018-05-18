@@ -1,0 +1,14 @@
+<snippet>
+	<description>print stack</description>
+	<content><![CDATA[
+[](${1:std::}stack<int> s) {
+    while (!s.empty()) {
+      ${1:std::}cout << s.top() << " ";
+      s.pop();
+    }
+    ${1:std::}cout << ${1:std::}endl;
+}(${2:target});
+]]></content>
+	<tabTrigger>printstack</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

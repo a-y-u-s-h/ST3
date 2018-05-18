@@ -1,9 +1,8 @@
 <snippet>
-	<description>for..in</description>
-	<content><![CDATA[for (auto ${1:i} : ${2:list}) {
-	${0}
-}
+	<description>stack-length</description>
+	<content><![CDATA[
+${1:stack}.size()
 ]]></content>
-	<tabTrigger>forin</tabTrigger>
+	<tabTrigger>stacklength</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

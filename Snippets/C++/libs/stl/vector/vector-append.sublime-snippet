@@ -1,0 +1,8 @@
+<snippet>
+	<description>vector.clear();</description>
+	<content><![CDATA[
+${2:frontier}.insert(${1:std::}end(${2:frontier}), ${1:std::}begin(${3:terminal}), ${1:std::}end(${3:terminal}));
+]]></content>
+	<tabTrigger>vappend</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

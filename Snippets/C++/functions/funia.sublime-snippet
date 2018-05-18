@@ -1,10 +1,9 @@
 <snippet>
-	<content><![CDATA[auto ${1:function_name} = [](${2}) {
-	${0}
-};
+	<content><![CDATA[
+auto ${1:function_name} = [](${2}) { return ${3}; };
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>funa</tabTrigger>
+	<tabTrigger>funia</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>
