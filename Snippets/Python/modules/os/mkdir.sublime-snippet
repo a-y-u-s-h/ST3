@@ -1,0 +1,10 @@
+<snippet>	
+	<content><![CDATA[
+if not os.path.exists(f"${1:}"):
+	os.makedirs(f"${1:}")
+
+]]></content>
+	<tabTrigger>mkdir</tabTrigger>
+	<scope>source.python</scope>
+	<description>safe mkdir</description>
+</snippet>

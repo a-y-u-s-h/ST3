@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.difference(${2:another})
+]]></content>
+	<tabTrigger>setdifference</tabTrigger>
+	<scope>source.python</scope>
+	<description>set difference</description>
+</snippet>
+

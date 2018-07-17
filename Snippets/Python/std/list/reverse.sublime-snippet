@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:list}.reverse()
+]]></content>
+	<tabTrigger>lreverse</tabTrigger>
+	<scope>source.python</scope>
+	<description>list reverse</description>
+</snippet>
+

@@ -1,0 +1,10 @@
+<snippet>	
+	<content><![CDATA[
+if os.path.exists(f"${1:}"):
+    shutil.rmtree(f"${1:}")
+
+]]></content>
+	<tabTrigger>rmdir</tabTrigger>
+	<scope>source.python</scope>
+	<description>safe recursive rmdir</description>
+</snippet>

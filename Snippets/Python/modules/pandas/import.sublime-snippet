@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+import pandas as pd
+
+]]></content>
+	<tabTrigger>pandasimport</tabTrigger>
+	<scope>source.python</scope>
+	<description>import</description>
+</snippet>

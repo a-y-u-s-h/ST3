@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:list}.index(${0})
+]]></content>
+	<tabTrigger>lindex</tabTrigger>
+	<scope>source.python</scope>
+	<description>list index</description>
+</snippet>
+

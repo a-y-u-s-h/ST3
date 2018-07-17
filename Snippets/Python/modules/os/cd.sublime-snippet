@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.chdir(f"${1}")
+]]></content>
+	<tabTrigger>cd</tabTrigger>
+	<scope>source.python</scope>
+	<description>cd</description>
+</snippet>

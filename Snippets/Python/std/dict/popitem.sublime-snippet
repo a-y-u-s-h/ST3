@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:dict}.popitem()
+]]></content>
+	<tabTrigger>dictpopitem</tabTrigger>
+	<scope>source.python</scope>
+	<description>dict popitem</description>
+</snippet>
+

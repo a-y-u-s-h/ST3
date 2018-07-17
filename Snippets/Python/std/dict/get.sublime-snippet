@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:dict}.get(${0})
+]]></content>
+	<tabTrigger>dictget</tabTrigger>
+	<scope>source.python</scope>
+	<description>dict get</description>
+</snippet>
+

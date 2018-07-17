@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+help(type(${0:variable}))
+]]></content>
+	<tabTrigger>help</tabTrigger>
+	<scope>source.python</scope>
+	<description>help</description>
+</snippet>
+

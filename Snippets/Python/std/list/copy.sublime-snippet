@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${0:list}.copy()
+]]></content>
+	<tabTrigger>lcopy</tabTrigger>
+	<scope>source.python</scope>
+	<description>list copy</description>
+</snippet>
+

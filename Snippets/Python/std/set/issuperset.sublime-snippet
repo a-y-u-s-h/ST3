@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.issuperset(${2:another})
+]]></content>
+	<tabTrigger>setissuperset</tabTrigger>
+	<scope>source.python</scope>
+	<description>set issuperset</description>
+</snippet>
+

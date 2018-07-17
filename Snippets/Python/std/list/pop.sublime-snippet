@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:list}.pop(${0:index})
+]]></content>
+	<tabTrigger>lpop</tabTrigger>
+	<scope>source.python</scope>
+	<description>list pop</description>
+</snippet>
+

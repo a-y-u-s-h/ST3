@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.remove(${2:element})
+]]></content>
+	<tabTrigger>setremove</tabTrigger>
+	<scope>source.python</scope>
+	<description>set remove</description>
+</snippet>
+
