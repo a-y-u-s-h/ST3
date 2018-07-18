@@ -1,5 +1,6 @@
 <snippet>	
 	<content><![CDATA[
+# `take` : ${1:}
 if not os.path.exists(f"${1:}"):
 	os.makedirs(f"${1:}")
 os.chdir(f"${1:}")

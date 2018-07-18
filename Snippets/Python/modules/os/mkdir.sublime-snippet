@@ -1,5 +1,6 @@
 <snippet>	
 	<content><![CDATA[
+# `make directory tree` : ${1:}
 if not os.path.exists(f"${1:}"):
 	os.makedirs(f"${1:}")
 

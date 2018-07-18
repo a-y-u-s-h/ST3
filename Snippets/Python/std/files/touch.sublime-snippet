@@ -1,0 +1,13 @@
+<snippet>	
+	<content><![CDATA[
+# `create` : ${1:}
+if not os.path.exists(f"${1:}"):
+	with open(f"${1:}", "w") as file:
+		pass
+
+]]></content>
+	<tabTrigger>touch</tabTrigger>
+	<scope>source.python</scope>
+	<description>touch</description>
+</snippet>
+
