@@ -2,7 +2,7 @@
 	<content><![CDATA[
 # `edit` : ${1:}
 with open(f"${1:}", "w") as file:
-	file.write(f"${0:}")
+	file.write(f"${2:}")
 
 ]]></content>
 	<tabTrigger>edit</tabTrigger>

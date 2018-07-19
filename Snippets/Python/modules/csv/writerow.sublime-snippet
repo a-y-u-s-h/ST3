@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:writer}.writerow(${2:line})
+]]></content>
+	<tabTrigger>writerow</tabTrigger>
+	<scope>source.python</scope>
+	<description>writerow csv</description>
+</snippet>
+

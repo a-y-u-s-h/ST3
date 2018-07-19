@@ -1,0 +1,11 @@
+<snippet>	
+	<content><![CDATA[
+for file in glob.glob("./*"):
+	os.remove(file)
+
+]]></content>
+	<tabTrigger>removeallfilesinafolder</tabTrigger>
+	<scope>source.python</scope>
+	<description>removeallfilesinafolder</description>
+</snippet>
+
