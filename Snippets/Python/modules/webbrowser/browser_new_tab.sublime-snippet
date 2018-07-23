@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+webbrowser.open_new_tab(f"${1:url}")
+]]></content>
+	<tabTrigger>browsernewtab</tabTrigger>
+	<scope>source.python</scope>
+	<description>browser new tab</description>
+</snippet>
