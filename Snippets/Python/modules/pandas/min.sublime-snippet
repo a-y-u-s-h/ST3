@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+${1:dataframe}[${0::}].min()
+]]></content>
+	<tabTrigger>dfmin</tabTrigger>
+	<scope>source.python</scope>
+	<description>pandas df min</description>
+</snippet>

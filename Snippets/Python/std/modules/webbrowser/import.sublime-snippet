@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+import webbrowser
+
+]]></content>
+	<tabTrigger>webimport</tabTrigger>
+	<scope>source.python</scope>
+	<description>import</description>
+</snippet>

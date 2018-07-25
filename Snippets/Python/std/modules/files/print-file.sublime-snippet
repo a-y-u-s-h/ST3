@@ -1,0 +1,12 @@
+<snippet>	
+	<content><![CDATA[
+# `print` contents of : ${1:}
+with open(f"${1:}", "r") as file:
+	print(file.read())
+
+]]></content>
+	<tabTrigger>prfile</tabTrigger>
+	<scope>source.python</scope>
+	<description>print file</description>
+</snippet>
+

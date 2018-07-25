@@ -1,0 +1,14 @@
+<snippet>	
+	<content><![CDATA[
+chunksize = ${2:}
+chunk = ${1:file}.read(chunksize)
+while len(chunk) > 0:
+	${0}
+	chunk = ${1:file}.read(chunksize)
+
+]]></content>
+	<tabTrigger>readchunk</tabTrigger>
+	<scope>source.python</scope>
+	<description>readchunk</description>
+</snippet>
+

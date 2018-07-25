@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+import os
+
+]]></content>
+	<tabTrigger>osimport</tabTrigger>
+	<scope>source.python</scope>
+	<description>import</description>
+</snippet>

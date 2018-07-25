@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+${1:dataframe}[${2:x} : ${3:y} : ${4:1}]
+]]></content>
+	<tabTrigger>dfrows</tabTrigger>
+	<scope>source.python</scope>
+	<description>pandas df rows</description>
+</snippet>

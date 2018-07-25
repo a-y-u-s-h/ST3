@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.listdir(${1:})
+]]></content>
+	<tabTrigger>ls</tabTrigger>
+	<scope>source.python</scope>
+	<description>ls</description>
+</snippet>

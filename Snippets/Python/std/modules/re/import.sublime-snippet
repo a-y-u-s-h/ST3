@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+import re
+
+]]></content>
+	<tabTrigger>reimport</tabTrigger>
+	<scope>source.python</scope>
+	<description>import</description>
+</snippet>

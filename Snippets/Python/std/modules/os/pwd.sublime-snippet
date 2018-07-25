@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.getcwd()
+]]></content>
+	<tabTrigger>pwd</tabTrigger>
+	<scope>source.python</scope>
+	<description>import</description>
+</snippet>

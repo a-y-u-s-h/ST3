@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+logger.setLevel(logging.${1:DEBUG})
+]]></content>
+	<tabTrigger>loggersetLevel</tabTrigger>
+	<scope>source.python</scope>
+	<description>loggersetLevel</description>
+</snippet>

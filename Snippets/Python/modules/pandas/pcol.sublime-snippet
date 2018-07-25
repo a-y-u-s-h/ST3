@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+["${0}"]
+]]></content>
+	<tabTrigger>pcol</tabTrigger>
+	<scope>source.python</scope>
+	<description>pandas cols</description>
+</snippet>

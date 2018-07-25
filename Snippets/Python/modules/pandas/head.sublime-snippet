@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+${1:dataframe}.head(${2})
+]]></content>
+	<tabTrigger>dfhead</tabTrigger>
+	<scope>source.python</scope>
+	<description>pandas df.head</description>
+</snippet>

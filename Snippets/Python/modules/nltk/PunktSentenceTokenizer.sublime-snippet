@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+PunktSentenceTokenizer(${0})
+
+]]></content>
+	<tabTrigger>ptokenize</tabTrigger>
+	<scope>source.python</scope>
+	<description>PunktSentenceTokenizer</description>
+</snippet>

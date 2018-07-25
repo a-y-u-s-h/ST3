@@ -1,0 +1,25 @@
+<snippet>	
+	<content><![CDATA[
+# Capture Camera : ${1:0}
+# Quit when `${2:q}` key is pressed.
+
+capture = cv2.VideoCapture(${1:0})
+
+while True:
+	returning, frame = capture.read()
+	
+	${0}
+	
+	cv2.imshow(f"frame",frame)
+	if cv2.waitKey(1) & 0xFF == ord(f"${2:q}"):
+		break
+
+capture.release()
+cv2.destroyAllWindows()
+
+
+]]></content>
+	<tabTrigger>readvideo</tabTrigger>
+	<scope>source.python</scope>
+	<description>cv2 read</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>	
+	<content><![CDATA[
+from random import randint
+
+]]></content>
+	<tabTrigger>randomimport</tabTrigger>
+	<scope>source.python</scope>
+	<description>randimport</description>
+</snippet>
+

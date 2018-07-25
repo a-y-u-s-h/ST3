@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+logger.exception(f"${1}")
+]]></content>
+	<tabTrigger>logexception</tabTrigger>
+	<scope>source.python</scope>
+	<description>log.exception</description>
+</snippet>
