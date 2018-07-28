@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-word_tokenize(${0})
-
-]]></content>
-	<tabTrigger>wtokenize</tabTrigger>
-	<scope>source.python</scope>
-	<description>word tokenize</description>
-</snippet>

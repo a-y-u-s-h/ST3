@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:set}.pop()
-]]></content>
-	<tabTrigger>setpop</tabTrigger>
-	<scope>source.python</scope>
-	<description>set pop</description>
-</snippet>
-

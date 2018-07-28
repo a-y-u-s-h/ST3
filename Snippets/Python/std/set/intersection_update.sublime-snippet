@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:set}.intersection_update(${2:another})
-]]></content>
-	<tabTrigger>setintersectionupdate</tabTrigger>
-	<scope>source.python</scope>
-	<description>set intersection_update</description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:file}.seek(${2:})
-]]></content>
-	<tabTrigger>seek</tabTrigger>
-	<scope>source.python</scope>
-	<description>seek</description>
-</snippet>
-

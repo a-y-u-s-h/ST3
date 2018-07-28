@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-import nltk
-
-]]></content>
-	<tabTrigger>nltkimport</tabTrigger>
-	<scope>source.python</scope>
-	<description>import</description>
-</snippet>

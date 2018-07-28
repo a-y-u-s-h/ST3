@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-import ${1} as ${0}
-]]></content>
-	<tabTrigger>importas</tabTrigger>
-	<scope>source.python</scope>
-	<description>import as</description>
-</snippet>

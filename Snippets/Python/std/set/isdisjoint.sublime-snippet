@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:set}.isdisjoint(${2:another})
-]]></content>
-	<tabTrigger>setisdisjoint</tabTrigger>
-	<scope>source.python</scope>
-	<description>set isdisjoint</description>
-</snippet>
-

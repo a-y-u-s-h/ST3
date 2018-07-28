@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:dataframe}[${2::}].describe()
-]]></content>
-	<tabTrigger>dfdescribe</tabTrigger>
-	<scope>source.python</scope>
-	<description>pandas df describe</description>
-</snippet>

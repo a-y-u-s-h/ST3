@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${0} = pandas.read_csv(f"${1}.csv", delimiter = "${2:,}")
-]]></content>
-	<tabTrigger>pandasreadcsv</tabTrigger>
-	<scope>source.python</scope>
-	<description>pandas read csv</description>
-</snippet>

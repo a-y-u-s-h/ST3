@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-help(${0:module})
-]]></content>
-	<tabTrigger>modhelp</tabTrigger>
-	<scope>source.python</scope>
-	<description>module help</description>
-</snippet>
-

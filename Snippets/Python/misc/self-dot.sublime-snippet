@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-self.
-]]></content>
-	<tabTrigger>s.</tabTrigger>
-	<scope>source.python</scope>
-	<description>self.</description>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:set}.issubset(${2:another})
-]]></content>
-	<tabTrigger>setissubset</tabTrigger>
-	<scope>source.python</scope>
-	<description>set issubset</description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-${1:string}.replace(${0})
-]]></content>
-	<tabTrigger>sreplace</tabTrigger>
-	<scope>source.python</scope>
-	<description>self.</description>
-</snippet>
-

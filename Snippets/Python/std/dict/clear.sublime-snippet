@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:dict}.clear()
-]]></content>
-	<tabTrigger>dictclear</tabTrigger>
-	<scope>source.python</scope>
-	<description>dict clear</description>
-</snippet>
-

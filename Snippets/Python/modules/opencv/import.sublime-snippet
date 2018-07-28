@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-import cv2
-
-]]></content>
-	<tabTrigger>cv2import</tabTrigger>
-	<scope>source.python</scope>
-	<description>cv2 import</description>
-</snippet>

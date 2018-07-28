@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-open(f"${2:}", "${1:r+}")
-]]></content>
-	<tabTrigger>open</tabTrigger>
-	<scope>source.python</scope>
-	<description>open</description>
-</snippet>
-

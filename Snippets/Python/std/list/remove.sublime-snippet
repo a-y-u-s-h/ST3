@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:list}.remove(${0:value})
-]]></content>
-	<tabTrigger>lremove</tabTrigger>
-	<scope>source.python</scope>
-	<description>list remove</description>
-</snippet>
-

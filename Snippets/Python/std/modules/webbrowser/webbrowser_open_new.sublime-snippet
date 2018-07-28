@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-webbrowser.open_new(f"${1:url}")
-]]></content>
-	<tabTrigger>browseropenurl</tabTrigger>
-	<scope>source.python</scope>
-	<description>browser open url</description>
-</snippet>

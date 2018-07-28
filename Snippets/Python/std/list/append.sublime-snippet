@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:list}.append(${0:object})
-]]></content>
-	<tabTrigger>lappend</tabTrigger>
-	<scope>source.python</scope>
-	<description>list append</description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:set}.difference_update(${2:another})
-]]></content>
-	<tabTrigger>setdifferenceupdate</tabTrigger>
-	<scope>source.python</scope>
-	<description>set difference_update</description>
-</snippet>
-

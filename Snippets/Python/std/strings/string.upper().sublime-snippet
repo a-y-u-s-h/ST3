@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-${0:string}.upper()
-]]></content>
-	<tabTrigger>supper</tabTrigger>
-	<scope>source.python</scope>
-	<description>self.</description>
-</snippet>
-

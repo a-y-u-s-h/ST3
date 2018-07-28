@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-logging.info(f"${1}")
-]]></content>
-	<tabTrigger>loginfo</tabTrigger>
-	<scope>source.python</scope>
-	<description>log.info</description>
-</snippet>

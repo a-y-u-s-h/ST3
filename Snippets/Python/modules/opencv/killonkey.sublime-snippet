@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-cv2.waitKey(0)
-cv2.destroyAllWindows()
-]]></content>
-	<tabTrigger>kk</tabTrigger>
-	<scope>source.python</scope>
-	<description>cv2 destroy all windows</description>
-</snippet>

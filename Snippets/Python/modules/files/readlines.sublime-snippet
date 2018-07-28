@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:file}.readlines()
-]]></content>
-	<tabTrigger>readlines</tabTrigger>
-	<scope>source.python</scope>
-	<description>readlines</description>
-</snippet>
-

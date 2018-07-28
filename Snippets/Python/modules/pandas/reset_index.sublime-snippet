@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:dataframe}.reset_index(inplace = True)
-]]></content>
-	<tabTrigger>dfresetindex</tabTrigger>
-	<scope>source.python</scope>
-	<description>pandas df reset index</description>
-</snippet>

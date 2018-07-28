@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-os.path.isfile(f"${1:}")
-]]></content>
-	<tabTrigger>isfile</tabTrigger>
-	<scope>source.python</scope>
-	<description>Is file?</description>
-</snippet>

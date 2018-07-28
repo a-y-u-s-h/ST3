@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${0:list}.clear()
-]]></content>
-	<tabTrigger>lclear</tabTrigger>
-	<scope>source.python</scope>
-	<description>list clear</description>
-</snippet>
-

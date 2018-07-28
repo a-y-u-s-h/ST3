@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:file}.close()
-]]></content>
-	<tabTrigger>close</tabTrigger>
-	<scope>source.python</scope>
-	<description>close</description>
-</snippet>
-

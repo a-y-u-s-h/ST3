@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-os.system(f"${0}")
-]]></content>
-	<tabTrigger>shell</tabTrigger>
-	<scope>source.python</scope>
-	<description>sub shell</description>
-</snippet>

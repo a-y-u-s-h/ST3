@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${2:image} = cv2.imread(f"${1}", cv2.IMREAD_GRAYSCALE)
-]]></content>
-	<tabTrigger>readimage</tabTrigger>
-	<scope>source.python</scope>
-	<description>cv2 read</description>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:set}.add(${0:element})
-]]></content>
-	<tabTrigger>setadd</tabTrigger>
-	<scope>source.python</scope>
-	<description>set add</description>
-</snippet>
-

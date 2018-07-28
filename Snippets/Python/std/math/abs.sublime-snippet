@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-abs(${0:variable})
-]]></content>
-	<tabTrigger>abs</tabTrigger>
-	<scope>source.python</scope>
-	<description>abs</description>
-</snippet>
-

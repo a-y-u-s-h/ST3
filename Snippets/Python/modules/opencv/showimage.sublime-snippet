@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-cv2.imshow(f"${1}", ${2})
-]]></content>
-	<tabTrigger>imageshow</tabTrigger>
-	<scope>source.python</scope>
-	<description>cv2 show</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-logger.critical(f"${1}")
-]]></content>
-	<tabTrigger>logcritical</tabTrigger>
-	<scope>source.python</scope>
-	<description>log.critical</description>
-</snippet>

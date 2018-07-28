@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:file}.tell()
-]]></content>
-	<tabTrigger>tell</tabTrigger>
-	<scope>source.python</scope>
-	<description>tell</description>
-</snippet>
-

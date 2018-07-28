@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:set}.update(${2:...})
-]]></content>
-	<tabTrigger>setupdate</tabTrigger>
-	<scope>source.python</scope>
-	<description>set update</description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:list}.insert(${2:index}, ${3:object})
-]]></content>
-	<tabTrigger>linsert</tabTrigger>
-	<scope>source.python</scope>
-	<description>list insert</description>
-</snippet>
-

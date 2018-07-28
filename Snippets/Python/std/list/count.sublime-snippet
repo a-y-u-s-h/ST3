@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:list}.count(${1:value})
-]]></content>
-	<tabTrigger>lcount</tabTrigger>
-	<scope>source.python</scope>
-	<description>list count</description>
-</snippet>
-

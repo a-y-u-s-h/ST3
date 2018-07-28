@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-import glob
-
-]]></content>
-	<tabTrigger>globimport</tabTrigger>
-	<scope>source.python</scope>
-	<description>import</description>
-</snippet>

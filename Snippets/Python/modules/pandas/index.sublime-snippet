@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:dataframe}.index
-]]></content>
-	<tabTrigger>dfindex</tabTrigger>
-	<scope>source.python</scope>
-	<description>pandas df index</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-os.path.isdir(f"${1:}")
-]]></content>
-	<tabTrigger>isdir</tabTrigger>
-	<scope>source.python</scope>
-	<description>Is dir?</description>
-</snippet>

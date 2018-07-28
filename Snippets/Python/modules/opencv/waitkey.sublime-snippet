@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-cv2.waitKey(0)
-]]></content>
-	<tabTrigger>waitkey</tabTrigger>
-	<scope>source.python</scope>
-	<description>cv2 waitkey</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-${1:dataframe}.tail(${2})
-]]></content>
-	<tabTrigger>dftail</tabTrigger>
-	<scope>source.python</scope>
-	<description>pandas df.tail</description>
-</snippet>

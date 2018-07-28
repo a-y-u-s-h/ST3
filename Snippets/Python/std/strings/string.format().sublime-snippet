@@ -1,9 +1,0 @@
-<snippet>	
-	<content><![CDATA[
-f"${0:string}"
-]]></content>
-	<tabTrigger>sformat</tabTrigger>
-	<scope>source.python</scope>
-	<description>self.</description>
-</snippet>
-
