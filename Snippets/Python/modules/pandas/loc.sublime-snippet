@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+${1:dataframe}.loc[${0}]
+]]></content>
+	<tabTrigger>dfloc</tabTrigger>
+	<scope>source.python</scope>
+	<description>pandas df loc</description>
+</snippet>

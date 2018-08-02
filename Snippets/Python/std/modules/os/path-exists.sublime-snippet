@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.path.exists(f"${1:}")
+]]></content>
+	<tabTrigger>pathexists</tabTrigger>
+	<scope>source.python</scope>
+	<description>path exists?</description>
+</snippet>

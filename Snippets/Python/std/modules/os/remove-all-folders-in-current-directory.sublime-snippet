@@ -1,0 +1,12 @@
+<snippet>	
+	<content><![CDATA[
+# Remove all folders in current directory..
+for f in os.listdir():
+	if os.path.exists(f"{f}") and os.path.isdir(f"{f}"):
+	    shutil.rmtree(f"{f}")
+
+]]></content>
+	<tabTrigger>rmalldirectories</tabTrigger>
+	<scope>source.python</scope>
+	<description>rm.d</description>
+</snippet>

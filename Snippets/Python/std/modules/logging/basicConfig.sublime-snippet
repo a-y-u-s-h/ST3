@@ -1,0 +1,13 @@
+<snippet>	
+	<content><![CDATA[
+logging.basicConfig(
+	filename = f"${1:}",
+	level = logging.${2:DEBUG},
+	format="Logger : %(name)s \nLevel : %(levelname)s\nTime : %(asctime)s\nFunction: %(funcName)s\nMessage : %(message)s\n---------"	
+)
+
+]]></content>
+	<tabTrigger>loggingbasicconfig</tabTrigger>
+	<scope>source.python</scope>
+	<description>loggingbasicconfig</description>
+</snippet>

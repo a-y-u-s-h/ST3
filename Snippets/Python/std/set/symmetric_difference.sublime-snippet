@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.symmetric_difference(${2:another})
+]]></content>
+	<tabTrigger>setsymmetric_difference</tabTrigger>
+	<scope>source.python</scope>
+	<description>set symmetric_difference</description>
+</snippet>
+

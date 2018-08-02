@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.environ
+]]></content>
+	<tabTrigger>environmentvariables</tabTrigger>
+	<scope>source.python</scope>
+	<description>enviroment variables</description>
+</snippet>

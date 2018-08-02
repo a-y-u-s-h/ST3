@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:dict}.copy()
+]]></content>
+	<tabTrigger>dictcopy</tabTrigger>
+	<scope>source.python</scope>
+	<description>dict copy</description>
+</snippet>
+

@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+${0} = pandas.read_excel(f"${1}.xlxs", "${2:sheet}")
+]]></content>
+	<tabTrigger>pandasreadexcel</tabTrigger>
+	<scope>source.python</scope>
+	<description>pandas read excel</description>
+</snippet>

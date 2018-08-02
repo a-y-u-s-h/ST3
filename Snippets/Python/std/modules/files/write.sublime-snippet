@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:file}.write(f"${2:}")
+]]></content>
+	<tabTrigger>write</tabTrigger>
+	<scope>source.python</scope>
+	<description>write</description>
+</snippet>
+

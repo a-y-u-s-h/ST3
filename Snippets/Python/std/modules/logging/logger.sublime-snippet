@@ -1,0 +1,25 @@
+<snippet>	
+	<content><![CDATA[
+# Setting up Logger : 
+
+# Name : ${1:__name__}
+# Config : ${2:./logs/config.txt}
+# Level : ${3:DEBUG}
+# Output : ${4:./logs/$TM_FILENAME}.log
+
+logger = logging.getLogger(${1:__name__})
+with open(f"${2:/logs/config.txt}", "r") as file:
+	logger.formatting = file.read()
+
+logger.setLevel(logging.${3:DEBUG})
+logger.handler = logging.FileHandler(f"${4:/logs/$TM_FILEPATH}.log")
+
+logger.formatter = logging.Formatter(logger.formatting)
+logger.handler.setFormatter(logger.formatter)
+logger.addHandler(logger.handler)
+
+]]></content>
+	<tabTrigger>logger</tabTrigger>
+	<scope>source.python</scope>
+	<description>logger</description>
+</snippet>

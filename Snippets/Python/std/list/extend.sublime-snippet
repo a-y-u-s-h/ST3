@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:list}.extend(${0:iterable})
+]]></content>
+	<tabTrigger>lextend</tabTrigger>
+	<scope>source.python</scope>
+	<description>list extend</description>
+</snippet>
+

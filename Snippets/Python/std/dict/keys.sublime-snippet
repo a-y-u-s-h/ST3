@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:dict}.keys()
+]]></content>
+	<tabTrigger>dictkeys</tabTrigger>
+	<scope>source.python</scope>
+	<description>dict keys</description>
+</snippet>
+

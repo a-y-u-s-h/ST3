@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.path.basename(f"${1:}")
+]]></content>
+	<tabTrigger>basename</tabTrigger>
+	<scope>source.python</scope>
+	<description>basename</description>
+</snippet>

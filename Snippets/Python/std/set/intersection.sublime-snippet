@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.intersection(${2:another})
+]]></content>
+	<tabTrigger>setintersection</tabTrigger>
+	<scope>source.python</scope>
+	<description>set intersection</description>
+</snippet>
+

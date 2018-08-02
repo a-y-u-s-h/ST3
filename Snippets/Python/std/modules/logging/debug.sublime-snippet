@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+logging.debug(f"${1}")
+]]></content>
+	<tabTrigger>logdebug</tabTrigger>
+	<scope>source.python</scope>
+	<description>log.debug</description>
+</snippet>

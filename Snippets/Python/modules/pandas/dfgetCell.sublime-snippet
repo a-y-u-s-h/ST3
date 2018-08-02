@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+${1:dataframe}[f"${3:y}"].iloc[${2:x}]
+]]></content>
+	<tabTrigger>dfelement</tabTrigger>
+	<scope>source.python</scope>
+	<description>pandas df rows</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+from PIL import Image
+
+]]></content>
+	<tabTrigger>pillowimport</tabTrigger>
+	<scope>source.python</scope>
+	<description>import</description>
+</snippet>

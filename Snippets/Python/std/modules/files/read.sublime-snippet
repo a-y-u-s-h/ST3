@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:file}.read(${2:})
+]]></content>
+	<tabTrigger>readfile</tabTrigger>
+	<scope>source.python</scope>
+	<description>read</description>
+</snippet>
+

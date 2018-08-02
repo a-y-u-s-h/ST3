@@ -1,0 +1,12 @@
+<snippet>	
+	<content><![CDATA[
+# `copy` from : ${1:src} 
+# `paste` into : ${2:dest}
+if os.path.exists(f"${1:src}") and not os.path.exists(f"${2:dest}") :
+	shutil.copytree(f"${1:src}", f"${2:dest}")
+
+]]></content>
+	<tabTrigger>cpdirectorytree</tabTrigger>
+	<scope>source.python</scope>
+	<description>copypaste</description>
+</snippet>

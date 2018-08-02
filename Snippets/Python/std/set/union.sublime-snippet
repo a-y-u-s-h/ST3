@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.union(${2:...})
+]]></content>
+	<tabTrigger>setunion</tabTrigger>
+	<scope>source.python</scope>
+	<description>set union</description>
+</snippet>
+

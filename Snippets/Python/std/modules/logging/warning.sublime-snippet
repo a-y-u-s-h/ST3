@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+logger.warning(f"${1}")
+]]></content>
+	<tabTrigger>logwarning</tabTrigger>
+	<scope>source.python</scope>
+	<description>log.warning</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+import shutil
+
+]]></content>
+	<tabTrigger>shutilimport</tabTrigger>
+	<scope>source.python</scope>
+	<description>import shutil</description>
+</snippet>

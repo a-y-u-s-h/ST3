@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.clear()
+]]></content>
+	<tabTrigger>setclear</tabTrigger>
+	<scope>source.python</scope>
+	<description>set clear</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.copy()
+]]></content>
+	<tabTrigger>setcopy</tabTrigger>
+	<scope>source.python</scope>
+	<description>set copy</description>
+</snippet>
+

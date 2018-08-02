@@ -1,0 +1,9 @@
+<snippet>	
+	<content><![CDATA[
+${1:set}.discard(${2:element})
+]]></content>
+	<tabTrigger>setdiscard</tabTrigger>
+	<scope>source.python</scope>
+	<description>set discard</description>
+</snippet>
+

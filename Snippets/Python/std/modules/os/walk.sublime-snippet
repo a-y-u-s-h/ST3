@@ -1,0 +1,11 @@
+<snippet>	
+	<content><![CDATA[
+if os.path.exists(f"${1:}"):
+	for path, folders, files in os.walk(f"${1:}"):
+		${0}
+
+]]></content>
+	<tabTrigger>walk</tabTrigger>
+	<scope>source.python</scope>
+	<description>walk</description>
+</snippet>

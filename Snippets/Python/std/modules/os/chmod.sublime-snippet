@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.chmod(f"${1:}", 0o${2:777})
+]]></content>
+	<tabTrigger>chmod</tabTrigger>
+	<scope>source.python</scope>
+	<description>chmod</description>
+</snippet>

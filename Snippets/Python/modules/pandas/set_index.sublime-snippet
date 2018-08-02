@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+${1:dataframe}.set_index("${0:index}", inplace = True)
+]]></content>
+	<tabTrigger>dfsetindex</tabTrigger>
+	<scope>source.python</scope>
+	<description>pandas df set index</description>
+</snippet>

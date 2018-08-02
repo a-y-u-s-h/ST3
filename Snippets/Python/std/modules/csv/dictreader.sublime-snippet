@@ -1,0 +1,13 @@
+<snippet>	
+	<content><![CDATA[
+# `read` csv : ${1:}.csv
+with open(f"${1:}.csv", "r") as rfile:
+	reader = csv.DictReader(rfile, delimiter = "${2:,}")
+	${0}
+
+]]></content>
+	<tabTrigger>dictreader</tabTrigger>
+	<scope>source.python</scope>
+	<description>read csv</description>
+</snippet>
+

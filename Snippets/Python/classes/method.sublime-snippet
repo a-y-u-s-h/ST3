@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+def ${1:function}(self${2}):
+	"""	
+	-------------------------------------
+
+		${3:Description}
+
+	-------------------------------------
+
+		args => ${4}
+		kwargs => ${5:None}
+		
+	-------------------------------------	
+	"""
+	${0:pass}
+]]></content>
+	<tabTrigger>method</tabTrigger>
+	<scope>source.python</scope>
+	<description>New method</description>
+</snippet>

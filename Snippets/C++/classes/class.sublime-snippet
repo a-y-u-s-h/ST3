@@ -1,7 +1,15 @@
 <snippet>
 	<content><![CDATA[
 class ${1:ClassName} {
-	${0}
+	private:
+		
+
+	public:
+		${1:ClassName}()  {
+		
+		}
+
+		${0}
 };
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
