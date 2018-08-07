@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+${1:} = re.compile(f"${2}", re.IGNORECASE)
+]]></content>
+	<tabTrigger>recompile</tabTrigger>
+	<scope>source.python</scope>
+	<description>re compile</description>
+</snippet>

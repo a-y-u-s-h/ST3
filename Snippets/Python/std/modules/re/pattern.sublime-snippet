@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+pattern = re.compile(r"${0}", ${1:re.IGNORECASE})
+]]></content>
+	<tabTrigger>pattern</tabTrigger>
+	<scope>source.python</scope>
+	<description>pattern</description>
+</snippet>

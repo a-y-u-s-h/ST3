@@ -1,9 +1,9 @@
 <snippet>	
 	<content><![CDATA[
-f"${0:string}"
+f"${0:}"
 ]]></content>
 	<tabTrigger>sformat</tabTrigger>
 	<scope>source.python</scope>
-	<description>self.</description>
+	<description>formatted string</description>
 </snippet>
 
