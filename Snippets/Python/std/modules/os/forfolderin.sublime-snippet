@@ -1,0 +1,10 @@
+<snippet> 
+  <content><![CDATA[
+for folder in glob.glob(f"${1:./*}"):
+  if os.path.isdir(f"{folder}"):
+    ${0}
+]]></content>
+  <tabTrigger>ffolder</tabTrigger>
+  <scope>source.python</scope>
+  <description>for file in glob.glob</description>
+</snippet>

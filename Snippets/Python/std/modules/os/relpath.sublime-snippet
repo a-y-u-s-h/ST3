@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.path.relpath(f"${1:}")
+]]></content>
+	<tabTrigger>rpath</tabTrigger>
+	<scope>source.python</scope>
+	<description>relative path</description>
+</snippet>

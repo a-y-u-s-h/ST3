@@ -2,7 +2,8 @@
 	<content><![CDATA[
 # `remove` all files in current directory.
 for file in glob.glob("./*"):
-	os.remove(file)
+  if os.path.isfile(f"{file}"):
+    os.remove(file)
 
 ]]></content>
 	<tabTrigger>removeallfilesinafolder</tabTrigger>

@@ -22,7 +22,11 @@
 	{ "keys": ["shift+ctrl+alt+n"], "command": "advanced_new_file_new", "args": {"is_python": true}},
 	{ "keys": ["alt+g"], "command": "find_under" },
 	{ "keys": ["shift+alt+g"], "command": "find_under_prev" },
-
+	{ "keys": ["alt+shift+."], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/C++/right-shift.sublime-macro"}},
+	{ "keys": ["alt+shift+,"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/C++/left-shift.sublime-macro"}},
+	{ "keys": ["alt+down"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Python/godown.sublime-macro"}},
+	{ "keys": ["ctrl+'"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/quotes.sublime-macro"}},
+	{ "keys": ["ctrl+shift+'"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Python/formattedstring.sublime-macro"}},
 	{
 		"keys": ["tab"],
 		"command": "insert",

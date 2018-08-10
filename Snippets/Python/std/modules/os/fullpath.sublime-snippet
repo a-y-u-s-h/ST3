@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.path.abspath(f"${1:}")
+]]></content>
+	<tabTrigger>fpath</tabTrigger>
+	<scope>source.python</scope>
+	<description>full path</description>
+</snippet>

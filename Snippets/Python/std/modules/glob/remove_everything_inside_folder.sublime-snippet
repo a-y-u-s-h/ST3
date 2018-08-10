@@ -1,0 +1,15 @@
+<snippet> 
+  <content><![CDATA[
+# `remove` everything in current directory.
+for f in os.listdir():
+  if os.path.isfile(f"{f}"):
+    os.remove(f)
+  elif os.path.isdir(f"{f}"):
+    shutil.rmtree(f"{f}")
+
+]]></content>
+  <tabTrigger>rmallcurrentdir</tabTrigger>
+  <scope>source.python</scope>
+  <description>remove everything inside current directory</description>
+</snippet>
+

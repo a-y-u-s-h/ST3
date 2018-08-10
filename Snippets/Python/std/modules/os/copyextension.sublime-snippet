@@ -1,13 +1,13 @@
 <snippet> 
   <content><![CDATA[
-# `move` files with ext : .${1:ext}
+# `copy` files with ext : .${1:ext}
 # from source : ${2:.}
 # to destination : ${3:dest}
 for file in glob.glob(f"${2:.}/*.${1:ext}"):
   if os.path.exists(f"${2:.}") and not os.path.exists(f"${3:dest}/{file}"):
-    shutil.move(file, f"${3:dest}/")  
+    shutil.copy2(file, f"${3:dest}/")  
 ]]></content>
-  <tabTrigger>moveextension</tabTrigger>
+  <tabTrigger>copyextension</tabTrigger>
   <scope>source.python</scope>
   <description>copypaste</description>
 </snippet>

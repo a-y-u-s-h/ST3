@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+os.path.dirname(f"${0:file}")
+]]></content>
+  <tabTrigger>foldername</tabTrigger>
+  <scope>source.python</scope>
+  <description>enviroment variables</description>
+</snippet>

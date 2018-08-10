@@ -1,6 +1,9 @@
 <snippet>
 	<description>new-line</description>
-	<content><![CDATA[<< "\n";]]></content>
+	<content><![CDATA[
+cout << endl;
+
+]]></content>
 	<tabTrigger>nl</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

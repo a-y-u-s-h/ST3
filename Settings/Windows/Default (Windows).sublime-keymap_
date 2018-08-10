@@ -1,8 +1,0 @@
-[
-	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
-	{ "keys": ["alt+shift+up"], "command": "goto_definition" },
-	{ "keys": ["alt+shift+down"], "command": "goto_reference" },
-	{ "keys": ["alt+q"], "command": "run_macro_file", "args": {"file": "Packages/User/godown.sublime-macro"}},
-	{ "keys": ["ctrl+'"], "command": "run_macro_file", "args": {"file": "Packages/User/quotes.sublime-macro"}},
-	{ "keys": ["alt+shift+l"], "command": "side_bar_copy_name" }
-]
