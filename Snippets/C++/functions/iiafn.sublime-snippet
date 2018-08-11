@@ -1,6 +1,10 @@
 <snippet>
 	<content><![CDATA[
-[](${1:args}) { ${2:return ${3};} }(${4:arguments})
+[${1:&}](${2:args}) mutable {
+
+  ${0}
+
+}(${3:arguments});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>iiafun</tabTrigger>
