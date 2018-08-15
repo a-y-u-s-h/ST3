@@ -1,0 +1,12 @@
+<snippet> 
+  <content><![CDATA[
+for key, item in ${1:node}.items():
+    if item is collection:
+      walk(item)
+    else:
+      ${0}
+]]></content>
+  <tabTrigger>traverse</tabTrigger>
+  <scope>source.python</scope>
+  <description>import</description>
+</snippet>

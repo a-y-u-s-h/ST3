@@ -1,0 +1,10 @@
+<snippet> 
+  <content><![CDATA[
+with open(f"${1}", "r") as file:
+  content = yaml.load(file)
+    
+]]></content>
+  <tabTrigger>readyaml</tabTrigger>
+  <scope>source.python</scope>
+  <description>import</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+isinstance(${1:})
+]]></content>
+  <tabTrigger>isinstance</tabTrigger>
+  <scope>source.python</scope>
+  <description>isinstance</description>
+</snippet>
+
