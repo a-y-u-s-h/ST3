@@ -2,27 +2,23 @@
 	<content><![CDATA[
 #include <iostream>
 
-class Node {
+class Vertex {
   public:
     int data;
-    Node* left;
-    Node* right;
 
   public:
-    Node(int data = 0)  {
+    Vertex(int data = 0)  {
       this -> data = data;
-      this -> left = NULL;
-      this -> right = NULL;
     }
 
-    void print() {
-      std::cout << this -> data << std::endl;
+    void print(const char* end = " ") {
+      std::cout << this -> data << end;
     }
 };
 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>node</tabTrigger>
+	<tabTrigger>vertex</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

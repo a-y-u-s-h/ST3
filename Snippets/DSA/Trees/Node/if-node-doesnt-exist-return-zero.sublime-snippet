@@ -1,8 +1,7 @@
 <snippet>
   <description>Node : exit condition. If no node, exit</description>
   <content><![CDATA[
-if (!node) return 0;
-
+if (!${1:node}) return;
 ]]></content>
   <tabTrigger>nexit</tabTrigger>
   <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
