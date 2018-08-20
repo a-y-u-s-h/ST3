@@ -1,0 +1,13 @@
+<snippet> 
+  <content><![CDATA[
+ctx = tkinter.Canvas(tkinter.Tk().title(f"${1:}"), width = ${2:800}, height = ${3:600})
+ctx.pack()
+
+${0}
+
+tkinter.mainloop()
+]]></content>
+  <tabTrigger>cc</tabTrigger>
+  <scope>source.python</scope>
+  <description>import</description>
+</snippet>
