@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Math.atan2(${1})]]></content>
+  <tabTrigger>atan2</tabTrigger>
+  <scope>source.scala</scope>
+  <description>atan2</description>
+</snippet>

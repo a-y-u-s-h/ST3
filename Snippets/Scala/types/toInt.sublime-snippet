@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).toInt]]></content>
+  <tabTrigger>toint</tabTrigger>
+  <scope>source.scala</scope>
+  <description>greatest integer function</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[match {
+  case ${1:_} => $0
+}]]></content>
+  <tabTrigger>switch</tabTrigger>
+  <scope>source.scala</scope>
+  <description>switch</description>
+</snippet>

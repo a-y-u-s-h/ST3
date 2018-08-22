@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Math.cos(${1})]]></content>
+  <tabTrigger>cos</tabTrigger>
+  <scope>source.scala</scope>
+  <description>cos</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1:x} to ${2:y} by ${3:1})]]></content>
+  <tabTrigger>range</tabTrigger>
+  <scope>source.scala</scope>
+  <description>range</description>
+</snippet>

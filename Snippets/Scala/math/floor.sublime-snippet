@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Math.floor(${0})]]></content>
+  <tabTrigger>floor</tabTrigger>
+  <scope>source.scala</scope>
+  <description>Math.floor</description>
+</snippet>

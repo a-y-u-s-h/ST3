@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).toLong]]></content>
+  <tabTrigger>tolong</tabTrigger>
+  <scope>source.scala</scope>
+  <description>greatest integer function</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).MinValue]]></content>
+  <tabTrigger>vmin</tabTrigger>
+  <scope>source.scala</scope>
+  <description>to Binary String</description>
+</snippet>

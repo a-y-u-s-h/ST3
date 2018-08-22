@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Math.PI]]></content>
+  <tabTrigger>pi</tabTrigger>
+  <scope>source.scala</scope>
+  <description>greatest integer function</description>
+</snippet>

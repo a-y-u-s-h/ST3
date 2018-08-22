@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).toRadians]]></content>
+  <tabTrigger>toradians</tabTrigger>
+  <scope>source.scala</scope>
+  <description>toRadians</description>
+</snippet>

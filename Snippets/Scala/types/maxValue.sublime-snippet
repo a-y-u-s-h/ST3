@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).MaxValue]]></content>
+  <tabTrigger>vmax</tabTrigger>
+  <scope>source.scala</scope>
+  <description>to Binary String</description>
+</snippet>

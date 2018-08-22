@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).toDegrees]]></content>
+  <tabTrigger>todegrees</tabTrigger>
+  <scope>source.scala</scope>
+  <description>toDegrees</description>
+</snippet>

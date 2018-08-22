@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).toBinaryString]]></content>
+  <tabTrigger>tobs</tabTrigger>
+  <scope>source.scala</scope>
+  <description>to Binary String</description>
+</snippet>

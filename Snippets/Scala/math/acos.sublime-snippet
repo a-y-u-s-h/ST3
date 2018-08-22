@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Math.acos(${1})]]></content>
+  <tabTrigger>acos</tabTrigger>
+  <scope>source.scala</scope>
+  <description>acos</description>
+</snippet>
