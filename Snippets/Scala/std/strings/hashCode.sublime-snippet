@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).hashCode]]></content>
+  <tabTrigger>hashcode</tabTrigger>
+  <scope>source.scala</scope>
+  <description>hashCode</description>
+</snippet>

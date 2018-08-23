@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[${1:x} : Long]]></content>
+  <tabTrigger>long</tabTrigger>
+  <scope>source.scala</scope>
+  <description>long</description>
+</snippet>

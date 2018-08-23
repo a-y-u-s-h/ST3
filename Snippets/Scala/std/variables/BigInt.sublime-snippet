@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[${1:x} : BigInt]]></content>
+  <tabTrigger>bint</tabTrigger>
+  <scope>source.scala</scope>
+  <description>BigInt</description>
+</snippet>

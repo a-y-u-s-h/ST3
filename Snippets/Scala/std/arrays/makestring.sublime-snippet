@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).mkString(" ")]]></content>
+  <tabTrigger>makestring</tabTrigger>
+  <scope>source.scala</scope>
+  <description>convert into string</description>
+</snippet>

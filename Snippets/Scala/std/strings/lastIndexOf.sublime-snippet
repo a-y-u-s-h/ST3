@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).lastIndexOf(${2})]]></content>
+  <tabTrigger>lastindexof</tabTrigger>
+  <scope>source.scala</scope>
+  <description>lastIndexOf</description>
+</snippet>

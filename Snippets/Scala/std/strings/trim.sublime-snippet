@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).trim]]></content>
+  <tabTrigger>trim</tabTrigger>
+  <scope>source.scala</scope>
+  <description>trim</description>
+</snippet>

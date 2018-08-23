@@ -4,5 +4,5 @@
 (${0})
 ]]></content>
   <tabTrigger>9</tabTrigger>
-  <scope>source.lisp</scope>
+  <scope>source.lisp, source.js, source.cpp, source.scala</scope>
 </snippet>

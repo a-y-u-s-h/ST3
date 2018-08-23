@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).indexOf(${2})]]></content>
+  <tabTrigger>indexof</tabTrigger>
+  <scope>source.scala</scope>
+  <description>indexOf</description>
+</snippet>

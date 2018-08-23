@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).charAt(${2})]]></content>
+  <tabTrigger>achar</tabTrigger>
+  <scope>source.scala</scope>
+  <description>char At</description>
+</snippet>

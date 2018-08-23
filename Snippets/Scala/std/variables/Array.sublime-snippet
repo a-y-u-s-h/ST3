@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[${1:a} : Array[${2:Int}]]]></content>
+  <tabTrigger>arr</tabTrigger>
+  <scope>source.scala</scope>
+  <description>arr</description>
+</snippet>

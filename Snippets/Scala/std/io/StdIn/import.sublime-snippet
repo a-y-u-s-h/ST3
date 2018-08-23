@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import scala.io.StdIn._
+
+]]></content>
+  <tabTrigger>inputimport</tabTrigger>
+  <scope>source.scala</scope>
+  <description>import stdiN</description>
+</snippet>

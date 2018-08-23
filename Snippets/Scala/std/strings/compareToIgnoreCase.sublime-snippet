@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).compareToIgnoreCase(${2})]]></content>
+  <tabTrigger>icompareto</tabTrigger>
+  <scope>source.scala</scope>
+  <description>compare to ignore case</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).compareTo(${2})]]></content>
+  <tabTrigger>compareto</tabTrigger>
+  <scope>source.scala</scope>
+  <description>compare to</description>
+</snippet>

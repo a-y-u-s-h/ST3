@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).toUpperCase]]></content>
+  <tabTrigger>upper</tabTrigger>
+  <scope>source.scala</scope>
+  <description>toUpperCase</description>
+</snippet>

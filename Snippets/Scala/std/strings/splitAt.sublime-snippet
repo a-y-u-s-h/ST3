@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).splitAt(${2})]]></content>
+  <tabTrigger>asplit</tabTrigger>
+  <scope>source.scala</scope>
+  <description>split</description>
+</snippet>

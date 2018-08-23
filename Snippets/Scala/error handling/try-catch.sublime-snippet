@@ -2,7 +2,7 @@
   <content><![CDATA[try {
   $0
 } catch {
-  case _ : Throwable => 
+  case e : Throwable => println(e)
 }]]></content>
   <tabTrigger>tryc</tabTrigger>
   <scope>source.scala</scope>

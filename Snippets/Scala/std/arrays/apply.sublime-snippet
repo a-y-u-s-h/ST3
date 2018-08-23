@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(${1}).apply(${0})
+]]></content>
+  <tabTrigger>apply</tabTrigger>
+  <scope>source.scala</scope>
+  <description>Array</description>
+</snippet>

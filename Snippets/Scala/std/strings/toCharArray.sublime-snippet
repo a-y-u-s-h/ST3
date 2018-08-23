@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).toCharArray]]></content>
+  <tabTrigger>toca</tabTrigger>
+  <scope>source.scala</scope>
+  <description>toCharArray</description>
+</snippet>
