@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:c}.takeRight(${2})
+]]></content>
+  <tabTrigger>tr</tabTrigger>
+  <scope>source.scala</scope>
+  <description>take</description>
+</snippet>

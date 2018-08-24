@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:}.foreach(${0})
+]]></content>
+  <tabTrigger>fec</tabTrigger>
+  <scope>source.scala</scope>
+  <description>for - range</description>
+</snippet>

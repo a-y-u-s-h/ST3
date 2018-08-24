@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[${1:a} : Array[${2:Int}]]]></content>
+  <content><![CDATA[${1:a} : Array[${2:Any}]]]></content>
   <tabTrigger>arr</tabTrigger>
   <scope>source.scala</scope>
   <description>arr</description>

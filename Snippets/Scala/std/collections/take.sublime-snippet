@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:c}.take(${2})
+]]></content>
+  <tabTrigger>tl</tabTrigger>
+  <scope>source.scala</scope>
+  <description>take</description>
+</snippet>

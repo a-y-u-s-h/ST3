@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[${1:f} : (${2:Int, Int}) => ${0:Int}]]></content>
+  <content><![CDATA[${1:f} : (${2:Any, Any}) => ${0:Any}]]></content>
   <tabTrigger>ft</tabTrigger>
   <scope>source.scala</scope>
   <description>func type</description>

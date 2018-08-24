@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[println(${1:arr}.mkString(" "))]]></content>
+  <content><![CDATA[println( ${0:} mkString (" ") )]]></content>
   <tabTrigger>prarr</tabTrigger>
   <scope>source.scala</scope>
   <description>convert into string</description>

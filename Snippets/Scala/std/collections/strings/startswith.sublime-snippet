@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[(s"${1}" startsWith s"${2}")]]></content>
-  <tabTrigger>startswith</tabTrigger>
+  <tabTrigger>sstartswith</tabTrigger>
   <scope>source.scala</scope>
   <description>startswith</description>
 </snippet>

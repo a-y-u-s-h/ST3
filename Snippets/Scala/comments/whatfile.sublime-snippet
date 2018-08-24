@@ -3,16 +3,16 @@
 /*
  |======================================================================|
  
-   Purpose of ${1} :
+   Purpose of `$TM_FILENAME` :
  
-   ${2}
+   ${1}
  
  |======================================================================|
 */
 
 
 ]]></content>
-	<tabTrigger>whatsup</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
-	<description>whatsup</description>
+	<tabTrigger>whatfile</tabTrigger>
+	<scope>source.scala</scope>
+	<description>whatfile</description>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[List.fill(${1:n})(${0})]]></content>
+  <tabTrigger>lfill</tabTrigger>
+  <scope>source.scala</scope>
+  <description>array fill</description>
+</snippet>

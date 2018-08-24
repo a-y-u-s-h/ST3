@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+(() => {
+  /*
+    ======================================
+      :: Rename File :: 
+      from : `${1:src}` 
+      to : `${2:dest}`
+    ======================================
+  */
+  try {
+    new java.io.FileOutputStream(new java.io.File(s"${2:dest}"))
+        .getChannel
+        .transferFrom(new java.io.FileInputStream(s"${1:src}").getChannel, 0, Long.MaxValue)
+  } catch {
+    case e : Throwable => println(e)
+  }
+})()
+
+]]></content>
+  <tabTrigger>rename</tabTrigger>
+  <scope>source.scala</scope>
+  <description>rename</description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[(${1}).contains(${2})]]></content>
+  <content><![CDATA[(${0} contains )]]></content>
   <tabTrigger>contains</tabTrigger>
   <scope>source.scala</scope>
   <description>contains</description>

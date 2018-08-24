@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${0} :: ${1:list}
+]]></content>
+  <tabTrigger>lpf</tabTrigger>
+  <scope>source.scala</scope>
+  <description>new List</description>
+</snippet>

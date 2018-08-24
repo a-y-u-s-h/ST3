@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${0} endsWith )]]></content>
+  <tabTrigger>endswith</tabTrigger>
+  <scope>source.scala</scope>
+  <description>endswith</description>
+</snippet>

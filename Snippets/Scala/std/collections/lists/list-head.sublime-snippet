@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:list}.head
+]]></content>
+  <tabTrigger>lh</tabTrigger>
+  <scope>source.scala</scope>
+  <description>list head</description>
+</snippet>

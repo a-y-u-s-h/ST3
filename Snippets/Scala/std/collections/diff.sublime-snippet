@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${0} diff )]]></content>
+  <tabTrigger>diff</tabTrigger>
+  <scope>source.scala</scope>
+  <description>diff</description>
+</snippet>

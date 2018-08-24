@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Nil]]></content>
+  <tabTrigger>0</tabTrigger>
+  <scope>source.scala</scope>
+  <description>Nil</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:c}.splice(${0})
+]]></content>
+  <tabTrigger>splice</tabTrigger>
+  <scope>source.scala</scope>
+  <description>splice</description>
+</snippet>

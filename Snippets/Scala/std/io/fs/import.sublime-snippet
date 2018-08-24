@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import java.io.{ File, FileInputStream, FileOutputStream }
+
+]]></content>
+  <tabTrigger>fsimport</tabTrigger>
+  <scope>source.scala</scope>
+  <description>fsimport</description>
+</snippet>

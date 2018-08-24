@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:list}.last
+]]></content>
+  <tabTrigger>lb</tabTrigger>
+  <scope>source.scala</scope>
+  <description>list back</description>
+</snippet>

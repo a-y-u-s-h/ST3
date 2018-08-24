@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(${0:} isEmpty)
+]]></content>
+  <tabTrigger>ie</tabTrigger>
+  <scope>source.scala</scope>
+  <description>isEmpty</description>
+</snippet>

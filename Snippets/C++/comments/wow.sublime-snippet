@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    ${0}
+  ======================================
+*/
+]]></content>
+  <tabTrigger>wow</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+  <description>wow</description>
+</snippet>
