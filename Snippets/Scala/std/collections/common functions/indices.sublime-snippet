@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[${1}.indices]]></content>
+  <tabTrigger>indices</tabTrigger>
+  <scope>source.scala</scope>
+  <description>indices</description>
+</snippet>

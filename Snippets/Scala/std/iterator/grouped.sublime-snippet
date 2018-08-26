@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(${1}).grouped(${2})
+]]></content>
+  <tabTrigger>grouped</tabTrigger>
+  <scope>source.scala</scope>
+  <description>iterator - grouped</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1}.sliding(${2})
+]]></content>
+  <tabTrigger>sliding</tabTrigger>
+  <scope>source.scala</scope>
+  <description>iterator - sliding</description>
+</snippet>

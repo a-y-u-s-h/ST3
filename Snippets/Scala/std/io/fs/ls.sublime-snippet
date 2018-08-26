@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+new java.io.File(s"${0:.}").listFiles
+]]></content>
+  <tabTrigger>ls</tabTrigger>
+  <scope>source.scala</scope>
+  <description>ls</description>
+</snippet>

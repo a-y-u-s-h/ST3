@@ -1,0 +1,25 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Edit file : ${1:src}
+  ======================================
+*/
+try {
+  val writer = new java.io.PrintWriter(s"${1:src}")
+  try {
+    writer.println(s"${0}")
+  } catch {
+    case e : Throwable => println(e)
+  } finally  {
+    writer.close
+  }
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>edit</tabTrigger>
+  <scope>source.scala</scope>
+  <description>edit</description>
+</snippet>

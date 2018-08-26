@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+System.getProperty("user.dir")
+]]></content>
+  <tabTrigger>pwd</tabTrigger>
+  <scope>source.scala</scope>
+  <description>pwd</description>
+</snippet>

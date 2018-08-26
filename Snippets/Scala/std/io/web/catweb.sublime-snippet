@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Cat from URL : ${1:src}
+  ======================================
+*/
+try {
+  val source = io.Source.fromURL(s"${1:src}")
+  try {
+    val content = source.getLines
+    println( content mkString ("\n") )  
+  } catch {
+    case e : Throwable => println(e)
+  } finally  {
+    source.close  
+  }
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>catweb</tabTrigger>
+  <scope>source.scala</scope>
+  <description>catweb</description>
+</snippet>

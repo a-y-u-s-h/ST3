@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1}.next
+]]></content>
+  <tabTrigger>next</tabTrigger>
+  <scope>source.scala</scope>
+  <description>iterator - next</description>
+</snippet>

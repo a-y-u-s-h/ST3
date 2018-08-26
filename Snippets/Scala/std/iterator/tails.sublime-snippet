@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1}.tails
+]]></content>
+  <tabTrigger>tails</tabTrigger>
+  <scope>source.scala</scope>
+  <description>iterator - tails</description>
+</snippet>

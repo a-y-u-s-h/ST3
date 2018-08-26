@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Delete file : ${1:src}
+  ======================================
+*/
+try {
+    new File(s"${1:src}").delete()
+  } catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>delete</tabTrigger>
+  <scope>source.scala</scope>
+  <description>delete</description>
+</snippet>

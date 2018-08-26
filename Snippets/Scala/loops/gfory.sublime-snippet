@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+for {
+	${0}
+} yield {
+	
+}
+]]></content>
+  <tabTrigger>gfory</tabTrigger>
+  <scope>source.scala</scope>
+  <description>for - range</description>
+</snippet>

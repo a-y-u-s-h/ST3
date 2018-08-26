@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${0}).sum]]></content>
+  <tabTrigger>csum</tabTrigger>
+  <scope>source.scala</scope>
+  <description>csum</description>
+</snippet>

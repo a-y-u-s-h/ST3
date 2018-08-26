@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(for (${1:i} <- ${0:}) yield )
+]]></content>
+  <tabTrigger>yfor</tabTrigger>
+  <scope>source.scala</scope>
+  <description>for - yield</description>
+</snippet>

@@ -1,0 +1,30 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Read from URL : ${1:src}
+  ======================================
+*/
+try {
+  val source = io.Source.fromURL(s"${1:src}")
+  try {
+    val content = source.getLines
+    ${0:/*
+      ======================================
+        Operate on content :
+      ======================================
+    */}
+  } catch {
+    case e : Throwable => println(e)
+  } finally  {
+    source.close  
+  }
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>readweb</tabTrigger>
+  <scope>source.scala</scope>
+  <description>readweb</description>
+</snippet>

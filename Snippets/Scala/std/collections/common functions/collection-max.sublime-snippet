@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${0}).max]]></content>
+  <tabTrigger>cmax</tabTrigger>
+  <scope>source.scala</scope>
+  <description>cmax</description>
+</snippet>

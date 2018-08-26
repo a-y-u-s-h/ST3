@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Create file : ${1:}
+  ======================================
+*/
+try {
+	val writer = new java.io.PrintWriter(new java.io.File(s"${1:}"))
+  writer.write(s"$0")
+  writer.close()  
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>touch</tabTrigger>
+  <scope>source.scala</scope>
+  <description>touch</description>
+</snippet>

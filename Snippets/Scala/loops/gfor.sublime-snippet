@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+for {
+	${0}
+} {
+	
+}
+]]></content>
+  <tabTrigger>gfor</tabTrigger>
+  <scope>source.scala</scope>
+  <description>for - range</description>
+</snippet>

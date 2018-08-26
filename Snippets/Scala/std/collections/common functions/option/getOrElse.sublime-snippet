@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:}.getOrElse(${0})
+]]></content>
+  <tabTrigger>goe</tabTrigger>
+  <scope>source.scala</scope>
+  <description>goe</description>
+</snippet>

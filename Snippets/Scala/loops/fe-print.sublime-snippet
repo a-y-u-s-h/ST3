@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+foreach(println)
+]]></content>
+  <tabTrigger>fep</tabTrigger>
+  <scope>source.scala</scope>
+  <description>for - each - print</description>
+</snippet>

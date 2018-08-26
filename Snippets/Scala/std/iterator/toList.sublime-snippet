@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(${1}).toList
+]]></content>
+  <tabTrigger>tolist</tabTrigger>
+  <scope>source.scala</scope>
+  <description>iterator - toList</description>
+</snippet>

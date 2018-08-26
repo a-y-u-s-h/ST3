@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).permutations]]></content>
+  <tabTrigger>permutations</tabTrigger>
+  <scope>source.scala</scope>
+  <description>permutations</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:}.find(${0})
+]]></content>
+  <tabTrigger>find</tabTrigger>
+  <scope>source.scala</scope>
+  <description>find</description>
+</snippet>

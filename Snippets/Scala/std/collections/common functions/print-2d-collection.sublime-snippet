@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${0}).foreach((i) => println( i mkString (" ") ))]]></content>
+  <tabTrigger>pr2d</tabTrigger>
+  <scope>source.scala</scope>
+  <description>print 2d</description>
+</snippet>

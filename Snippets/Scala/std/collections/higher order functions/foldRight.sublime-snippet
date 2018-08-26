@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).foldRight(${2:0})(${0})]]></content>
+  <tabTrigger>foldright</tabTrigger>
+  <scope>source.scala</scope>
+  <description>foldRight</description>
+</snippet>

@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Append text to file ::
+    Edit file : ${1:src}
+  ======================================
+*/
+try {
+  val writer = new java.io.PrintWriter(new java.io.FileWriter(s"${1:src}", true))
+  try {
+    writer.println(s"${0}")
+  } catch {
+    case e : Throwable => println(e)
+  } finally  {
+    writer.close
+  }
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>fappend</tabTrigger>
+  <scope>source.scala</scope>
+  <description>fappend</description>
+</snippet>

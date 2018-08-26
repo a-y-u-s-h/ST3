@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ==========================================
+    From location : ${2:.}
+    Remove all files with ext : ".${1:}"
+  ==========================================
+*/
+try {
+  for {
+    files <- Option(new java.io.File(s"${2:.}").listFiles)
+    file <- files if file.getName.endsWith(s".${1:}")
+  } file.delete()
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>rmx</tabTrigger>
+  <scope>source.scala</scope>
+  <description>rmx</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${0}).product]]></content>
+  <tabTrigger>cproduct</tabTrigger>
+  <scope>source.scala</scope>
+  <description>cproduct</description>
+</snippet>

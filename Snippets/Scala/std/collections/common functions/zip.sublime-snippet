@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(${0} zip )
+]]></content>
+  <tabTrigger>zip</tabTrigger>
+  <scope>source.scala</scope>
+  <description>zip</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${1}).combinations(${2})]]></content>
+  <tabTrigger>combinations</tabTrigger>
+  <scope>source.scala</scope>
+  <description>combinations</description>
+</snippet>

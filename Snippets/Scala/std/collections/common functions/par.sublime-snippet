@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${0}).par]]></content>
+  <tabTrigger>par</tabTrigger>
+  <scope>source.scala</scope>
+  <description>par</description>
+</snippet>

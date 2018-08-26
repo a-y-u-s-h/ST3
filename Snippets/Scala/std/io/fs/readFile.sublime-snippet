@@ -1,0 +1,30 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Read file : ${1:src}
+  ======================================
+*/
+try {
+  val source = io.Source.fromFile(s"${1:src}")
+  try {
+    val content = source.getLines
+    ${0:/*
+      ======================================
+        Operate on content :
+      ======================================
+    */}
+  } catch {
+    case e : Throwable => println(e)
+  } finally  {
+    source.close  
+  }
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>readfile</tabTrigger>
+  <scope>source.scala</scope>
+  <description>readfile</description>
+</snippet>

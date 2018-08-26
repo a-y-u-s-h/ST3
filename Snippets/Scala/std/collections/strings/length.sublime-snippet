@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[(${1}).length]]></content>
+  <content><![CDATA[length]]></content>
   <tabTrigger>length</tabTrigger>
   <scope>source.scala</scope>
   <description>length</description>
