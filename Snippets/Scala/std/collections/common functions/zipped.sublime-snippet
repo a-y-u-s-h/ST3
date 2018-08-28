@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(${0}).zipped]]></content>
+  <tabTrigger>zipped</tabTrigger>
+  <scope>source.scala</scope>
+  <description>zipped</description>
+</snippet>

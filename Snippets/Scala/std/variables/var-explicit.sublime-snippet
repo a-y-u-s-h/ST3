@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[var ${1:name}: ${2:Type} = ${0:}]]></content>
+  <content><![CDATA[var ${1:x} : ${2:Any} = ${0:}]]></content>
   <tabTrigger>xvar</tabTrigger>
   <scope>source.scala</scope>
   <description>var explicit</description>

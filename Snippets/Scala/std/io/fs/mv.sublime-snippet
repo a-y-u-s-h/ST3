@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    :: Move File :: 
+    from : `${1:src}` 
+    to : `${2:dest}`
+  ======================================
+*/
+try {
+  val src : java.nio.file.Path = java.nio.file.Paths.get(s"${1:src}")
+  val dest : java.nio.file.Path = java.nio.file.Paths.get(s"${2:dest}")
+  java.nio.file.Files.move(src, dest)
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>mv</tabTrigger>
+  <scope>source.scala</scope>
+  <description>mv</description>
+</snippet>

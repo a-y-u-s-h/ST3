@@ -8,7 +8,9 @@
   ======================================
 */
 try {
-  new java.io.File(s"${1:src}").renameTo(new java.io.File(s"${2:dest}"))  
+  val src : java.nio.file.Path = java.nio.file.Paths.get(s"${1:src}")
+  val dest : java.nio.file.Path = java.nio.file.Paths.get(s"${2:dest}")
+  java.nio.file.Files.move(src, dest)
 } catch {
   case e : Throwable => println(e)
 }

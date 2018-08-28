@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ==========================================
+    Remove directory tree : ${1:src}
+  ==========================================
+*/
+try {
+
+  def rmdir (folder: java.io.File): Unit = {
+    if (folder.isDirectory)
+      folder.listFiles.foreach(rmdir)
+    if (folder.exists && !folder.delete)
+      throw new Exception(s"Unable to delete ${folder.getAbsolutePath}")
+  }
+  rmdir(new java.io.File(s"${1:src}"))
+  
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>rmdir</tabTrigger>
+  <scope>source.scala</scope>
+  <description>rmdir</description>
+</snippet>

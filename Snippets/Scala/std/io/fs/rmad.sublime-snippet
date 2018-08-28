@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ==========================================
+    Remove all directory trees 
+    present in : ${1:.}
+  ==========================================
+*/
+try {
+
+  def rmdir (folder: java.io.File): Unit = {
+    if (folder.isDirectory)
+      folder.listFiles.foreach(rmdir)
+    if (folder.exists && !folder.delete)
+      throw new Exception(s"Unable to delete ")
+  }
+
+  for {
+      folders <- Option(new java.io.File(s"${1:.}").listFiles)
+      folder <- folders if folder.isDirectory
+    } rmdir(folder)
+
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>rmad</tabTrigger>
+  <scope>source.scala</scope>
+  <description>rmad</description>
+</snippet>

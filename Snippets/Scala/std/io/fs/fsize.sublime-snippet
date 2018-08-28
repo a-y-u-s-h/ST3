@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+java.nio.file.Files.size(java.nio.file.Paths.get(s"${0}"))
+]]></content>
+  <tabTrigger>fsize</tabTrigger>
+  <scope>source.scala</scope>
+  <description>pexists</description>
+</snippet>

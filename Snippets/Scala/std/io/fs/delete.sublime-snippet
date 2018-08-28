@@ -6,7 +6,8 @@
   ======================================
 */
 try {
-    new File(s"${1:src}").delete()
+    val path : java.nio.file.Path = java.nio.file.Paths.get(s"${1:src}")
+    java.nio.file.Files.deleteIfExists(path)
   } catch {
   case e : Throwable => println(e)
 }

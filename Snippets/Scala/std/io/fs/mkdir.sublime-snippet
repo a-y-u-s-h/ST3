@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Create folder : ${1:}
+  ======================================
+*/
+try {
+  val path : java.nio.file.Path = java.nio.file.Paths.get(s"${1:}")
+  if (!java.nio.file.Files.exists(path)) java.nio.file.Files.createDirectories(path)
+} catch {
+  case e : Throwable => println(e)
+}
+
+]]></content>
+  <tabTrigger>mkdir</tabTrigger>
+  <scope>source.scala</scope>
+  <description>mkdir</description>
+</snippet>
