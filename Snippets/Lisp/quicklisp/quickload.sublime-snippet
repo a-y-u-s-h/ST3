@@ -1,0 +1,8 @@
+<snippet>
+  <description>Function</description>
+  <content><![CDATA[
+(ql:quickload :${0})
+]]></content>
+  <tabTrigger>qload</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

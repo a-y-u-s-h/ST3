@@ -1,0 +1,8 @@
+<snippet>
+  <description>set</description>
+  <content><![CDATA[
+(setq ${1} ${0})
+]]></content>
+  <tabTrigger>set</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

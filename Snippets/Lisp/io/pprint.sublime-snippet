@@ -1,0 +1,8 @@
+<snippet>
+  <description>pprint</description>
+  <content><![CDATA[
+(pprint ${0})
+]]></content>
+  <tabTrigger>pprint</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

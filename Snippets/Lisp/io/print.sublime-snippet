@@ -1,0 +1,8 @@
+<snippet>
+  <description>print</description>
+  <content><![CDATA[
+(print ${0})
+]]></content>
+  <tabTrigger>print</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>typeof</description>
+  <content><![CDATA[
+(type-of ${0})
+]]></content>
+  <tabTrigger>typeof</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

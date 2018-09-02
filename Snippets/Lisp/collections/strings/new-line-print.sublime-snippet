@@ -1,0 +1,8 @@
+<snippet>
+  <description>Function</description>
+  <content><![CDATA[
+(write-char #\linefeed)
+]]></content>
+  <tabTrigger>nl</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

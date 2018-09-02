@@ -1,0 +1,9 @@
+<snippet>
+  <description>shebang</description>
+  <content><![CDATA[
+#!/usr/bin/sbcl --script
+
+]]></content>
+  <tabTrigger>!</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,22 @@
+<snippet> 
+  <content><![CDATA[
+# :: grep :: 
+# pattern : ${1}
+# source folder : ${0}
+if os.path.exists(f"${0}"):
+  regex = re.compile("${1}")
+  for path, folders, files in os.walk(f"${0}"):
+    for f in files:
+      if os.path.isfile(f"{f}"):
+        with open(f"{f}", "r") as file:
+          contents = file.readlines()
+          for line in contents:
+            if regex.search(line):
+              print(line, end = "") 
+  
+]]></content>
+  <tabTrigger>grep</tabTrigger>
+  <scope>source.python</scope>
+  <description>delete</description>
+</snippet>
+

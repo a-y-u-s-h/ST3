@@ -1,0 +1,8 @@
+<snippet>
+  <description>Function</description>
+  <content><![CDATA[
+#\\linefeed
+]]></content>
+  <tabTrigger>\n</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

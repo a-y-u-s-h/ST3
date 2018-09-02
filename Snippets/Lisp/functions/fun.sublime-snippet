@@ -1,12 +1,8 @@
 <snippet>
   <description>Function</description>
   <content><![CDATA[
-( 
-  defun ${1:function_name} ($2) (
-
-    ${0}
-    
-  ) 
+(defun ${1:function_name} ($2)
+  ${0}
 )
 ]]></content>
   <tabTrigger>fun</tabTrigger>

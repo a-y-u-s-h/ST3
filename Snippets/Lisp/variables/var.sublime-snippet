@@ -1,0 +1,8 @@
+<snippet>
+  <description>var</description>
+  <content><![CDATA[
+(defvar ${1} ${0})
+]]></content>
+  <tabTrigger>var</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

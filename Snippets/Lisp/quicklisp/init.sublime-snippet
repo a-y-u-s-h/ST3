@@ -1,0 +1,8 @@
+<snippet>
+  <description>Function</description>
+  <content><![CDATA[
+(ql:quickload :quickproject) (quickproject:make-project "${0}")
+]]></content>
+  <tabTrigger>init</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>
