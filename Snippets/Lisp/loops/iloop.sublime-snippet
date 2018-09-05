@@ -1,8 +1,8 @@
 <snippet>
-  <description>Function</description>
+  <description>loop</description>
   <content><![CDATA[
-(terpri)
+(loop ${0})
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>iloop</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

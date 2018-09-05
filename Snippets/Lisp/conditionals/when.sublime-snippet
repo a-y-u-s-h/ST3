@@ -1,8 +1,10 @@
 <snippet>
-  <description>Function</description>
+  <description>when..</description>
   <content><![CDATA[
-(terpri)
+(when ${0}
+	
+)
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>when</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

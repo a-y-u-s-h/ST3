@@ -1,8 +1,8 @@
 <snippet>
-  <description>Function</description>
+  <description>xor</description>
   <content><![CDATA[
-(terpri)
+(logxor ${0})
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>xor</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

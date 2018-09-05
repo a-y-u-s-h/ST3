@@ -1,8 +1,8 @@
 <snippet>
-  <description>Function</description>
+  <description>if..else</description>
   <content><![CDATA[
-(terpri)
+(if ${0})
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>ife</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

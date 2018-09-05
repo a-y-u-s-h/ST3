@@ -1,8 +1,10 @@
 <snippet>
-  <description>Function</description>
+  <description>case</description>
   <content><![CDATA[
-(terpri)
+(case ${1}
+	${0}
+)
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>case</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

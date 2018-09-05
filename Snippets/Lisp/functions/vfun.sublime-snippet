@@ -1,0 +1,10 @@
+<snippet>
+  <description>vfun</description>
+  <content><![CDATA[
+(setq ${1} (prog ( (${2}) ) 
+	${0}
+)
+]]></content>
+  <tabTrigger>funa</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

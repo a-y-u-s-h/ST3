@@ -1,0 +1,8 @@
+<snippet>
+  <description>macro inline</description>
+  <content><![CDATA[
+(defmacro ${1:} (${2:}) $0)
+]]></content>
+  <tabTrigger>maci</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

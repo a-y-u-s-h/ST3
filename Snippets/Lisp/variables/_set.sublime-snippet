@@ -1,8 +1,8 @@
 <snippet>
-  <description>Function</description>
+  <description>set</description>
   <content><![CDATA[
-(terpri)
+(setq ${1} ${0})
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>.</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

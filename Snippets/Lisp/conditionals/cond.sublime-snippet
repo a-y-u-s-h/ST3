@@ -1,8 +1,10 @@
 <snippet>
-  <description>Function</description>
+  <description>cond</description>
   <content><![CDATA[
-(terpri)
+(cond 
+	${0}
+)
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>cond</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

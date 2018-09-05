@@ -1,8 +1,8 @@
 <snippet>
-  <description>Function</description>
+  <description>less than</description>
   <content><![CDATA[
-(terpri)
+(< ${0})
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>&lt;</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

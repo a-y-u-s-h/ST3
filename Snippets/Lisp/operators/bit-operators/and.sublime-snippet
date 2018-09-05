@@ -1,8 +1,8 @@
 <snippet>
-  <description>Function</description>
+  <description>and</description>
   <content><![CDATA[
-(terpri)
+(logand ${0})
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>and</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

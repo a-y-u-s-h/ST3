@@ -1,8 +1,8 @@
 <snippet>
-  <description>Function</description>
+  <description>ior</description>
   <content><![CDATA[
-(terpri)
+(logior ${0})
 ]]></content>
-  <tabTrigger>nl</tabTrigger>
+  <tabTrigger>ior</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>
