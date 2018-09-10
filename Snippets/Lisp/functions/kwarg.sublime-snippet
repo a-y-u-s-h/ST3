@@ -1,8 +1,8 @@
 <snippet>
-  <description>if..</description>
+  <description>kwarg</description>
   <content><![CDATA[
-(when ${0})
+&key ($0)
 ]]></content>
-  <tabTrigger>ifi</tabTrigger>
+  <tabTrigger>kwarg</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

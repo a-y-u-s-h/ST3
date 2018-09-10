@@ -1,0 +1,8 @@
+<snippet>
+	<description>ncurses move</description>
+	<content><![CDATA[
+ncurses::move(${2:y}, ${1:x});
+]]></content>
+	<tabTrigger>nmove</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

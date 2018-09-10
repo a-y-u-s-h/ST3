@@ -51,6 +51,8 @@
 
   { "keys": ["ctrl+0"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/get-out-of-parenthesis.sublime-macro"}},
   { "keys": ["ctrl+9"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/parens.sublime-macro"}},
-  { "keys": ["ctrl+shift+9"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/parens-new-line.sublime-macro"}}
+  { "keys": ["ctrl+shift+9"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/parens-new-line.sublime-macro"}},
+  { "keys": ["alt+="], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/assign.sublime-macro"}},
+  { "keys": ["alt+enter"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/apply.sublime-macro"}}
 	  
 ]

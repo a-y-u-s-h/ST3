@@ -1,8 +1,8 @@
 <snippet>
   <description>list</description>
   <content><![CDATA[
-(defparameter *$1* '($0))
+(list $0)
 ]]></content>
-  <tabTrigger>defli</tabTrigger>
+  <tabTrigger>li</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

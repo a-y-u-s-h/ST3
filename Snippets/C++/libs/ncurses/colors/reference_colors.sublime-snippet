@@ -1,0 +1,43 @@
+<snippet>
+	<description>ncurses colors reference</description>
+	<content><![CDATA[
+/*
+  ======================================
+
+    Color Codes - Snippet - Meaning : 
+
+    n    cn      COLOR_PAIR(n)
+    0    c0      COLOR_BLACK
+    1    c1      COLOR_RED
+    2    c2      COLOR_GREEN
+    3    c3      COLOR_YELLOW
+    4    c4      COLOR_BLUE
+    5    c5      COLOR_MAGENTA
+    6    c6      COLOR_CYAN
+    7    c7      COLOR_WHITE
+    
+    Helpful snippets : 
+
+    ncinitpair : ncurses::init_pair(\${1:i}, \${2:foreground}, \${3:background});
+    ncp : ncurses::COLOR_PAIR(\${0:pair});
+    ncc : if (!ncurses::has_colors()) return 1;
+
+    Usage Example : 
+
+    1) Apply color pair to a piece of text.
+
+    ncurses::init_pair(1, COLOR_RED, COLOR_YELLOW);
+    ncurses::attron(COLOR_PAIR(1));
+    ncurses::printw("Hello World");
+    ncurses::attroff(COLOR_PAIR(1));
+
+    2) Quit terminal if it doesn't support colors :
+    
+    if (!ncurses::has_colors()) return 1;
+
+  ======================================
+*/
+]]></content>
+	<tabTrigger>mannc</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

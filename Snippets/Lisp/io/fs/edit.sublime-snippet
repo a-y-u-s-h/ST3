@@ -1,0 +1,13 @@
+<snippet>
+  <description>edit</description>
+  <content><![CDATA[
+(with-open-file (file ${1} :direction :output :if-exists :supersede) 
+  (with-standard-io-syntax
+    (format file "~a" $0 file)
+  )
+)
+
+]]></content>
+  <tabTrigger>edit</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

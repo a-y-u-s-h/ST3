@@ -1,8 +1,8 @@
 <snippet>
-  <description>if..</description>
+  <description>print</description>
   <content><![CDATA[
-(when ${0})
+*query-io*
 ]]></content>
-  <tabTrigger>ifi</tabTrigger>
+  <tabTrigger>queryio</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

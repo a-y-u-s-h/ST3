@@ -1,8 +1,8 @@
 <snippet>
-  <description>if..</description>
+  <description>yn</description>
   <content><![CDATA[
-(when ${0})
+(y-or-n-p "${0}")
 ]]></content>
-  <tabTrigger>ifi</tabTrigger>
+  <tabTrigger>yn</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

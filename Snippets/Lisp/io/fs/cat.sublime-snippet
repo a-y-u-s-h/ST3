@@ -1,0 +1,14 @@
+<snippet>
+  <description>cat</description>
+  <content><![CDATA[
+#|======================================[#
+    `cat` file : $1
+#]======================================|#
+(with-open-file (file "$1") 
+  (loop for i = (read-line file nil) while i do (format t "~a~%" i))
+)
+
+]]></content>
+  <tabTrigger>cat</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

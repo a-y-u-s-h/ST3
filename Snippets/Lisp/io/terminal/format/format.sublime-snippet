@@ -1,8 +1,8 @@
 <snippet>
-  <description>if..</description>
+  <description>format</description>
   <content><![CDATA[
-(when ${0})
+(format ${0})
 ]]></content>
-  <tabTrigger>ifi</tabTrigger>
+  <tabTrigger>format</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>
