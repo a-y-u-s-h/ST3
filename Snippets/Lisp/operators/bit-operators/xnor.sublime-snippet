@@ -1,0 +1,8 @@
+<snippet>
+  <description>xnor</description>
+  <content><![CDATA[
+(logeqv ${0})
+]]></content>
+  <tabTrigger>xnor</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

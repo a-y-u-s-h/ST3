@@ -1,0 +1,8 @@
+<snippet>
+  <description>min</description>
+  <content><![CDATA[
+(min ${0})
+]]></content>
+  <tabTrigger>min</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

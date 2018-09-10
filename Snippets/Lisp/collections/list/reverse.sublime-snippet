@@ -1,0 +1,8 @@
+<snippet>
+  <description>reverse</description>
+  <content><![CDATA[
+(reverse $0)
+]]></content>
+  <tabTrigger>reverse</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

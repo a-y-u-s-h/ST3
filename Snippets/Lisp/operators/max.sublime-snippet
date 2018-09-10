@@ -1,0 +1,8 @@
+<snippet>
+  <description>max</description>
+  <content><![CDATA[
+(max ${0})
+]]></content>
+  <tabTrigger>max</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

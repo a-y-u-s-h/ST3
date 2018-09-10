@@ -1,0 +1,10 @@
+<snippet>
+  <description>for</description>
+  <content><![CDATA[
+(dolist (${1:i} $2)
+	$0
+)
+]]></content>
+  <tabTrigger>forlist</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>print</description>
+  <content><![CDATA[
+*query-io*
+]]></content>
+  <tabTrigger>queryio</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

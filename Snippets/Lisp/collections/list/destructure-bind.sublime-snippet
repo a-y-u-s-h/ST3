@@ -1,0 +1,10 @@
+<snippet>
+  <description>db</description>
+  <content><![CDATA[
+(destructuring-bind $0
+	
+)
+]]></content>
+  <tabTrigger>db</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

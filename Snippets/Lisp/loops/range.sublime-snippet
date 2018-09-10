@@ -1,0 +1,8 @@
+<snippet>
+  <description>for do</description>
+  <content><![CDATA[
+(loop for ${1:i} from ${2:0} to ${3:n} by ${4:1} collect ${1:i})
+]]></content>
+  <tabTrigger>range</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

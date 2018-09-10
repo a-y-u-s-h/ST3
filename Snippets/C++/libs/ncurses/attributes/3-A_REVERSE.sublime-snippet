@@ -1,0 +1,8 @@
+<snippet>
+	<description>A_REVERSE</description>
+	<content><![CDATA[
+A_REVERSE
+]]></content>
+	<tabTrigger>a3</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

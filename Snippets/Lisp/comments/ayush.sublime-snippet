@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+#|
+  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+  |~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~~|
+  |                                                                      |
+  |                                                                      |
+  |                     Author  : Ayush Sharma                           |
+  |                     Github  : a-y-u-s-h                              |
+  |                     Website : a-y-u-s-h.github.io                    |
+  |                     Twitter : @taggosaurus                           |
+  |                                                                      |
+  |                                                                      |
+  |~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~~|
+  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|#
+
+]]></content>
+  <tabTrigger>ayush</tabTrigger>
+  <scope>source.lisp</scope>
+  <description>ayush</description>
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
   <description>Function</description>
   <content><![CDATA[
-(write-char #\linefeed)
+(terpri)
 ]]></content>
   <tabTrigger>nl</tabTrigger>
   <scope>source.lisp</scope>

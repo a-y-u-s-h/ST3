@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+(or (parse-integer $0 :junk-allowed t) 0)
+]]></content>
+	<tabTrigger>int</tabTrigger>
+	<scope>source.lisp</scope>
+	<description>parse integer</description>
+</snippet>

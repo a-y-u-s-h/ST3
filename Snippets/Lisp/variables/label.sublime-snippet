@@ -1,0 +1,13 @@
+<snippet>
+  <description>labels</description>
+  <content><![CDATA[
+(labels 
+	( 
+		${0} 
+	)
+	
+)
+]]></content>
+  <tabTrigger>labels</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

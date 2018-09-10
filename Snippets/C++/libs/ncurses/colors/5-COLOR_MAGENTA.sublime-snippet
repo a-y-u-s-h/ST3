@@ -1,0 +1,8 @@
+<snippet>
+	<description>COLOR_MAGENTA</description>
+	<content><![CDATA[
+COLOR_MAGENTA
+]]></content>
+	<tabTrigger>c5</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

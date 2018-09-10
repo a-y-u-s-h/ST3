@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+#|=====================================================================[#
+ 
+   Purpose of ${1} :
+ 
+   ${2}
+ 
+#]======================================================================|#
+
+
+]]></content>
+	<tabTrigger>whatsup</tabTrigger>
+	<scope>source.lisp</scope>
+	<description>whatsup</description>
+</snippet>

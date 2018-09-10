@@ -1,0 +1,8 @@
+<snippet>
+  <description>ior</description>
+  <content><![CDATA[
+(logior ${0})
+]]></content>
+  <tabTrigger>ior</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

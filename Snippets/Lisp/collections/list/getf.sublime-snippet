@@ -1,0 +1,8 @@
+<snippet>
+  <description>getf</description>
+  <content><![CDATA[
+(getf $0)
+]]></content>
+  <tabTrigger>getf</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

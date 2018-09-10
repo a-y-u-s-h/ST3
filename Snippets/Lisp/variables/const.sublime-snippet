@@ -1,0 +1,8 @@
+<snippet>
+  <description>const</description>
+  <content><![CDATA[
+(defconstant ${1} ${0})
+]]></content>
+  <tabTrigger>const</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<description>ncurses print const char *</description>
+	<content><![CDATA[
+ncurses::printw(${0});
+ncurses::refresh();
+
+]]></content>
+	<tabTrigger>nprintw</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <description>flet</description>
+  <content><![CDATA[
+(flet ( (${0}) )
+	
+)
+]]></content>
+  <tabTrigger>flet</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

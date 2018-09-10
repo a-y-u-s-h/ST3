@@ -1,0 +1,8 @@
+<snippet>
+  <description>or</description>
+  <content><![CDATA[
+(or ${0})
+]]></content>
+  <tabTrigger>or</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

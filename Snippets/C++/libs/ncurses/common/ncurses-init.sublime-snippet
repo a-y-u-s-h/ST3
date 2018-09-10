@@ -1,0 +1,34 @@
+<snippet>
+	<description>init ncurses</description>
+	<content><![CDATA[
+  /*
+    ======================================
+      Initialize the screen.
+  
+      initscr : Sets up memory and clears the screen.
+      cbreak : enables Ctrl + C  to exit out of program.
+      raw : take all input as raw input.
+      noecho : don't echo whatever user types to screen.
+      refresh : Refreshes the screen to match what's in memory.
+    ======================================
+  */
+  ncurses::initscr();
+  ncurses::cbreak();
+  ncurses::raw();
+  ncurses::noecho();
+  ncurses::refresh();
+  
+  ${0}
+  
+  /*
+    ======================================
+      endwin : Deallocates memory and ends ncurses.
+      getch : waits for user to type a key to exit.
+    ======================================
+  */
+  ncurses::getch();
+  ncurses::endwin();
+]]></content>
+	<tabTrigger>ninit</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

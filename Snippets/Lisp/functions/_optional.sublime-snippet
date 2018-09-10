@@ -1,0 +1,8 @@
+<snippet>
+  <description>optional</description>
+  <content><![CDATA[
+&optional
+]]></content>
+  <tabTrigger>optional</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

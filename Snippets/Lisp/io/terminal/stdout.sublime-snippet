@@ -1,0 +1,8 @@
+<snippet>
+  <description>print</description>
+  <content><![CDATA[
+*standard-output*
+]]></content>
+  <tabTrigger>stdout</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

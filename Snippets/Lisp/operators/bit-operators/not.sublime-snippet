@@ -1,0 +1,8 @@
+<snippet>
+  <description>not</description>
+  <content><![CDATA[
+(not ${0})
+]]></content>
+  <tabTrigger>not</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

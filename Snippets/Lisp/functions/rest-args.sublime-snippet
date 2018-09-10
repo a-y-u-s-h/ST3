@@ -1,0 +1,8 @@
+<snippet>
+  <description>Function</description>
+  <content><![CDATA[
+&rest args
+]]></content>
+  <tabTrigger>args</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

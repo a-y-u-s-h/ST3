@@ -1,0 +1,10 @@
+<snippet>
+  <description>match</description>
+  <content><![CDATA[
+(case ${1}
+	${0}
+)
+]]></content>
+  <tabTrigger>match</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>
