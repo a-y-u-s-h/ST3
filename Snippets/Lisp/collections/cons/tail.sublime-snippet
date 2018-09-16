@@ -1,0 +1,8 @@
+<snippet>
+  <description>cdr</description>
+  <content><![CDATA[
+(cdr ${0})
+]]></content>
+  <tabTrigger>tail</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>last</description>
+  <content><![CDATA[
+(car (last ${0}))
+]]></content>
+  <tabTrigger>last</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

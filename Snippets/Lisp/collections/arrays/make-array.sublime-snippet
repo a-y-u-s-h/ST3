@@ -1,0 +1,8 @@
+<snippet>
+  <description>make-array</description>
+  <content><![CDATA[
+(make-array ${0:n})
+]]></content>
+  <tabTrigger>makearray</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

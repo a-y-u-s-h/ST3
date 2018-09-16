@@ -1,0 +1,8 @@
+<snippet>
+  <description>Generic</description>
+  <content><![CDATA[
+(defgeneric ${1:f} ($2) ${0})
+]]></content>
+  <tabTrigger>gfuni</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

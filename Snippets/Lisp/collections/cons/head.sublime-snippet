@@ -1,0 +1,8 @@
+<snippet>
+  <description>head</description>
+  <content><![CDATA[
+(car ${0})
+]]></content>
+  <tabTrigger>head</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 ${1:c}.init
 ]]></content>
-  <tabTrigger>ff</tabTrigger>
+  <tabTrigger>butlast</tabTrigger>
   <scope>source.scala</scope>
-  <description>init</description>
+  <description>butlast</description>
 </snippet>

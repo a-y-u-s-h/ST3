@@ -2,7 +2,7 @@
   <content><![CDATA[
 ${1:c}.head
 ]]></content>
-  <tabTrigger>front</tabTrigger>
+  <tabTrigger>head</tabTrigger>
   <scope>source.scala</scope>
   <description>head</description>
 </snippet>

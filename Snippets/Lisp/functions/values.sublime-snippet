@@ -1,0 +1,8 @@
+<snippet>
+  <description>values</description>
+  <content><![CDATA[
+(values ${0})
+]]></content>
+  <tabTrigger>values</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

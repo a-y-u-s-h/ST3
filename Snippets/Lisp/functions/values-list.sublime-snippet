@@ -1,0 +1,8 @@
+<snippet>
+  <description>values-list</description>
+  <content><![CDATA[
+(values-list ${0})
+]]></content>
+  <tabTrigger>vlist</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

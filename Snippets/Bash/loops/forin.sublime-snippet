@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-for ${1:i} in \$(${0}); do
+for ${1:i} in ${0}; do
 	
 done
 ]]></content>

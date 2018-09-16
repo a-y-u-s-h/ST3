@@ -1,7 +1,7 @@
 <snippet>
   <description>db</description>
   <content><![CDATA[
-(destructuring-bind $0
+(destructuring-bind ($1) $0
 	
 )
 ]]></content>
