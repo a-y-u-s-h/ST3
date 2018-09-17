@@ -1,0 +1,8 @@
+<snippet>
+  <description>make-hash-table</description>
+  <content><![CDATA[
+(make-hash-table)
+]]></content>
+  <tabTrigger>makehashtable</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>multiple-value-list</description>
+  <content><![CDATA[
+(multiple-value-list (${0}))
+]]></content>
+  <tabTrigger>mvl</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

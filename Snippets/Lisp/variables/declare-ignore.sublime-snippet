@@ -1,0 +1,8 @@
+<snippet>
+  <description>ignore</description>
+  <content><![CDATA[
+(declare (ignore ${0}))
+]]></content>
+  <tabTrigger>ignore</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>parameter</description>
+  <content><![CDATA[
+(defparameter *${1}* ${0})
+]]></content>
+  <tabTrigger>parameter</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

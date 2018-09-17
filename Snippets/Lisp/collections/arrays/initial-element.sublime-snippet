@@ -1,0 +1,8 @@
+<snippet>
+  <description>ie</description>
+  <content><![CDATA[
+:initial-element ${0}
+]]></content>
+  <tabTrigger>ie</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

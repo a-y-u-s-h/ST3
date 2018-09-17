@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-for ${1:i} in \{${2:0}..${3:n}\}; do
+for ${1:i} in \{${2:0}..${3:n}..${4:1}\}; do
 	${0}
 done
 ]]></content>

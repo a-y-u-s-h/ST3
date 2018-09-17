@@ -1,0 +1,8 @@
+<snippet>
+  <description>error</description>
+  <content><![CDATA[
+(error "$1" ${0})
+]]></content>
+  <tabTrigger>error</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>iafun</description>
+  <content><![CDATA[
+(lambda (${1}) ${0})
+]]></content>
+  <tabTrigger>iafun</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

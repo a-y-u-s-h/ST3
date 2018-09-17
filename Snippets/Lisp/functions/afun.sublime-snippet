@@ -1,7 +1,7 @@
 <snippet>
   <description>afun</description>
   <content><![CDATA[
-(prog ( (${1}) ) 
+(lambda (${1}) 
 	${0}
 )
 ]]></content>
