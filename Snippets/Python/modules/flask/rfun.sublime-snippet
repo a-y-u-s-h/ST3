@@ -1,0 +1,16 @@
+<snippet> 
+  <content><![CDATA[
+""" 
+  ======================================
+    Route : /$1
+  ======================================
+"""
+@app.route("/$1")
+def $1():
+  return render_template("$1.html")
+
+]]></content>
+  <tabTrigger>rfun</tabTrigger>
+  <scope>source.python</scope>
+  <description>render function</description>
+</snippet>

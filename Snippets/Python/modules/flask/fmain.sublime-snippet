@@ -1,0 +1,14 @@
+<snippet> 
+  <content><![CDATA[
+from flask import Flask, render_template
+app = Flask(__name__)
+
+$0
+
+if __name__ == '__main__':
+  app.run(debug=True)
+]]></content>
+  <tabTrigger>fmain</tabTrigger>
+  <scope>source.python</scope>
+  <description>flask main</description>
+</snippet>

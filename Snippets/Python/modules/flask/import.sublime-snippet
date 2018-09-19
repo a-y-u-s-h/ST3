@@ -1,0 +1,10 @@
+<snippet> 
+  <content><![CDATA[
+from flask import Flask
+app = Flask(__name__)
+
+]]></content>
+  <tabTrigger>flaskimport</tabTrigger>
+  <scope>source.python</scope>
+  <description>import flask</description>
+</snippet>
