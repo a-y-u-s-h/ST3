@@ -1,0 +1,18 @@
+<snippet>
+	<description>cat</description>
+	<content><![CDATA[
+/*
+  ======================================
+    Cat file : $1      
+  ======================================
+*/  
+[=] (const char* f) {
+  std::ifstream file (f);
+  std::cout << file.rdbuf();
+  file.close();
+} ("$1");
+
+]]></content>
+	<tabTrigger>cat</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

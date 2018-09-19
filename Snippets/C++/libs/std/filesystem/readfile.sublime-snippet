@@ -1,0 +1,20 @@
+<snippet>
+	<description>readfile</description>
+	<content><![CDATA[
+/*
+  ======================================
+    Read file : $1      
+  ======================================
+*/  
+[=] (const char* file) {
+  std::ifstream f (file);
+  std::string content; 
+  content.assign(std::istreambuf_iterator<char>(f), std::istreambuf_iterator<char>());
+  $0
+  f.close();
+} ("$1");
+
+]]></content>
+	<tabTrigger>readfile</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

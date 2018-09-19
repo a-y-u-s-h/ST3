@@ -1,0 +1,17 @@
+<snippet>
+	<description>touch</description>
+	<content><![CDATA[
+/*
+  ======================================
+    Touch file : $1
+  ======================================
+*/
+[=] (const char* f) {
+	std::ofstream file (f, std::ofstream::out);
+	file.close();
+} ("$1");
+
+]]></content>
+	<tabTrigger>touch</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

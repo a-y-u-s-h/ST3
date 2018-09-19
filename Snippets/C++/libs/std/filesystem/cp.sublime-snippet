@@ -1,0 +1,22 @@
+
+<snippet>
+  <description>cp</description>
+  <content><![CDATA[
+/*
+  ======================================
+    Copy from : $1
+    Paste to : $2
+  ======================================
+*/  
+[=] (const char* src, const char* dest) {
+  std::ifstream i (src);
+  std::ofstream o (dest);
+  o << i.rdbuf();
+  i.close();
+  o.close();
+} ("$1", "$2");
+
+]]></content>
+  <tabTrigger>cp</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>
