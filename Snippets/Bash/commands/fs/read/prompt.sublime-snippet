@@ -3,7 +3,7 @@
 read -p "${1}" ${0}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>readprompt</tabTrigger>
+	<tabTrigger>prompt</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.shell</scope>
 </snippet>
