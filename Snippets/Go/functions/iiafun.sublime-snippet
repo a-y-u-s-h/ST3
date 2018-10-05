@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+func ($2) {
+  $0
+} ($1)
+]]></content>
+  <tabTrigger>iiafun</tabTrigger>
+  <scope>source.go</scope>
+  <description>iafun</description>
+</snippet>

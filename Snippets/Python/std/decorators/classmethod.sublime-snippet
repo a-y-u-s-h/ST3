@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+@classmethod
+]]></content>
+  <tabTrigger>classmethod</tabTrigger>
+  <scope>source.python</scope>
+  <description>classmethod</description>
+</snippet>
+

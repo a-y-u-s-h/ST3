@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import "net/http"
+]]></content>
+  <tabTrigger>httpimport</tabTrigger>
+  <scope>source.go</scope>
+  <description>import fmt</description>
+</snippet>

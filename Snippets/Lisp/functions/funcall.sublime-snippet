@@ -3,6 +3,6 @@
   <content><![CDATA[
 (funcall ${0:f} ${1:args})
 ]]></content>
-  <tabTrigger>,</tabTrigger>
+  <tabTrigger>call</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

@@ -1,0 +1,11 @@
+<snippet> 
+  <content><![CDATA[
+def test_${1:function}(self):
+  ${0:pass}
+
+# <---------------------------->
+]]></content>
+  <tabTrigger>tcase</tabTrigger>
+  <scope>source.python</scope>
+  <description>test case</description>
+</snippet>

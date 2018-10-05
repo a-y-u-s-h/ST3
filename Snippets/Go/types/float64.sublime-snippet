@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+float64
+]]></content>
+  <tabTrigger>float64</tabTrigger>
+  <scope>source.go</scope>
+  <description>float64</description>
+</snippet>

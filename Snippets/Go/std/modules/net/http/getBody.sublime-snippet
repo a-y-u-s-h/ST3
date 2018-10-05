@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+response, _ := http.Get("$1")
+bytes, _ := ioutil.ReadAll(response.Body)
+body := string(bytes)
+$0
+response.Body.Close()
+]]></content>
+  <tabTrigger>gbody</tabTrigger>
+  <scope>source.go</scope>
+  <description>get body</description>
+</snippet>

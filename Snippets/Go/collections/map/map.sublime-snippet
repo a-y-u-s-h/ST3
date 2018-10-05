@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1 := make (map [${2:string}] ${3:float64})
+]]></content>
+  <tabTrigger>map</tabTrigger>
+  <scope>source.go</scope>
+  <description>map</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+math.Sqrt($0)
+]]></content>
+  <tabTrigger>sqrt</tabTrigger>
+  <scope>source.go</scope>
+  <description>sqrt</description>
+</snippet>

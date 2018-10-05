@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+float32
+]]></content>
+  <tabTrigger>32f</tabTrigger>
+  <scope>source.go</scope>
+  <description>float32</description>
+</snippet>

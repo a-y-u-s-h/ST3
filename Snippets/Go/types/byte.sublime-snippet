@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+byte
+]]></content>
+  <tabTrigger>byte</tabTrigger>
+  <scope>source.go</scope>
+  <description>byte</description>
+</snippet>

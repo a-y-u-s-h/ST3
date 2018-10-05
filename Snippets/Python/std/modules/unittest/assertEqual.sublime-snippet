@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+self.assertEqual($0)
+]]></content>
+  <tabTrigger>assertequal</tabTrigger>
+  <scope>source.python</scope>
+  <description>assertEquals</description>
+</snippet>

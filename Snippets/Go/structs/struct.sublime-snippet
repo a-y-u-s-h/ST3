@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+type ${1:name} struct {
+  $0
+}
+]]></content>
+  <tabTrigger>struct</tabTrigger>
+  <scope>source.go</scope>
+  <description>struct</description>
+</snippet>

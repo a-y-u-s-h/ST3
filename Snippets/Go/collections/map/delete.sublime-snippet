@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+delete(${1:map}, ${2:key})
+]]></content>
+  <tabTrigger>delete</tabTrigger>
+  <scope>source.go</scope>
+  <description>delete</description>
+</snippet>

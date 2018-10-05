@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import "io/ioutil"
+]]></content>
+  <tabTrigger>ioutilimport</tabTrigger>
+  <scope>source.go</scope>
+  <description>import ioutil</description>
+</snippet>

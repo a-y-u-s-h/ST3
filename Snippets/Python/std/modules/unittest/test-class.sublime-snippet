@@ -1,0 +1,21 @@
+<snippet> 
+  <content><![CDATA[
+import unittest
+import ${1}
+
+class Test${1/^(.)/\u$1/}(unittest.TestCase):
+  """
+  This class extends : unittest.TestCase
+  and tests code inside module : ${1}
+    
+  """
+  
+  $0
+
+if __name__ == '__main__':
+  unittest.main()
+]]></content>
+  <tabTrigger>tclass</tabTrigger>
+  <scope>source.python</scope>
+  <description>test class</description>
+</snippet>

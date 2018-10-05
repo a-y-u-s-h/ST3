@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    Route : /$1
+    Purpose : ${2:todo..}
+  ======================================
+*/
+http.HandleFunc("/$1", func (writer http.ResponseWriter, request *http.Request) {
+  $0
+})
+]]></content>
+  <tabTrigger>route</tabTrigger>
+  <scope>source.go</scope>
+  <description>route</description>
+</snippet>

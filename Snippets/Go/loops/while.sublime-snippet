@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for $1 {
+  $0
+}
+]]></content>
+  <tabTrigger>while</tabTrigger>
+  <scope>source.go</scope>
+  <description>while Loop</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import "fmt"
+]]></content>
+  <tabTrigger>fmtimport</tabTrigger>
+  <scope>source.go</scope>
+  <description>import fmt</description>
+</snippet>

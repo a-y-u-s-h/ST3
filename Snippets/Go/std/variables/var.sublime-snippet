@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var $0
+]]></content>
+  <tabTrigger>let</tabTrigger>
+  <scope>source.go</scope>
+  <description>let</description>
+</snippet>

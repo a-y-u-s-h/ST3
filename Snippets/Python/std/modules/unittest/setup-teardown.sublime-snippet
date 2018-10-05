@@ -1,0 +1,14 @@
+<snippet> 
+  <content><![CDATA[
+def setUp(self):
+  pass
+
+def tearDown(self):
+  pass
+
+# <---------------------------->
+]]></content>
+  <tabTrigger>tsetupteardown</tabTrigger>
+  <scope>source.python</scope>
+  <description>setup - teardown</description>
+</snippet>
