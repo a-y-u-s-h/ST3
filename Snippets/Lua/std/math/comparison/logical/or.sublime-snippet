@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+or
+]]></content>
+  <tabTrigger>or</tabTrigger>
+  <scope>source.lua</scope>
+  <description>or</description>
+</snippet>
+      

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+coroutine.resume($0)
+]]></content>
+	<tabTrigger>coresume</tabTrigger>
+	<scope>source.lua</scope>
+	<description>coroutine resume</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>capitalize</description>
+  <content><![CDATA[
+(setq *print-case* :capitalize)
+]]></content>
+  <tabTrigger>capitalize</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

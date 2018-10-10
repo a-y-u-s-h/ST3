@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+os.remove("$0")
+]]></content>
+	<tabTrigger>rm</tabTrigger>
+	<scope>source.lua</scope>
+	<description>rm</description>
+</snippet>

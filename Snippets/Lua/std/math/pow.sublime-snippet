@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.pow($0)
+]]></content>
+  <tabTrigger>pow</tabTrigger>
+  <scope>source.lua</scope>
+  <description>pow</description>
+</snippet>
+        

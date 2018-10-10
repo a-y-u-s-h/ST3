@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+string.find($0)
+]]></content>
+	<tabTrigger>find</tabTrigger>
+	<scope>source.lua</scope>
+	<description>find</description>
+</snippet>

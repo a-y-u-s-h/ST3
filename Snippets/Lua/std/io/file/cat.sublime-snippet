@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+--[[ 
+  ======================================
+    `cat` out contents of : $1
+  ======================================
+--]]
+
+(function (fname, mode)
+  local file = io.open(fname, mode)
+  contents = file:read("*a")
+  print(contents)
+  file:close()
+end)("$1", "r")
+
+]]></content>
+	<tabTrigger>cat</tabTrigger>
+	<scope>source.lua</scope>
+	<description>cat</description>
+</snippet>

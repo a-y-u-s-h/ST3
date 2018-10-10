@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+love.graphics.rectangle("line", $0)
+]]></content>
+	<tabTrigger>rect</tabTrigger>
+	<scope>source.lua</scope>
+	<description>lrect</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+not
+]]></content>
+  <tabTrigger>not</tabTrigger>
+  <scope>source.lua</scope>
+  <description>not</description>
+</snippet>
+      

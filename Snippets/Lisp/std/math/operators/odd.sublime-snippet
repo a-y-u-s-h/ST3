@@ -1,0 +1,8 @@
+<snippet>
+  <description>oddp</description>
+  <content><![CDATA[
+(oddp ${0})
+]]></content>
+  <tabTrigger>oddp</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+if $1 then $0 end
+]]></content>
+	<tabTrigger>ifi</tabTrigger>
+	<scope>source.lua</scope>
+	<description>if</description>
+</snippet>

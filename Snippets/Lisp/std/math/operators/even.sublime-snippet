@@ -1,0 +1,8 @@
+<snippet>
+  <description>evenp</description>
+  <content><![CDATA[
+(evenp ${0})
+]]></content>
+  <tabTrigger>evenp</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

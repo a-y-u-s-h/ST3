@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+local $1 = {}
+
+$0
+
+return $1
+]]></content>
+	<tabTrigger>module</tabTrigger>
+	<scope>source.lua</scope>
+	<description>module</description>
+</snippet>

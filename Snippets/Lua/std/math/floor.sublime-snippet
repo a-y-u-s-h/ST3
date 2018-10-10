@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.floor($0)
+]]></content>
+  <tabTrigger>floor</tabTrigger>
+  <scope>source.lua</scope>
+  <description>floor</description>
+</snippet>
+        

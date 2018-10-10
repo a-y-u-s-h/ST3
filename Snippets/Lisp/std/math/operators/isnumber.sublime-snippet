@@ -1,0 +1,8 @@
+<snippet>
+  <description>numberp</description>
+  <content><![CDATA[
+(numberp ${0})
+]]></content>
+  <tabTrigger>isnumber</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

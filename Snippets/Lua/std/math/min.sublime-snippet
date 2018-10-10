@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.min($0)
+]]></content>
+  <tabTrigger>min</tabTrigger>
+  <scope>source.lua</scope>
+  <description>min</description>
+</snippet>
+        

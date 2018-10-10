@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+string.gsub($0)
+]]></content>
+	<tabTrigger>replace</tabTrigger>
+	<scope>source.lua</scope>
+	<description>replace</description>
+</snippet>

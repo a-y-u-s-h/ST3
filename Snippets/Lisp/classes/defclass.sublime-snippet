@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+(defclass ${1:className} ($2)
+  ${0}
+)]]></content>
+  <tabTrigger>class</tabTrigger>
+  <scope>source.lisp</scope>
+  <description>class</description>
+</snippet>

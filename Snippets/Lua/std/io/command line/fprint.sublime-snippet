@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+io.write($0)
+]]></content>
+	<tabTrigger>fprint</tabTrigger>
+	<scope>source.lua</scope>
+	<description>print</description>
+</snippet>

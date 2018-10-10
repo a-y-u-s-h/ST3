@@ -1,0 +1,8 @@
+<snippet>
+  <description>nth item list</description>
+  <content><![CDATA[
+(nth $0)
+]]></content>
+  <tabTrigger>nth</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

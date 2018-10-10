@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+string.format($0)
+]]></content>
+	<tabTrigger>fmt</tabTrigger>
+	<scope>source.lua</scope>
+	<description>fmt</description>
+</snippet>

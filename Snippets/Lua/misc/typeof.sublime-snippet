@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+type($0)
+]]></content>
+	<tabTrigger>typeof</tabTrigger>
+	<scope>source.lua</scope>
+	<description>typeof</description>
+</snippet>

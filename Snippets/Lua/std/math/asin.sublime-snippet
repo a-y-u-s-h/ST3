@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.asin($0)
+]]></content>
+  <tabTrigger>asin</tabTrigger>
+  <scope>source.lua</scope>
+  <description>asin</description>
+</snippet>
+        

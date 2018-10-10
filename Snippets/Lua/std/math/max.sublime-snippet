@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.max($0)
+]]></content>
+  <tabTrigger>max</tabTrigger>
+  <scope>source.lua</scope>
+  <description>max</description>
+</snippet>
+        

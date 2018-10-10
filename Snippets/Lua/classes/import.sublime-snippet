@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+local $1 = require "$1"
+
+]]></content>
+	<tabTrigger>import</tabTrigger>
+	<scope>source.lua</scope>
+	<description>require</description>
+</snippet>

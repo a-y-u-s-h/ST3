@@ -1,0 +1,8 @@
+<snippet>
+  <description>listp</description>
+  <content><![CDATA[
+(listp ${0})
+]]></content>
+  <tabTrigger>islist</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

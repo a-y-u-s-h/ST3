@@ -1,0 +1,8 @@
+<snippet>
+  <description>pop</description>
+  <content><![CDATA[
+(pop $0)
+]]></content>
+  <tabTrigger>pop</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

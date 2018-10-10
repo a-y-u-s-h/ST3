@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.tan($0)
+]]></content>
+  <tabTrigger>tan</tabTrigger>
+  <scope>source.lua</scope>
+  <description>tan</description>
+</snippet>
+        

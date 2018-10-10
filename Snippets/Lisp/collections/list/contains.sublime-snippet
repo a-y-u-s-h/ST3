@@ -1,0 +1,8 @@
+<snippet>
+  <description>contains</description>
+  <content><![CDATA[
+(if (member ${1:x} ${0:list}) 't nil)
+]]></content>
+  <tabTrigger>contains</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

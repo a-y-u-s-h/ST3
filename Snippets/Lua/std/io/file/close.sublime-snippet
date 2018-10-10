@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+file:close()
+]]></content>
+	<tabTrigger>close</tabTrigger>
+	<scope>source.lua</scope>
+	<description>close</description>
+</snippet>

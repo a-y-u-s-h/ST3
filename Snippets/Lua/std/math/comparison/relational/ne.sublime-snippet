@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+~=
+]]></content>
+  <tabTrigger>ne</tabTrigger>
+  <scope>source.lua</scope>
+  <description>ne</description>
+</snippet>
+      

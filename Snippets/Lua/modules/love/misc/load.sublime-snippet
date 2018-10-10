@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function love.load ()
+	$0
+end
+]]></content>
+	<tabTrigger>loveload</tabTrigger>
+	<scope>source.lua</scope>
+	<description>load</description>
+</snippet>

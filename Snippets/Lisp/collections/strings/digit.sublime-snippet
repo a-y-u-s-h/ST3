@@ -1,0 +1,8 @@
+<snippet>
+  <description>aesthetic</description>
+  <content><![CDATA[
+~d
+]]></content>
+  <tabTrigger>d</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

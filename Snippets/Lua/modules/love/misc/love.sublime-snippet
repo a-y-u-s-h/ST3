@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+function love.load ()
+	$0	
+end
+
+function love.update (dt)
+	
+end
+
+function love.draw ()
+	
+end
+
+]]></content>
+	<tabTrigger>love</tabTrigger>
+	<scope>source.lua</scope>
+	<description>love</description>
+</snippet>

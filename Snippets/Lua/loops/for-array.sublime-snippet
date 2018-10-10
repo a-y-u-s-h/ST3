@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for ${1:index}, ${2:item} in pairs(${3}) do
+	$0
+end
+]]></content>
+	<tabTrigger>forarray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>for</description>
+</snippet>

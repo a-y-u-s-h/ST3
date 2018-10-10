@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+--[[ 
+  ======================================
+    `copy` from : $1
+    `paste` to : $2
+  ======================================
+--]]
+
+(function (from, to)
+  local input = io.open(from, "r")
+  local output = io.open(to, "w")
+  output:write(input:read("*a"))
+  output:close()
+  input:close()
+end)("$1", "$2")
+
+]]></content>
+	<tabTrigger>cp</tabTrigger>
+	<scope>source.lua</scope>
+	<description>cp</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>rem</description>
+  <content><![CDATA[
+(rem ${0})
+]]></content>
+  <tabTrigger>remainder</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

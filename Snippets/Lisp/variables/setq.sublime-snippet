@@ -3,6 +3,6 @@
   <content><![CDATA[
 (setq ${0})
 ]]></content>
-  <tabTrigger>set</tabTrigger>
+  <tabTrigger>setq</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

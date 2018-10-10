@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+(function ($2)
+	$0
+end)($1)
+]]></content>
+	<tabTrigger>iafun</tabTrigger>
+	<scope>source.lua</scope>
+	<description>fun</description>
+</snippet>

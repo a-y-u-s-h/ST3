@@ -1,0 +1,11 @@
+<snippet>	
+	<content><![CDATA[
+# `cat` : ${1}
+with open(f"${1}", "r") as ${3:file}:
+	print(${3:file}.read())
+
+]]></content>
+	<tabTrigger>cat</tabTrigger>
+	<scope>source.python</scope>
+	<description>cat</description>
+</snippet>

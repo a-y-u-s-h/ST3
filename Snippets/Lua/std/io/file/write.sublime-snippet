@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+file:write("$0")
+]]></content>
+  <tabTrigger>write</tabTrigger>
+  <scope>source.lua</scope>
+  <description>write</description>
+</snippet>

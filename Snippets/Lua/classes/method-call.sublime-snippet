@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$1:$2 ($0)
+]]></content>
+	<tabTrigger>mcall</tabTrigger>
+	<scope>source.lua</scope>
+	<description>mcall</description>
+</snippet>

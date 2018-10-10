@@ -1,0 +1,8 @@
+<snippet>
+  <description>upcase</description>
+  <content><![CDATA[
+(setq *print-case* :upcase)
+]]></content>
+  <tabTrigger>upper</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>downcase</description>
+  <content><![CDATA[
+(setq *print-case* :downcase)
+]]></content>
+  <tabTrigger>lower</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

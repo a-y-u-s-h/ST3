@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+--[[ 
+  ======================================
+    `touch` file : $1
+  ======================================
+--]]
+
+(function (fname, mode)
+  local file = io.open(fname, mode)
+  file:close()
+end)("$1", "w")
+
+]]></content>
+	<tabTrigger>touch</tabTrigger>
+	<scope>source.lua</scope>
+	<description>touch</description>
+</snippet>

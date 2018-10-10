@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.sqrt($0)
+]]></content>
+  <tabTrigger>sqrt</tabTrigger>
+  <scope>source.lua</scope>
+  <description>sqrt</description>
+</snippet>
+        

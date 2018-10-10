@@ -1,7 +1,10 @@
 <snippet>
   <description>flet</description>
   <content><![CDATA[
-(flet ( (${0}) )
+(flet 
+	(
+		(${0})
+	)
 	
 )
 ]]></content>

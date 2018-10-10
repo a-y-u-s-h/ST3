@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+--[[ 
+  ======================================
+    `edit` : $1
+  ======================================
+--]]
+
+(function (fname, mode)
+  local file = io.open(fname, mode)
+  file:write([[$0]])
+  file:close()
+end)("$1", "w")
+
+]]></content>
+	<tabTrigger>edit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>edit</description>
+</snippet>

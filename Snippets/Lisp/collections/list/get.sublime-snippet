@@ -1,0 +1,8 @@
+<snippet>
+  <description>get value</description>
+  <content><![CDATA[
+(assoc $0)
+]]></content>
+  <tabTrigger>value</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

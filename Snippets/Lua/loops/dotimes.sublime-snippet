@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for ${1:i} = 1, ${2:n} do
+	$0
+end
+]]></content>
+	<tabTrigger>dotimes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>dotimes</description>
+</snippet>

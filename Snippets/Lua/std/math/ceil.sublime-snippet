@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.ceil($0)
+]]></content>
+  <tabTrigger>ceil</tabTrigger>
+  <scope>source.lua</scope>
+  <description>ceil</description>
+</snippet>
+        

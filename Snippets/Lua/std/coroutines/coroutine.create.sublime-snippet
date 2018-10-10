@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+$1 = coroutine.create(function ()
+	$0
+end)
+]]></content>
+	<tabTrigger>cocreate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>coroutine create</description>
+</snippet>

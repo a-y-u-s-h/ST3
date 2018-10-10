@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+tostring($0)
+]]></content>
+	<tabTrigger>tostring</tabTrigger>
+	<scope>source.lua</scope>
+	<description>tostring</description>
+</snippet>

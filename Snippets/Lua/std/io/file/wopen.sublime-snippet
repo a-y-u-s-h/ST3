@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+(function (fname, mode)
+  local file = io.open(fname, mode)
+  contents = file:read("*a")
+  $0
+  file:close()
+end)("$1", "${2:r+}")
+]]></content>
+	<tabTrigger>wopen</tabTrigger>
+	<scope>source.lua</scope>
+	<description>with..open</description>
+</snippet>

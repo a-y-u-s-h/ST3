@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+os.time()
+]]></content>
+	<tabTrigger>time</tabTrigger>
+	<scope>source.lua</scope>
+	<description>time</description>
+</snippet>

@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.cos($0)
+]]></content>
+  <tabTrigger>cos</tabTrigger>
+  <scope>source.lua</scope>
+  <description>cos</description>
+</snippet>
+        

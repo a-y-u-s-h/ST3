@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+love.graphics.print($0)
+]]></content>
+	<tabTrigger>lprint</tabTrigger>
+	<scope>source.lua</scope>
+	<description>lprint</description>
+</snippet>

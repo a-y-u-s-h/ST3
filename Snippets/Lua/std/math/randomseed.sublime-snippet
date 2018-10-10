@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+math.randomseed($0)
+]]></content>
+  <tabTrigger>randomseed</tabTrigger>
+  <scope>source.lua</scope>
+  <description>randomseed</description>
+</snippet>
+        

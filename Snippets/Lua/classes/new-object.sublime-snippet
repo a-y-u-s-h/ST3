@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+local $0 = {}
+]]></content>
+	<tabTrigger>nobject</tabTrigger>
+	<scope>source.lua</scope>
+	<description>new module</description>
+</snippet>

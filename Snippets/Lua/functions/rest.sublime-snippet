@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+...
+]]></content>
+	<tabTrigger>rest</tabTrigger>
+	<scope>source.lua</scope>
+	<description>rest</description>
+</snippet>

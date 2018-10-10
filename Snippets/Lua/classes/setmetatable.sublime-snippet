@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+setmetatable($0)
+]]></content>
+	<tabTrigger>setmetatable</tabTrigger>
+	<scope>source.lua</scope>
+	<description>setmetatable</description>
+</snippet>

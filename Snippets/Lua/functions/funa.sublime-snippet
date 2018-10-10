@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:f} = function ($2)
+	$0
+end
+]]></content>
+	<tabTrigger>funa</tabTrigger>
+	<scope>source.lua</scope>
+	<description>fun</description>
+</snippet>

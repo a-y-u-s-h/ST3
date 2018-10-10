@@ -1,0 +1,10 @@
+<snippet>
+  <description>if not..</description>
+  <content><![CDATA[
+(unless ${0}
+	
+)
+]]></content>
+  <tabTrigger>ifnot</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

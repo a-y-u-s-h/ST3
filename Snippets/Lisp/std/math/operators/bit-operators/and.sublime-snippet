@@ -3,6 +3,6 @@
   <content><![CDATA[
 (logand ${0})
 ]]></content>
-  <tabTrigger>and</tabTrigger>
+  <tabTrigger>7</tabTrigger>
   <scope>source.lisp</scope>
 </snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+local ${1:f} = function ($2)
+	$0
+end
+]]></content>
+	<tabTrigger>lfuna</tabTrigger>
+	<scope>source.lua</scope>
+	<description>local fun</description>
+</snippet>

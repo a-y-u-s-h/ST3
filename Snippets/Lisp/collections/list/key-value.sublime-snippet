@@ -1,0 +1,8 @@
+<snippet>
+  <description>key-value</description>
+  <content><![CDATA[
+:${1:key} ${0:value}
+]]></content>
+  <tabTrigger>kv</tabTrigger>
+  <scope>source.lisp</scope>
+</snippet>

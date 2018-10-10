@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+local $1 = {
+	$0
+}
+]]></content>
+	<tabTrigger>lobject</tabTrigger>
+	<scope>source.lua</scope>
+	<description>lclass</description>
+</snippet>

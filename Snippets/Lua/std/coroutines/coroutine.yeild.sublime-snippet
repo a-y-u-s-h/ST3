@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+coroutine.yield()
+]]></content>
+	<tabTrigger>coyield</tabTrigger>
+	<scope>source.lua</scope>
+	<description>coroutine yield</description>
+</snippet>

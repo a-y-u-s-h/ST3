@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+file:seek($0)
+]]></content>
+	<tabTrigger>seek</tabTrigger>
+	<scope>source.lua</scope>
+	<description>seek</description>
+</snippet>

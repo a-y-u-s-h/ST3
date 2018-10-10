@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+os.rename($0)
+]]></content>
+	<tabTrigger>rename</tabTrigger>
+	<scope>source.lua</scope>
+	<description>rename</description>
+</snippet>
