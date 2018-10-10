@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PAUSE
+
+]]></content>
+  <tabTrigger>pause</tabTrigger>
+  <scope>source.dosbatch</scope>
+</snippet>

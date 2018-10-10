@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+sys.argv
+]]></content>
+  <tabTrigger>args</tabTrigger>
+  <scope>source.python</scope>
+  <description>args</description>
+</snippet>

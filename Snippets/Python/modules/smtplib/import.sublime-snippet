@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+import smtplib
+
+]]></content>
+  <tabTrigger>mailimport</tabTrigger>
+  <scope>source.python</scope>
+  <description>import</description>
+</snippet>

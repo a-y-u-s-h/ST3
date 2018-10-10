@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+VER
+
+]]></content>
+  <tabTrigger>version</tabTrigger>
+  <scope>source.dosbatch</scope>
+</snippet>
