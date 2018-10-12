@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-const ${1:function_name} = (${2:arguments}) => {
+const ${1:} = (${2:}) => {
 	${0}
 }
 ]]></content>

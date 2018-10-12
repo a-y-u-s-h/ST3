@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-PAUSE
+@PAUSE
 
 ]]></content>
   <tabTrigger>pause</tabTrigger>

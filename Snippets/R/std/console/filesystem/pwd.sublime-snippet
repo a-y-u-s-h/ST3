@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+getwd()
+]]></content>
+  <tabTrigger>pwd</tabTrigger>
+  <scope>source.r-console</scope>
+  <description>New Class</description>
+</snippet>

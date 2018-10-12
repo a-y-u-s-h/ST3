@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+:${1:loop}
+
+$0
+
+@GOTO ${1:loop}
+]]></content>
+  <tabTrigger>loop</tabTrigger>
+  <scope>source.dosbatch</scope>
+</snippet>

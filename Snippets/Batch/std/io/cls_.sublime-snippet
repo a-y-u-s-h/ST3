@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-CLS
+@CLS
 
 ]]></content>
   <tabTrigger>clear</tabTrigger>

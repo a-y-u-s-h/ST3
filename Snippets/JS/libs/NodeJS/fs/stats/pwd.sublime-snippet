@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+__dirname
+]]></content>
+  <tabTrigger>pwd</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

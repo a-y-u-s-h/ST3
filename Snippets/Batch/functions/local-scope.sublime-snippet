@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@SETLOCAL
+  $0
+@ENDLOCAL
+]]></content>
+  <tabTrigger>local</tabTrigger>
+  <scope>source.dosbatch</scope>
+</snippet>

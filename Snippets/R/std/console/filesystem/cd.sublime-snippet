@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+setwd("$0")
+]]></content>
+  <tabTrigger>cd</tabTrigger>
+  <scope>source.r-console</scope>
+  <description>New Class</description>
+</snippet>

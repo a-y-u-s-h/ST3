@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+@GOTO :main
+
+:main
+@SETLOCAL
+  $0
+@ENDLOCAL
+@GOTO :eof
+]]></content>
+  <tabTrigger>main</tabTrigger>
+  <scope>source.dosbatch</scope>
+</snippet>

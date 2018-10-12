@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-VER
+@VER
 
 ]]></content>
   <tabTrigger>version</tabTrigger>
