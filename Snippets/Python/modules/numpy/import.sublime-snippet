@@ -3,7 +3,7 @@
 import numpy
 
 ]]></content>
-	<tabTrigger>nimport</tabTrigger>
+	<tabTrigger>npimport</tabTrigger>
 	<scope>source.python</scope>
 	<description>import numpy</description>
 </snippet>
