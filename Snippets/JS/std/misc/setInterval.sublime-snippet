@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-setTimeInterval($0, ${1:300})
+setInterval($0, ${1:300})
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>sti</tabTrigger>

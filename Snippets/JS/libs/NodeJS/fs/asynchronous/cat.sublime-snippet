@@ -1,8 +1,5 @@
 <snippet>
   <content><![CDATA[
-/*
-  :: CAT file : $1 
-*/
 fs.readFile(`${1:}`, `utf-8`, (err, data) => {
   if (err) throw err;
   console.log(data);

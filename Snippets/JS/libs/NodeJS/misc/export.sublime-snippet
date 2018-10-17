@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-module.exports.$1 = (typeof($1) != "undefined") ? $1 : undefined;
+exports.$1 = (typeof($1) != "undefined") ? $1 : undefined;
 
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

@@ -1,9 +1,5 @@
 <snippet>
 	<content><![CDATA[
-/*
- 	:: Asynchronously Reading File ::
- 	:: ${1:} ::
-*/
 fs.readFile(`${1:}`, `utf-8`, (err, data) => {
   if (err) throw err;
   ${0}
