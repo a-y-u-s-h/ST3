@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+numpy.random.random($0)
+]]></content>
+  <tabTrigger>nprandom</tabTrigger>
+  <scope>source.python</scope>
+  <description>numpy zeroes</description>
+</snippet>

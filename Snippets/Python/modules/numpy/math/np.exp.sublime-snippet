@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+numpy.exp($0)
+]]></content>
+  <tabTrigger>npexp</tabTrigger>
+  <scope>source.python</scope>
+  <description>numpy array</description>
+</snippet>

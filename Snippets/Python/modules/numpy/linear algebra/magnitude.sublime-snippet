@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+numpy.linalg.norm($0)
+]]></content>
+  <tabTrigger>npmag</tabTrigger>
+  <scope>source.python</scope>
+  <description>numpy array</description>
+</snippet>

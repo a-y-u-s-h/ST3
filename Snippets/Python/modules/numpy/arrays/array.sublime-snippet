@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+numpy.array([${0}])
+]]></content>
+	<tabTrigger>nparray</tabTrigger>
+	<scope>source.python</scope>
+	<description>numpy array</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+$0.T
+]]></content>
+  <tabTrigger>nptranspose</tabTrigger>
+  <scope>source.python</scope>
+  <description>numpy array</description>
+</snippet>

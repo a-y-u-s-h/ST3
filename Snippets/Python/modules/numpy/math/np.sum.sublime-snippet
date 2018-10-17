@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+numpy.sum($0)
+]]></content>
+  <tabTrigger>npsum</tabTrigger>
+  <scope>source.python</scope>
+  <description>numpy array</description>
+</snippet>
