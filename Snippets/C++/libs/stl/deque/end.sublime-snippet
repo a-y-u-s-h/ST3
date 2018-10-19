@@ -1,7 +1,7 @@
 <snippet>
 	<description>end(..)</description>
 	<content><![CDATA[
-end(${2:})
+std::end(${0:})
 ]]></content>
 	<tabTrigger>end</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

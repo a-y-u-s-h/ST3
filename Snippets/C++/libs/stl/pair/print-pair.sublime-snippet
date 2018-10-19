@@ -1,7 +1,7 @@
 <snippet>
 	<description>print pair</description>
 	<content><![CDATA[
-${1:std::}cout << ${2:pair}.first << " " << ${2:pair}.second << ${1:std::}endl;
+std::cout << ${2:pair}.first << " " << ${2:pair}.second << std::endl;
 ]]></content>
 	<tabTrigger>printpair</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

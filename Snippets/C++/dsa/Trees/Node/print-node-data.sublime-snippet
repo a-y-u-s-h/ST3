@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:std::}cout << ${2:node} -> data << ${1:std::}endl;
+std::cout << ${2:node} -> data << std::endl;
 
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

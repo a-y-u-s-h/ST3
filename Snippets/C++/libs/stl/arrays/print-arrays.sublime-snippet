@@ -2,9 +2,9 @@
 	<description>print array</description>
 	<content><![CDATA[
 for (int i = 0 ; i < (sizeof(${2:arr})/sizeof(*${2:arr})); i += 1) {
-  ${1:std::}cout << ${2:arr}[i] << " ";
+  std::cout << ${2:arr}[i] << " ";
 }
-${1:std::}cout << ${1:std::}endl;
+std::cout << std::endl;
 ]]></content>
 	<tabTrigger>printarray</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

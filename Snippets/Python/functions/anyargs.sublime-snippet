@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+*args, **kwargs
+]]></content>
+  <tabTrigger>any</tabTrigger>
+  <scope>source.python</scope>
+  <description>any args</description>
+</snippet>

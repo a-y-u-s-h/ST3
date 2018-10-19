@@ -1,0 +1,9 @@
+<snippet>
+  <description>for vector</description>
+  <content><![CDATA[
+std::next_permutation(std::begin(${1:}), std::end(${1:}));
+
+]]></content>
+  <tabTrigger>nextpermutation</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
 	<description>begin(..), end(..)</description>
 	<content><![CDATA[
-begin(${2:}), end(${2:})
+std::begin(${2:}), std::end(${2:})
 ]]></content>
 	<tabTrigger>beend</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

@@ -1,6 +1,9 @@
 <snippet>
 	<description>double variable</description>
-	<content><![CDATA[double ${1:variable} = ${2:value};${0}]]></content>
+	<content><![CDATA[
+double ${1:variable} = ${2:value};
+
+]]></content>
 	<tabTrigger>vdouble</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

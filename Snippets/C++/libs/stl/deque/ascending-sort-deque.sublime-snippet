@@ -1,7 +1,7 @@
 <snippet>
 	<description>ascending sort deque</description>
 	<content><![CDATA[
-${1:std::}sort(begin(${2:deque}), end(${2:deque}));
+std::sort(begin(${2:deque}), end(${2:deque}));
 ]]></content>
 	<tabTrigger>asortdeque</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

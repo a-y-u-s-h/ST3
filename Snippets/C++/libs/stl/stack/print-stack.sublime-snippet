@@ -1,12 +1,12 @@
 <snippet>
 	<description>print stack</description>
 	<content><![CDATA[
-[](${1:std::}stack<int> s) {
+[](std::stack<int> s) {
     while (!s.empty()) {
-      ${1:std::}cout << s.top() << " ";
+      std::cout << s.top() << " ";
       s.pop();
     }
-    ${1:std::}cout << ${1:std::}endl;
+    std::cout << std::endl;
 }(${2:target});
 ]]></content>
 	<tabTrigger>printstack</tabTrigger>

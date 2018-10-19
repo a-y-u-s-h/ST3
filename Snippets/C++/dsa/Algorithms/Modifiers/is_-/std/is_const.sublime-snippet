@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+std::is_const($0)
+]]></content>
+  <tabTrigger>isconst</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

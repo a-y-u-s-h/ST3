@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+$1 = spacy.load(f"$0")
+]]></content>
+  <tabTrigger>spacyloadmodel</tabTrigger>
+  <scope>source.python</scope>
+  <description>import spacy</description>
+</snippet>

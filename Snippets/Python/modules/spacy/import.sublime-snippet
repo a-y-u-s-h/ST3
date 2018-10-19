@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+import spacy
+
+]]></content>
+  <tabTrigger>spacyimport</tabTrigger>
+  <scope>source.python</scope>
+  <description>import spacy</description>
+</snippet>

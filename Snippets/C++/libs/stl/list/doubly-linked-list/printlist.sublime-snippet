@@ -2,9 +2,9 @@
 	<description>list-print</description>
 	<content><![CDATA[
 for (auto i : ${2:list}) {
-  ${1:std::}cout << i << " ";
+  std::cout << i << " ";
 }
-${1:std::}cout << ${1:std::}endl;
+std::cout << std::endl;
 ]]></content>
 	<tabTrigger>printlist</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+yield $0
+]]></content>
+  <tabTrigger>yeild</tabTrigger>
+  <scope>source.python</scope>
+  <description>yield</description>
+</snippet>

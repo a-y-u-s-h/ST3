@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+$0.__name__
+]]></content>
+  <tabTrigger>funame</tabTrigger>
+  <scope>source.python</scope>
+  <description>fun</description>
+</snippet>

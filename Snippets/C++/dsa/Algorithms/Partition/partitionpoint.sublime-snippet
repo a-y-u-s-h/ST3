@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+std::partition_point(std::begin($1), std::end($1), ${0:predicate});
+]]></content>
+  <tabTrigger>partitionpoint</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

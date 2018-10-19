@@ -1,6 +1,6 @@
 <snippet>
 	<description>cin.get()</description>
-	<content><![CDATA[${1:std::}thread ]]></content>
+	<content><![CDATA[std::thread ]]></content>
 	<tabTrigger>thread</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

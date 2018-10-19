@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+std::shuffle(std::begin($1), std::end($1));
+
+]]></content>
+  <tabTrigger>shuffle</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

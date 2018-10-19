@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+datetime.now()
+]]></content>
+  <tabTrigger>now</tabTrigger>
+  <scope>source.python</scope>
+  <description>now</description>
+</snippet>

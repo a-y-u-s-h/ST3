@@ -1,5 +1,5 @@
 <snippet>
-  <description>cout</description>
+  <description>std::cout</description>
   <content><![CDATA[std::cout << ${1} << std::endl;]]></content>
   <tabTrigger>prn</tabTrigger>
   <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

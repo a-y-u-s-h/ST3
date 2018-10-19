@@ -1,7 +1,7 @@
 <snippet>
 	<description>new-line</description>
 	<content><![CDATA[
-cout << endl;
+std::cout << std::endl;
 
 ]]></content>
 	<tabTrigger>nl</tabTrigger>

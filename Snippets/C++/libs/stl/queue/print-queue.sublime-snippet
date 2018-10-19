@@ -1,12 +1,12 @@
 <snippet>
 	<description>print queue</description>
 	<content><![CDATA[
-[](${1:std::}queue<int> q) {
+[](std::queue<int> q) {
     while (!q.empty()) {
-      ${1:std::}cout << q.front() << " ";
+      std::cout << q.front() << " ";
       q.pop();
     }
-    ${1:std::}cout << ${1:std::}endl;
+    std::cout << std::endl;
 }(${2:target});
 ]]></content>
 	<tabTrigger>printqueue</tabTrigger>

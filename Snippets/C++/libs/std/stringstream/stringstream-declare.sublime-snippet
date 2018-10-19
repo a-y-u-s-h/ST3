@@ -1,6 +1,6 @@
 <snippet>
 	<description>declare stringstream</description>
-	<content><![CDATA[${1:std::}stringstream ${2:stream} (${3:string});]]></content>
+	<content><![CDATA[std::stringstream ${2:stream} (${3:string});]]></content>
 	<tabTrigger>stringstream</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

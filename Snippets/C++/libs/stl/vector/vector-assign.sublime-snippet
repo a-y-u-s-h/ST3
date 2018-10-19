@@ -1,6 +1,6 @@
 <snippet>
 	<description>vector assign</description>
-	<content><![CDATA[${2:target}.assign(${1:std::}begin(${3:this}), ${1:std::}end(${3:this}));]]></content>
+	<content><![CDATA[${2:target}.assign(std::begin(${3:this}), std::end(${3:this}));]]></content>
 	<tabTrigger>vassign</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>
