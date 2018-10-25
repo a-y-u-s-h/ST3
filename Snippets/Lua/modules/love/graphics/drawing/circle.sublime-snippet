@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.circle("line", $0)
+]]></content>
+  <tabTrigger>circle</tabTrigger>
+  <scope>source.lua</scope>
+  <description>circle</description>
+</snippet>
+

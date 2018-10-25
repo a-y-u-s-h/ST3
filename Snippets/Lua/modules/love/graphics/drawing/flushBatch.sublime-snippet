@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.flushBatch($0)
+]]></content>
+  <tabTrigger>flushBatch</tabTrigger>
+  <scope>source.lua</scope>
+  <description>flushBatch</description>
+</snippet>
+

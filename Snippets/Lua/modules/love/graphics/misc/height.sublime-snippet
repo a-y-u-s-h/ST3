@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+love.graphics.getHeight()
+]]></content>
+	<tabTrigger>height</tabTrigger>
+	<scope>source.lua</scope>
+	<description>window height</description>
+</snippet>

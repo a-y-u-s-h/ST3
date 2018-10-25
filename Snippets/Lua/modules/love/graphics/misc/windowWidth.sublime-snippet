@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+love.graphics.getWidth()
+]]></content>
+	<tabTrigger>windowwidth</tabTrigger>
+	<scope>source.lua</scope>
+	<description>window width</description>
+</snippet>

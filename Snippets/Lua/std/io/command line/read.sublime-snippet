@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+local $1 = io.read()
+
+]]></content>
+	<tabTrigger>read</tabTrigger>
+	<scope>source.lua</scope>
+	<description>interpolate</description>
+</snippet>

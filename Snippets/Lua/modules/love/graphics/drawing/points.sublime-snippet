@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.points($0)
+]]></content>
+  <tabTrigger>points</tabTrigger>
+  <scope>source.lua</scope>
+  <description>points</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.drawLayer($0)
+]]></content>
+  <tabTrigger>drawLayer</tabTrigger>
+  <scope>source.lua</scope>
+  <description>drawLayer</description>
+</snippet>
+
