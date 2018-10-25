@@ -5,7 +5,7 @@
     Route : /$1
   ======================================
 """
-@app.route("/$1")
+@ app.route("/$1")
 def $1():
   return render_template("$1/$1.html")
 

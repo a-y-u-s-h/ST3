@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+plot.show()
+$0
+]]></content>
+  <tabTrigger>plotshow</tabTrigger>
+  <scope>source.python</scope>
+  <description>import plot</description>
+</snippet>

@@ -1,8 +1,8 @@
 <snippet> 
   <content><![CDATA[
-@ app.route("$0")
+plot.plot($0)
 ]]></content>
-  <tabTrigger>route</tabTrigger>
+  <tabTrigger>plot</tabTrigger>
   <scope>source.python</scope>
-  <description>app.route</description>
+  <description>import plot</description>
 </snippet>
