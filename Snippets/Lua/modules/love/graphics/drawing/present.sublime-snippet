@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.present($0)
+]]></content>
+  <tabTrigger>present</tabTrigger>
+  <scope>source.lua</scope>
+  <description>present</description>
+</snippet>
+

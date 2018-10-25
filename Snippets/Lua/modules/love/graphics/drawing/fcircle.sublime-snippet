@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.circle("fill", $0)
+]]></content>
+  <tabTrigger>fcircle</tabTrigger>
+  <scope>source.lua</scope>
+  <description>circle</description>
+</snippet>
+

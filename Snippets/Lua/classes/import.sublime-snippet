@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-local $1 = require "$1"
+local ${1/(.+)\.(?=(\w+)$)//g} = require "$1"
 
 ]]></content>
 	<tabTrigger>import</tabTrigger>

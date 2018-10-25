@@ -12,6 +12,9 @@ function love.draw ()
 	
 end
 
+function love.quit ()
+	
+end
 ]]></content>
 	<tabTrigger>love</tabTrigger>
 	<scope>source.lua</scope>

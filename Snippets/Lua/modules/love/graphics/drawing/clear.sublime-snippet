@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.clear($0)
+]]></content>
+  <tabTrigger>clear</tabTrigger>
+  <scope>source.lua</scope>
+  <description>clear</description>
+</snippet>
+

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+love.graphics.line($0)
+]]></content>
+	<tabTrigger>line</tabTrigger>
+	<scope>source.lua</scope>
+	<description>line</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.drawInstanced($0)
+]]></content>
+  <tabTrigger>drawInstanced</tabTrigger>
+  <scope>source.lua</scope>
+  <description>drawInstanced</description>
+</snippet>
+
