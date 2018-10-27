@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+RUN $0
+
+]]></content>
+  <tabTrigger>run</tabTrigger>
+  <scope>source.dockerfile</scope>
+</snippet>

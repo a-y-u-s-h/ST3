@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+RUN echo "$0"
+]]></content>
+  <tabTrigger>prn</tabTrigger>
+  <scope>source.dockerfile</scope>
+</snippet>

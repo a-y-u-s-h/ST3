@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+RUN apt-get update -y
+RUN apt-get dist-upgrade -y
+$0
+]]></content>
+  <tabTrigger>uu</tabTrigger>
+  <scope>source.dockerfile</scope>
+</snippet>
