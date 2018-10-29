@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+File.new("$1", "${2:r+}")
+]]></content>
+	<tabTrigger>wopen</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+when $1
+	$0
+exit
+]]></content>
+	<tabTrigger>case</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

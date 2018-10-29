@@ -1,0 +1,8 @@
+
+<snippet>
+  <content><![CDATA[
+Math.log2($0)
+]]></content>
+  <tabTrigger>log2</tabTrigger>
+  <scope>source.crystal</scope>
+</snippet>

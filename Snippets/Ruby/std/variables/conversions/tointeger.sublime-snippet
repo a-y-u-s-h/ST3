@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+$0.to_i
+]]></content>
+	<tabTrigger>toint</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

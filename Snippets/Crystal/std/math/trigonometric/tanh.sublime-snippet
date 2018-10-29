@@ -1,0 +1,8 @@
+
+<snippet>
+  <content><![CDATA[
+Math.tanh($0)
+]]></content>
+  <tabTrigger>tanh</tabTrigger>
+  <scope>source.crystal</scope>
+</snippet>

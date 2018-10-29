@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+class ${1:}
+${2/(\A\s*,\s*\Z)|,?\s*([A-Za-z_: ][a-zA-Z0-9:_ ]*)\s*(=[^,]*)?(,\s*|$)/(?2:\tproperty $2\n)/g}
+	def initialize(${2/([^,])?(.*)/(?2:)/}${2:})
+		$0
+  end
+end
+]]></content>
+	<tabTrigger>class</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

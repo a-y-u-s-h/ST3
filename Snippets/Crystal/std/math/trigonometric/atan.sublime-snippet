@@ -1,0 +1,8 @@
+
+<snippet>
+  <content><![CDATA[
+Math.atan($0)
+]]></content>
+  <tabTrigger>atan</tabTrigger>
+  <scope>source.crystal</scope>
+</snippet>

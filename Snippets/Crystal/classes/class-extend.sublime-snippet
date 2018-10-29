@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+class ${1:} < $2
+	$0
+end
+]]></content>
+	<tabTrigger>cex</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

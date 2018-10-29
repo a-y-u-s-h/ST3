@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+$0.shift
+]]></content>
+	<tabTrigger>fpop</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+$1.each do |${2:key}, ${3:value}|
+	$0
+end
+]]></content>
+	<tabTrigger>fordict</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

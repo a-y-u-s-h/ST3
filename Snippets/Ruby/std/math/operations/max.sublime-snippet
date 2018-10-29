@@ -1,0 +1,8 @@
+
+<snippet>
+  <content><![CDATA[
+Math.max($0)
+]]></content>
+  <tabTrigger>max</tabTrigger>
+  <scope>source.crystal</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+elsif ($1)
+	$0
+end
+]]></content>
+	<tabTrigger>elif</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

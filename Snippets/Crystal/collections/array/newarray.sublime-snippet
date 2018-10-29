@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Array($0).new
+]]></content>
+	<tabTrigger>newarray</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

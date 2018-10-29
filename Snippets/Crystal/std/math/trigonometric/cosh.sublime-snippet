@@ -1,0 +1,8 @@
+
+<snippet>
+  <content><![CDATA[
+Math.cosh($0)
+]]></content>
+  <tabTrigger>cosh</tabTrigger>
+  <scope>source.crystal</scope>
+</snippet>

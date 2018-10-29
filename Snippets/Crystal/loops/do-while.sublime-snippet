@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+loop do
+	$0
+	break if $1
+end
+]]></content>
+	<tabTrigger>dowhile</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

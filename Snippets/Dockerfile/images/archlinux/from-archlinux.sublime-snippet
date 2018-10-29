@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+FROM base/archlinux
+
+$0
+]]></content>
+  <tabTrigger>fa</tabTrigger>
+  <scope>source.dockerfile</scope>
+</snippet>

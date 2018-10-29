@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+to_f64
+]]></content>
+	<tabTrigger>tobf</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

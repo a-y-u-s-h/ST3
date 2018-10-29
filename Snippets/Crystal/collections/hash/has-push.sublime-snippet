@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+$1.merge($0)
+]]></content>
+	<tabTrigger>hashpush</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

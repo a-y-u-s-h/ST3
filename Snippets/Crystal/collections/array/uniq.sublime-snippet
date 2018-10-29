@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+$0.uniq
+]]></content>
+	<tabTrigger>uniq</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

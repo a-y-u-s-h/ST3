@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+RUN pacman -Syu --noconfirm
+$0
+]]></content>
+  <tabTrigger>pu</tabTrigger>
+  <scope>source.dockerfile</scope>
+</snippet>

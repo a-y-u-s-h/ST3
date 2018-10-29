@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+begin
+	$0
+rescue e
+	puts e
+end
+]]></content>
+	<tabTrigger>try</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

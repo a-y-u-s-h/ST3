@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+value
+]]></content>
+	<tabTrigger>value</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

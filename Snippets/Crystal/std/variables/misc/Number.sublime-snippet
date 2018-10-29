@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Number
+]]></content>
+	<tabTrigger>num</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

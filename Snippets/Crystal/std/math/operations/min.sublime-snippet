@@ -1,0 +1,8 @@
+
+<snippet>
+  <content><![CDATA[
+Math.min($0)
+]]></content>
+  <tabTrigger>min</tabTrigger>
+  <scope>source.crystal</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Float64
+]]></content>
+	<tabTrigger>float2</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>

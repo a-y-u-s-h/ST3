@@ -1,0 +1,86 @@
+<snippet>
+  <content><![CDATA[
+#  ======================================
+#    Requirement : Host must be Linux.
+#    This script makes it easy for us
+#    to get into development using
+#    best practices that Docker offers us.
+#  ======================================
+
+function build () {
+
+	#  ======================================
+  #    Create a docker image named : \$1
+  #    .. if it doesn't already exist.
+  #  ======================================
+
+  if [[ -z "\$(sudo docker images -q \$1)" ]]; then
+    sudo docker build -t \$1 .
+  fi
+  return
+}
+
+function debug () {
+
+	#  ======================================
+  #    Create a container named : \$2
+  #    if it doesn't already exist, and if
+  #    it does delete it and make a new one.
+  #  ======================================
+
+
+  if [ ! -z "\$(sudo docker ps -a | grep \$2)" ]; then
+    echo "Removing container : \$2"
+    sudo docker rm -f \$2
+  fi
+
+  echo "Creating container : \$2"
+  sudo docker run -it                            \
+    --net=host                                   \
+    -p \$3:4000                                 \
+    -v \$(pwd):/app                               \
+    -v "\$HOME/.Xauthority:/root/.Xauthority:rw"  \
+    -e DISPLAY                                   \
+    --name \$2 \$1
+
+  return
+}
+
+function clean () {
+
+	#  ======================================
+  #    Remove image : '\$1'
+  #    Remove container : '\$2' 
+  #    .. if they exist.
+  #  ======================================
+
+  if [[ ! -z "\$(sudo docker images -q \$1)" ]]; then
+    echo "Removing image : \$1"
+    sudo docker rmi -f \$1 
+  fi  
+
+  if [ ! -z "\$(sudo docker ps -a | grep \$2)" ]; then
+    echo "Removing container : \$2"
+    sudo docker rm -f \$2
+  fi
+
+  return
+}
+
+#  ======================================
+#    Clean only if mentioned, otherwise
+#    keep debugging.
+#  ======================================
+
+
+if [[ \$1 == "clean" ]]; then
+  clean $1 ${1/:/-/g}
+else
+  build $1 ${1/:/-/g}
+  debug $1 ${1/:/-/g} ${2:4000}
+fi
+
+]]></content>
+  <tabTrigger>docker</tabTrigger>
+  <scope>source.shell</scope>
+</snippet>

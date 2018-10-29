@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+EXPOSE ${1:4000}
+$0
+]]></content>
+  <tabTrigger>expose</tabTrigger>
+  <scope>source.dockerfile</scope>
+</snippet>

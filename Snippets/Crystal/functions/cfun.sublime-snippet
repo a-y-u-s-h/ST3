@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+def $1=($1)
+	$0
+end
+]]></content>
+  <tabTrigger>cfun</tabTrigger>
+  <scope>source.crystal</scope>
+</snippet>
