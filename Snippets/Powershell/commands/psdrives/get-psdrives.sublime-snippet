@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+GET-PSDRIVE
+]]></content>
+  <tabTrigger>lspsdrives</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>psdrives</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+using Statistics
+
+]]></content>
+  <tabTrigger>statsimport</tabTrigger>
+  <scope>source.julia</scope>
+  <description>import</description>
+</snippet>

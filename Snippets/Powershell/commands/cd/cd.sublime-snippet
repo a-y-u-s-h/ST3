@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+CD $0
+]]></content>
+  <tabTrigger>cd</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>cd</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+IPCONFIG
+]]></content>
+  <tabTrigger>ipconfig</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>ipconfig</description>
+</snippet>

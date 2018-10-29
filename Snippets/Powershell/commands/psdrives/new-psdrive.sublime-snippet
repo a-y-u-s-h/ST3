@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+NEW-PSDRIVE -name $1 -psprovider FileSystem -root $0
+]]></content>
+  <tabTrigger>newpsdrive</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>new psdrives</description>
+</snippet>

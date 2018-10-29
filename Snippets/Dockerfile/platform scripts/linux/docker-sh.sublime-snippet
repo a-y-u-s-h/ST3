@@ -37,7 +37,7 @@ function debug () {
   echo "Creating container : \$2"
   sudo docker run -it                            \
     --net=host                                   \
-    -p \$3:4000                                 \
+    -p \$3:4000                                   \
     -v \$(pwd):/app                               \
     -v "\$HOME/.Xauthority:/root/.Xauthority:rw"  \
     -e DISPLAY                                   \

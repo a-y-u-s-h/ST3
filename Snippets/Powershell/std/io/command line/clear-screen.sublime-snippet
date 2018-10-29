@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+CLS
+
+]]></content>
+  <tabTrigger>cls</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>cls</description>
+</snippet>

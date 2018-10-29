@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PWD
+]]></content>
+  <tabTrigger>pwd</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>/</description>
+</snippet>

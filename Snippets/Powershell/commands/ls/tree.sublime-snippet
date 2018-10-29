@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+LS -RECURSE ${1:.}
+$0
+]]></content>
+  <tabTrigger>tree</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>tree</description>
+</snippet>

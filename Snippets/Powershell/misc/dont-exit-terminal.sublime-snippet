@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$HOST.ENTERNESTEDPROMPT()
+]]></content>
+  <tabTrigger>stay</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>stay</description>
+</snippet>

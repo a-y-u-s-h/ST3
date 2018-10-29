@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+PAUSE
+
+]]></content>
+  <tabTrigger>pause</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>pause</description>
+</snippet>

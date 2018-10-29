@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+NSLOOKUP
+]]></content>
+  <tabTrigger>nslookup</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>nslookup</description>
+</snippet>

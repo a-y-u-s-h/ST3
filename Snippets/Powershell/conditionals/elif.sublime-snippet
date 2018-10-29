@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+elseif ($1) {
+  $0
+}
+]]></content>
+  <tabTrigger>elif</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>elif</description>
+</snippet>

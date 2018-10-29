@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+WRITE-HOST $0
+]]></content>
+  <tabTrigger>prn</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>print</description>
+</snippet>

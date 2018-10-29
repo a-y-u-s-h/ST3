@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+# |======================================================================|
+# 
+#  Purpose of `$TM_FILENAME` :
+# 
+#  ${1}
+# 
+# |======================================================================|
+
+]]></content>
+	<tabTrigger>whatsup</tabTrigger>
+	<scope>source.powershell</scope>
+	<description>whatsup</description>
+</snippet>

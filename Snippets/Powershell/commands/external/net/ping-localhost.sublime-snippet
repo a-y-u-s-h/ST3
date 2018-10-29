@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PING localhost
+]]></content>
+  <tabTrigger>lping</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>ping</description>
+</snippet>

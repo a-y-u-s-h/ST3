@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+GET-PROCESS
+]]></content>
+  <tabTrigger>lsprocess</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>psdrives</description>
+</snippet>

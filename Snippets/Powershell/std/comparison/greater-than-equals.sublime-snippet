@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+-ge
+]]></content>
+  <tabTrigger>&gt;=</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>&gt;=</description>
+</snippet>

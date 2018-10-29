@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+READ-HOST $0
+]]></content>
+  <tabTrigger>input</tabTrigger>
+  <scope>source.powershell</scope>
+  <description>input</description>
+</snippet>

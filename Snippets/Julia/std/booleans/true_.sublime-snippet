@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+true
+]]></content>
+  <tabTrigger>true</tabTrigger>
+  <scope>source.julia</scope>
+  <description>true</description>
+</snippet>
