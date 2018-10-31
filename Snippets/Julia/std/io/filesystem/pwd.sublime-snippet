@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+pwd()
+]]></content>
+  <tabTrigger>pwd</tabTrigger>
+  <scope>source.julia</scope>
+  <description>pwd</description>
+</snippet>

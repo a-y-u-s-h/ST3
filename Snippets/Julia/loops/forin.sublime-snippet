@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for ${1:i} in $2
+  $0
+end
+]]></content>
+  <tabTrigger>forin</tabTrigger>
+  <scope>source.julia</scope>
+  <description>forin</description>
+</snippet>

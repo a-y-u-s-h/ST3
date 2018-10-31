@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+"""$0"""
+]]></content>
+  <tabTrigger>tfo</tabTrigger>
+  <scope>source.julia</scope>
+  <description>tfo</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+readdir
+]]></content>
+  <tabTrigger>pls</tabTrigger>
+  <scope>source.julia</scope>
+  <description>pls</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+string($0)
+]]></content>
+  <tabTrigger>string</tabTrigger>
+  <scope>source.julia</scope>
+  <description>string</description>
+</snippet>

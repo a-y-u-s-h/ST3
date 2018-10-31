@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for (root, dirs, files) in walkdir("$1")
+  $0
+end
+]]></content>
+  <tabTrigger>walk</tabTrigger>
+  <scope>source.julia</scope>
+  <description>walk</description>
+</snippet>
