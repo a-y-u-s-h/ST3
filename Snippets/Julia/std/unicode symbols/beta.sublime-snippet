@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-\$($0)
+β
 ]]></content>
-  <tabTrigger>/</tabTrigger>
+  <tabTrigger>beta</tabTrigger>
   <scope>source.julia</scope>
-  <description>dollar</description>
+  <description></description>
 </snippet>

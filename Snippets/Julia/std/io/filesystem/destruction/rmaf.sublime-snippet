@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+#=
+  ======================================
+    Remove all files from current directory.
+  ======================================
+=#
+
+rm.(
+    [file for file in readdir() if isfile(file)], 
+    force = true, recursive = true 
+  )
+
+]]></content>
+  <tabTrigger>rmaf</tabTrigger>
+  <scope>source.julia</scope>
+  <description>rmaf</description>
+</snippet>

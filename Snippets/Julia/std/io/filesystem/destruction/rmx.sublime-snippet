@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+#=
+  ======================================
+    Remove all files from current directory,
+    which have the extension : .${1:}
+  ======================================
+=#
+
+rm.(
+    [
+      file for file in readdir() 
+      if endswith(file, ".${1:}") & isfile(file)
+    ], 
+    force = true, recursive = true
+  )
+
+]]></content>
+  <tabTrigger>rmx</tabTrigger>
+  <scope>source.julia</scope>
+  <description>rmx</description>
+</snippet>

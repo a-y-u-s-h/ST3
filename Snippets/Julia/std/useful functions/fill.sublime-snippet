@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-\$($0)
+fill(${1:0}, ($0))
 ]]></content>
-  <tabTrigger>/</tabTrigger>
+  <tabTrigger>fill</tabTrigger>
   <scope>source.julia</scope>
-  <description>dollar</description>
+  <description>fill</description>
 </snippet>

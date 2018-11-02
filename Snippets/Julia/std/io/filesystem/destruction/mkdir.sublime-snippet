@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+mkpath("$0")
+]]></content>
+  <tabTrigger>mkdir</tabTrigger>
+  <scope>source.julia</scope>
+  <description>make directory tree</description>
+</snippet>

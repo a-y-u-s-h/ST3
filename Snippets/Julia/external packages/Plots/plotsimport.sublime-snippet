@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+using Plots
+
+]]></content>
+  <tabTrigger>plotsimport</tabTrigger>
+  <scope>source.julia</scope>
+  <description>plot import</description>
+</snippet>

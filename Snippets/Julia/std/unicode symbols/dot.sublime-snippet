@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-readdir()
+⨀
 ]]></content>
-  <tabTrigger>lswd</tabTrigger>
+  <tabTrigger>dot</tabTrigger>
   <scope>source.julia</scope>
-  <description>lswd</description>
+  <description></description>
 </snippet>

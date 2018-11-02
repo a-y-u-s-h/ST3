@@ -1,10 +1,9 @@
 <snippet>
   <content><![CDATA[
-for $1 in $2
+elseif $1
   $0
-end
 ]]></content>
-  <tabTrigger>forin</tabTrigger>
+  <tabTrigger>elif</tabTrigger>
   <scope>source.julia</scope>
-  <description>forin</description>
+  <description>elif</description>
 </snippet>

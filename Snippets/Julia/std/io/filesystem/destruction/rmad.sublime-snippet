@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+#=
+  ======================================
+    Remove all folders from current directory.
+  ======================================
+=#
+
+rm.(
+    [folder for folder in readdir() if isdir(folder)], 
+    force = true, 
+    recursive = true
+  )
+
+]]></content>
+  <tabTrigger>rmad</tabTrigger>
+  <scope>source.julia</scope>
+  <description>rmad</description>
+</snippet>

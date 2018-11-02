@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-\$($0)
+homedir()
 ]]></content>
-  <tabTrigger>/</tabTrigger>
+  <tabTrigger>home</tabTrigger>
   <scope>source.julia</scope>
-  <description>dollar</description>
+  <description>home</description>
 </snippet>

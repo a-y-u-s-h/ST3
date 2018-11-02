@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-for $1 in $2
+if $1 ∈ $2
   $0
 end
 ]]></content>
-  <tabTrigger>forin</tabTrigger>
+  <tabTrigger>ifin</tabTrigger>
   <scope>source.julia</scope>
-  <description>forin</description>
+  <description>if</description>
 </snippet>

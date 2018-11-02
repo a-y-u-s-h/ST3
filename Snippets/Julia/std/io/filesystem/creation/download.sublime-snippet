@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+download("${1:url}", "${0:as}")
+]]></content>
+  <tabTrigger>download</tabTrigger>
+  <scope>source.julia</scope>
+  <description>download</description>
+</snippet>

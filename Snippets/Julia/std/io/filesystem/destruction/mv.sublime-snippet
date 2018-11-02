@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+mv("${1:src}", "${2:dest}", force = true)
+
+]]></content>
+  <tabTrigger>mv</tabTrigger>
+  <scope>source.julia</scope>
+  <description>mv</description>
+</snippet>

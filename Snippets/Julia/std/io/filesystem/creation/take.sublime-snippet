@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+mkpath("${1:}")
+cd("${1:}")
+
+]]></content>
+  <tabTrigger>take</tabTrigger>
+  <scope>source.julia</scope>
+  <description>take</description>
+</snippet>

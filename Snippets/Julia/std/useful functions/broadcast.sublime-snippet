@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+broadcast($0)
+]]></content>
+  <tabTrigger>broadcast</tabTrigger>
+  <scope>source.julia</scope>
+  <description>broadcast</description>
+</snippet>

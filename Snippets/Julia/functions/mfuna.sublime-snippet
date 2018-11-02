@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-for $1 in $2
+$1 = ($2) -> begin 
   $0
 end
 ]]></content>
-  <tabTrigger>forin</tabTrigger>
+  <tabTrigger>funa</tabTrigger>
   <scope>source.julia</scope>
-  <description>forin</description>
+  <description>mfuna</description>
 </snippet>

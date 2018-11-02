@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+rm("$0", force = true, recursive = true)
+]]></content>
+  <tabTrigger>delete</tabTrigger>
+  <scope>source.julia</scope>
+  <description>delete</description>
+</snippet>
