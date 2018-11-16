@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+itertools.starmap($0)
+]]></content>
+  <tabTrigger>istarmap</tabTrigger>
+  <scope>source.python</scope>
+  <description>istarmap</description>
+</snippet>

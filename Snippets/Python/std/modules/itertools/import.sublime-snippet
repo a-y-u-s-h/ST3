@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+import itertools
+
+]]></content>
+  <tabTrigger>itertoolsimport</tabTrigger>
+  <scope>source.python</scope>
+  <description>itertoolsimport</description>
+</snippet>

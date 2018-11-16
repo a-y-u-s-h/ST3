@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+itertools.count()
+]]></content>
+  <tabTrigger>icount</tabTrigger>
+  <scope>source.python</scope>
+  <description>icount</description>
+</snippet>

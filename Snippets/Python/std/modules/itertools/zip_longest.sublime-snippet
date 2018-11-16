@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+itertools.zip_longest($0)
+]]></content>
+  <tabTrigger>iziplongest</tabTrigger>
+  <scope>source.python</scope>
+  <description>iziplongest</description>
+</snippet>

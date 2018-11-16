@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+itertools.combinations_with_replacement($0)
+]]></content>
+  <tabTrigger>icwr</tabTrigger>
+  <scope>source.python</scope>
+  <description>icombinations_with_replacement</description>
+</snippet>

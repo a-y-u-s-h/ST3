@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+itertools.combinations($0)
+]]></content>
+  <tabTrigger>icombinations</tabTrigger>
+  <scope>source.python</scope>
+  <description>icombinations</description>
+</snippet>

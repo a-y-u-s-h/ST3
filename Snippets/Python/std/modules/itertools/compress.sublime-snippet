@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+itertools.compress($0)
+]]></content>
+  <tabTrigger>icompress</tabTrigger>
+  <scope>source.python</scope>
+  <description>icompress</description>
+</snippet>
