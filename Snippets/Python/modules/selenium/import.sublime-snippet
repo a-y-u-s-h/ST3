@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+from selenium import webdriver
+
+]]></content>
+  <tabTrigger>seleniumimport</tabTrigger>
+  <scope>source.python</scope>
+  <description>import</description>
+</snippet>

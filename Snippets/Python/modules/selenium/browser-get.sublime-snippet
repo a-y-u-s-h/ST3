@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+browser.get(f"$0")
+]]></content>
+  <tabTrigger>geturl</tabTrigger>
+  <scope>source.python</scope>
+  <description>urlopen</description>
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 #  ======================================
-#    Requirement : Host must be Linux.
+#    Requirement : Host must be Windows.
 #    This script makes it easy for us
 #    to get into development using
 #    best practices that Docker offers us.
@@ -61,8 +61,6 @@ function clean (\$image, \$container) {
 #    Clean only if mentioned, otherwise
 #    keep debugging.
 #  ======================================
-
-WRITE-HOST \$args[0]
 
 if ( \$args[0] -eq "clean" ) {
   clean '$1' '${1/:/-/g}'

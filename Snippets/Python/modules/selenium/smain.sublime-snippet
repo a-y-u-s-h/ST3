@@ -1,0 +1,18 @@
+<snippet> 
+  <content><![CDATA[
+import os
+import shutil
+import glob
+from selenium import webdriver
+
+def main():
+  browser = webdriver.Firefox()
+  $0
+
+if __name__ == '__main__':
+  main()
+]]></content>
+  <tabTrigger>wmain</tabTrigger>
+  <scope>source.python</scope>
+  <description>web main</description>
+</snippet>
