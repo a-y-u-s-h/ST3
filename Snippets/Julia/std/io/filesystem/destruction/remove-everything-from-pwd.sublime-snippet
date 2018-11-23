@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
 rm.(readdir(), force = true, recursive = true)
+
 ]]></content>
   <tabTrigger>rmac</tabTrigger>
   <scope>source.julia</scope>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dirname("$0")
+]]></content>
+  <tabTrigger>dirname</tabTrigger>
+  <scope>source.julia</scope>
+  <description>cd foldername</description>
+</snippet>

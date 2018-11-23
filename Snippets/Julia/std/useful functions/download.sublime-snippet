@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-readdir("./$0")
+download($0)
 ]]></content>
-  <tabTrigger>ls</tabTrigger>
+  <tabTrigger>download</tabTrigger>
   <scope>source.julia</scope>
-  <description>ls</description>
+  <description>download</description>
 </snippet>

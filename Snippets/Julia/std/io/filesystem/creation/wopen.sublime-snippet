@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+open("$1", "${2:r+}") do file
+  $0
+end;
+]]></content>
+  <tabTrigger>wopen</tabTrigger>
+  <scope>source.julia</scope>
+  <description>wopen</description>
+</snippet>
