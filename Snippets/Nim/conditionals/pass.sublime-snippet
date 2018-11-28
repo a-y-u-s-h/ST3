@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+discard
+]]></content>
+  <tabTrigger>pass</tabTrigger>
+  <scope>source.nim</scope>
+  <description>pass</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+or
+]]></content>
+  <tabTrigger>or</tabTrigger>
+  <scope>source.nim</scope>
+  <description>or</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+case $1
+  $0
+]]></content>
+  <tabTrigger>switch</tabTrigger>
+  <scope>source.nim</scope>
+  <description>switch</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+countup($0)
+]]></content>
+  <tabTrigger>irange</tabTrigger>
+  <scope>source.nim</scope>
+  <description>range</description>
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
   <description>std::cout</description>
   <content><![CDATA[
-std::cout << ${0} << std::endl
+std::cout << ${0} << std::endl;
 ]]></content>
   <tabTrigger>prn</tabTrigger>
   <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

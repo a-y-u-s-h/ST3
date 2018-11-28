@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+float($0)
+]]></content>
+  <tabTrigger>tofloat</tabTrigger>
+  <scope>source.nim</scope>
+  <description>tofloat</description>
+</snippet>

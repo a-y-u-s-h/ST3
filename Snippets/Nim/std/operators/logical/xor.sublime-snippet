@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+xor
+]]></content>
+  <tabTrigger>xor</tabTrigger>
+  <scope>source.nim</scope>
+  <description>xor</description>
+</snippet>

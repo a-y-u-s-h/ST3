@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+else: $0
+]]></content>
+  <tabTrigger>ielse</tabTrigger>
+  <scope>source.nim</scope>
+  <description>else</description>
+</snippet>

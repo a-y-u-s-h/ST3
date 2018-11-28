@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+elif $1: $0
+]]></content>
+  <tabTrigger>ielif</tabTrigger>
+  <scope>source.nim</scope>
+  <description>elif</description>
+</snippet>
