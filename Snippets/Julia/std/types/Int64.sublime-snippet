@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+Int64
+]]></content>
+  <tabTrigger>i4</tabTrigger>
+  <scope>source.julia</scope>
+  <description>Int64</description>
+</snippet>

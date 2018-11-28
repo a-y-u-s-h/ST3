@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-auto ${1:function_name} = [${2:&}](${3}) { ${4:return ${5};} };
+auto ${1:function} = [${2:&}] (${3}) { ${4:return ${5};} };
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>funia</tabTrigger>

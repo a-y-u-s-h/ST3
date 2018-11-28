@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+readLine(stdin)
+]]></content>
+  <tabTrigger>readinput</tabTrigger>
+  <scope>source.nim</scope>
+  <description>readinput</description>
+</snippet>

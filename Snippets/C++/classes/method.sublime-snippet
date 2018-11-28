@@ -1,0 +1,9 @@
+<snippet>
+    <description>Method</description>
+    <content><![CDATA[
+${1:int} ${2:class} :: ${3:method} (${4}) {
+  ${0}
+}]]></content>
+    <tabTrigger>method</tabTrigger>
+    <scope>source.c, source.objc, source.c++, source.objc++</scope>
+</snippet>

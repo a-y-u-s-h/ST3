@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+findfirst($0)
+]]></content>
+  <tabTrigger>ff</tabTrigger>
+  <scope>source.julia</scope>
+  <description>findfirst</description>
+</snippet>

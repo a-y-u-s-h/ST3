@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+Float64
+]]></content>
+  <tabTrigger>f2</tabTrigger>
+  <scope>source.julia</scope>
+  <description>Float64</description>
+</snippet>

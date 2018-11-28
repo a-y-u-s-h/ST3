@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+UInt16
+]]></content>
+  <tabTrigger>ui2</tabTrigger>
+  <scope>source.julia</scope>
+  <description>UInt16</description>
+</snippet>

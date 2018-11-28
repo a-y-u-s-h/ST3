@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+Int8
+]]></content>
+  <tabTrigger>i1</tabTrigger>
+  <scope>source.julia</scope>
+  <description>Int8</description>
+</snippet>

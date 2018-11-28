@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+BigInt
+]]></content>
+  <tabTrigger>bint</tabTrigger>
+  <scope>source.julia</scope>
+  <description>BigInt</description>
+</snippet>

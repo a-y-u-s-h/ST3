@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import strformat
+
+]]></content>
+  <tabTrigger>fmtimport</tabTrigger>
+  <scope>source.nim</scope>
+  <description>fmtimport</description>
+</snippet>

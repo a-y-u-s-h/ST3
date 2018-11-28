@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for (${1:key}, ${2:value}) in $3
+  $0
+end
+]]></content>
+  <tabTrigger>ford</tabTrigger>
+  <scope>source.julia</scope>
+  <description>ford</description>
+</snippet>

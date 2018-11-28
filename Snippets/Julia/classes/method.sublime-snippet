@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+function $1(this :: $2)
+  $0
+end
+]]></content>
+  <tabTrigger>method</tabTrigger>
+  <scope>source.julia</scope>
+  <description>method</description>
+</snippet>

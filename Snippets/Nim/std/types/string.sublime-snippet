@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+string
+]]></content>
+  <tabTrigger>string</tabTrigger>
+  <scope>source.nim</scope>
+  <description>string</description>
+</snippet>

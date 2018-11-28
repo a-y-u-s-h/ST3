@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-class ${1:ClassName} :${3: virtual}${4: public} ${2:baseClass} {
+class ${1:C} :${3: virtual}${4: public} ${2:baseClass} {
 	${0}
 };
 ]]></content>

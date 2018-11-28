@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+($0)
+]]></content>
+  <tabTrigger>9</tabTrigger>
+  <scope>source.nim</scope>
+  <description>9</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+findall($0)
+]]></content>
+  <tabTrigger>fa</tabTrigger>
+  <scope>source.julia</scope>
+  <description>findall</description>
+</snippet>

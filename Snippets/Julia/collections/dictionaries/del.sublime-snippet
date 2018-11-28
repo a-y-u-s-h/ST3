@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+delete!($0)
+]]></content>
+  <tabTrigger>del</tabTrigger>
+  <scope>source.julia</scope>
+  <description>del</description>
+</snippet>

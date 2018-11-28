@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+Int32
+]]></content>
+  <tabTrigger>i3</tabTrigger>
+  <scope>source.julia</scope>
+  <description>Int32</description>
+</snippet>

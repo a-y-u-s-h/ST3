@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
 template <${2:}>
-class ${1:ClassName} {
+class ${1:} {
 	private:
 		
 
 	public:
-		${1:ClassName}()  {
+		${1:} ()  {
 		
 		}
 

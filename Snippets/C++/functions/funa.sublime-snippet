@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[auto ${1:function_name} = [${3:&}] (${4}) mutable {
+	<content><![CDATA[auto ${1:function} = [${3:&}] (${4}) mutable {
 	${0}
 };
 ]]></content>

@@ -1,17 +1,17 @@
 <snippet>
 	<content><![CDATA[
-class ${1:ClassName} {
+class ${1:C} {
 	private:
 		
 
 	public:
-		${1:ClassName}()  {
+		${1:C} ()  {
 			
 		}
 
 		${0}
 
-		~${1:ClassName}()  {
+		~${1:C} ()  {
 			
 		}
 

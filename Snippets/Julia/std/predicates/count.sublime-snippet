@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+count($0)
+]]></content>
+  <tabTrigger>count</tabTrigger>
+  <scope>source.julia</scope>
+  <description>count</description>
+</snippet>

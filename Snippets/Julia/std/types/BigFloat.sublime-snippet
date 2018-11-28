@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+BigFloat
+]]></content>
+  <tabTrigger>bfloat</tabTrigger>
+  <scope>source.julia</scope>
+  <description>BigFloat</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+haskey($0)
+]]></content>
+  <tabTrigger>haskey</tabTrigger>
+  <scope>source.julia</scope>
+  <description>haskey</description>
+</snippet>
