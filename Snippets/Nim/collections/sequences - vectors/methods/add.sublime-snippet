@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.add($0)
+]]></content>
+  <tabTrigger>add</tabTrigger>
+  <scope>source.nim</scope>
+  <description>add</description>
+</snippet>

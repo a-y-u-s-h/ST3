@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+array[${1:n}, ${2:int}]
+]]></content>
+  <tabTrigger>array</tabTrigger>
+  <scope>source.nim</scope>
+  <description>array</description>
+</snippet>

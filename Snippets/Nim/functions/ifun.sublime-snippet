@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+proc ${1:function} ($2) = $0
+]]></content>
+  <tabTrigger>ifun</tabTrigger>
+  <scope>source.nim</scope>
+  <description>fun</description>
+</snippet>

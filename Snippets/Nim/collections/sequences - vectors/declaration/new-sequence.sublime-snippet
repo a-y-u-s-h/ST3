@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+newSeq[${1:int}]()
+]]></content>
+  <tabTrigger>newvector</tabTrigger>
+  <scope>source.nim</scope>
+  <description>seq</description>
+</snippet>
