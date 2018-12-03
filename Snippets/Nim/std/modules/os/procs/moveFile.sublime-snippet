@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.moveFile($0)
+]]></content>
+  <tabTrigger>moveFile</tabTrigger>
+  <scope>source.nim</scope>
+  <description>moveFile</description>
+</snippet>

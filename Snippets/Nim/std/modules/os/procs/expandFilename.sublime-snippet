@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.expandFilename($0)
+]]></content>
+  <tabTrigger>expandFilename</tabTrigger>
+  <scope>source.nim</scope>
+  <description>expandFilename</description>
+</snippet>

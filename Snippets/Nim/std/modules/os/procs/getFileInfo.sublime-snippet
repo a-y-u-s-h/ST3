@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.getFileInfo($0)
+]]></content>
+  <tabTrigger>getFileInfo</tabTrigger>
+  <scope>source.nim</scope>
+  <description>getFileInfo</description>
+</snippet>

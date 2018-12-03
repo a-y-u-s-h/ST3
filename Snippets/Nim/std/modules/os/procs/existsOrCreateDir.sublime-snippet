@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.existsOrCreateDir($0)
+]]></content>
+  <tabTrigger>existsOrCreateDir</tabTrigger>
+  <scope>source.nim</scope>
+  <description>existsOrCreateDir</description>
+</snippet>

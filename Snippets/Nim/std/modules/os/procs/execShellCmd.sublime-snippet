@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.execShellCmd($0)
+]]></content>
+  <tabTrigger>execShellCmd</tabTrigger>
+  <scope>source.nim</scope>
+  <description>execShellCmd</description>
+</snippet>

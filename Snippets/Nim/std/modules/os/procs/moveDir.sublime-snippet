@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.moveDir($0)
+]]></content>
+  <tabTrigger>moveDir</tabTrigger>
+  <scope>source.nim</scope>
+  <description>moveDir</description>
+</snippet>

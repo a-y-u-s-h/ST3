@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.normalizedPath($0)
+]]></content>
+  <tabTrigger>normalizedPath</tabTrigger>
+  <scope>source.nim</scope>
+  <description>normalizedPath</description>
+</snippet>

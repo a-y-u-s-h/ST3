@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.getCreationTime($0)
+]]></content>
+  <tabTrigger>getCreationTime</tabTrigger>
+  <scope>source.nim</scope>
+  <description>getCreationTime</description>
+</snippet>

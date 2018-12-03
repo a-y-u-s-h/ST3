@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.createDir($0)
+]]></content>
+  <tabTrigger>createDir</tabTrigger>
+  <scope>source.nim</scope>
+  <description>createDir</description>
+</snippet>

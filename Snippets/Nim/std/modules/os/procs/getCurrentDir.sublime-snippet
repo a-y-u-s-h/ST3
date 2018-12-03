@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.getCurrentDir($0)
+]]></content>
+  <tabTrigger>getCurrentDir</tabTrigger>
+  <scope>source.nim</scope>
+  <description>getCurrentDir</description>
+</snippet>

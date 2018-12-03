@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.fileExists($0)
+]]></content>
+  <tabTrigger>fileExists</tabTrigger>
+  <scope>source.nim</scope>
+  <description>fileExists</description>
+</snippet>

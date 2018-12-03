@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.getAppDir($0)
+]]></content>
+  <tabTrigger>getAppDir</tabTrigger>
+  <scope>source.nim</scope>
+  <description>getAppDir</description>
+</snippet>

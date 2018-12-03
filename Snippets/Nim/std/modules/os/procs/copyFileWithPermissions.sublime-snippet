@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.copyFileWithPermissions($0)
+]]></content>
+  <tabTrigger>copyFileWithPermissions</tabTrigger>
+  <scope>source.nim</scope>
+  <description>copyFileWithPermissions</description>
+</snippet>

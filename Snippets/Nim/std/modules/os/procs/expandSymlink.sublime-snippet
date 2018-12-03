@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.expandSymlink($0)
+]]></content>
+  <tabTrigger>expandSymlink</tabTrigger>
+  <scope>source.nim</scope>
+  <description>expandSymlink</description>
+</snippet>

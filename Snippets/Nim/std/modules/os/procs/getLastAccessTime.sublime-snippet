@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.getLastAccessTime($0)
+]]></content>
+  <tabTrigger>getLastAccessTime</tabTrigger>
+  <scope>source.nim</scope>
+  <description>getLastAccessTime</description>
+</snippet>

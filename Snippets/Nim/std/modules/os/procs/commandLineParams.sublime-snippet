@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.commandLineParams($0)
+]]></content>
+  <tabTrigger>commandLineParams</tabTrigger>
+  <scope>source.nim</scope>
+  <description>commandLineParams</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.existsDir($0)
+]]></content>
+  <tabTrigger>existsDir</tabTrigger>
+  <scope>source.nim</scope>
+  <description>existsDir</description>
+</snippet>

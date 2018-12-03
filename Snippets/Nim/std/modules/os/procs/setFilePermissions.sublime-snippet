@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+os.setFilePermissions($0)
+]]></content>
+  <tabTrigger>setFilePermissions</tabTrigger>
+  <scope>source.nim</scope>
+  <description>setFilePermissions</description>
+</snippet>
