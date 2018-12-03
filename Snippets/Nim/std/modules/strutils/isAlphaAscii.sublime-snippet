@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.isAlphaAscii($0)
+]]></content>
+  <tabTrigger>isAlphaAscii</tabTrigger>
+  <scope>source.nim</scope>
+  <description>isAlphaAscii</description>
+</snippet>

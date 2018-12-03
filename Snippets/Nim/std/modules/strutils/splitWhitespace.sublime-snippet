@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.splitWhitespace($0)
+]]></content>
+  <tabTrigger>splitWhitespace</tabTrigger>
+  <scope>source.nim</scope>
+  <description>splitWhitespace</description>
+</snippet>

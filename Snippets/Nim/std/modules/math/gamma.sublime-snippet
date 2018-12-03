@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gamma($0)
+]]></content>
+  <tabTrigger>gamma</tabTrigger>
+  <scope>source.nim</scope>
+  <description>gamma</description>
+</snippet>

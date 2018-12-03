@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.removePrefix($0)
+]]></content>
+  <tabTrigger>removePrefix</tabTrigger>
+  <scope>source.nim</scope>
+  <description>removePrefix</description>
+</snippet>

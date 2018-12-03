@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.isNilOrWhitespace($0)
+]]></content>
+  <tabTrigger>isNilOrWhitespace</tabTrigger>
+  <scope>source.nim</scope>
+  <description>isNilOrWhitespace</description>
+</snippet>

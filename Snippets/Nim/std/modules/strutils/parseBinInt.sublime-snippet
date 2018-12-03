@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.parseBinInt($0)
+]]></content>
+  <tabTrigger>parseBinInt</tabTrigger>
+  <scope>source.nim</scope>
+  <description>parseBinInt</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.parseHexInt($0)
+]]></content>
+  <tabTrigger>parseHexInt</tabTrigger>
+  <scope>source.nim</scope>
+  <description>parseHexInt</description>
+</snippet>

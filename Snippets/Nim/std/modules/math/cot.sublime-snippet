@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cot($0)
+]]></content>
+  <tabTrigger>cot</tabTrigger>
+  <scope>source.nim</scope>
+  <description>cot</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+csch($0)
+]]></content>
+  <tabTrigger>csch</tabTrigger>
+  <scope>source.nim</scope>
+  <description>csch</description>
+</snippet>

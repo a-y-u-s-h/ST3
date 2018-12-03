@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+prod($0)
+]]></content>
+  <tabTrigger>prod</tabTrigger>
+  <scope>source.nim</scope>
+  <description>prod</description>
+</snippet>

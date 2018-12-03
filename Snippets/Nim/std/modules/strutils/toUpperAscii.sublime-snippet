@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.toUpperAscii($0)
+]]></content>
+  <tabTrigger>toUpperAscii</tabTrigger>
+  <scope>source.nim</scope>
+  <description>toUpperAscii</description>
+</snippet>

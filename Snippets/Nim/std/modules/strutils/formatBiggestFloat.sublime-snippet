@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.formatBiggestFloat($0)
+]]></content>
+  <tabTrigger>formatBiggestFloat</tabTrigger>
+  <scope>source.nim</scope>
+  <description>formatBiggestFloat</description>
+</snippet>

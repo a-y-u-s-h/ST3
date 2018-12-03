@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+c_frexp($0)
+]]></content>
+  <tabTrigger>c_frexp</tabTrigger>
+  <scope>source.nim</scope>
+  <description>c_frexp</description>
+</snippet>

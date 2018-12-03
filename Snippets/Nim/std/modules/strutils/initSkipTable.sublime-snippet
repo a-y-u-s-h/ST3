@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.initSkipTable($0)
+]]></content>
+  <tabTrigger>initSkipTable</tabTrigger>
+  <scope>source.nim</scope>
+  <description>initSkipTable</description>
+</snippet>

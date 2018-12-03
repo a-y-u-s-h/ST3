@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+arccoth($0)
+]]></content>
+  <tabTrigger>arccoth</tabTrigger>
+  <scope>source.nim</scope>
+  <description>arccoth</description>
+</snippet>

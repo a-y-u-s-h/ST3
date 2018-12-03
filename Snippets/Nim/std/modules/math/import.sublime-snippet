@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import math
+]]></content>
+  <tabTrigger>incmath</tabTrigger>
+  <scope>source.nim</scope>
+  <description>incmath</description>
+</snippet>

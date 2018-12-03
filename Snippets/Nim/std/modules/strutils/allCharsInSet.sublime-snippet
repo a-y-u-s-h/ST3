@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.allCharsInSet($0)
+]]></content>
+  <tabTrigger>allCharsInSet</tabTrigger>
+  <scope>source.nim</scope>
+  <description>allCharsInSet</description>
+</snippet>

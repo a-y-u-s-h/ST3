@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+binom($0)
+]]></content>
+  <tabTrigger>binom</tabTrigger>
+  <scope>source.nim</scope>
+  <description>binom</description>
+</snippet>

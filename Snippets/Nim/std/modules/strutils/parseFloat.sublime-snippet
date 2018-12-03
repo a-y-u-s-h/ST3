@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.parseFloat($0)
+]]></content>
+  <tabTrigger>parseFloat</tabTrigger>
+  <scope>source.nim</scope>
+  <description>parseFloat</description>
+</snippet>

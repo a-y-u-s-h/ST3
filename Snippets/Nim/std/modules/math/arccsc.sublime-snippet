@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+arccsc($0)
+]]></content>
+  <tabTrigger>arccsc</tabTrigger>
+  <scope>source.nim</scope>
+  <description>arccsc</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.unescape($0)
+]]></content>
+  <tabTrigger>unescape</tabTrigger>
+  <scope>source.nim</scope>
+  <description>unescape</description>
+</snippet>

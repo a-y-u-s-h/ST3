@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+splitDecimal($0)
+]]></content>
+  <tabTrigger>splitDecimal</tabTrigger>
+  <scope>source.nim</scope>
+  <description>splitDecimal</description>
+</snippet>

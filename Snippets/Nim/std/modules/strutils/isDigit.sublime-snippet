@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.isDigit($0)
+]]></content>
+  <tabTrigger>isDigit</tabTrigger>
+  <scope>source.nim</scope>
+  <description>isDigit</description>
+</snippet>

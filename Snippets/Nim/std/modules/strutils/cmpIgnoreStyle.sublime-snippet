@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.cmpIgnoreStyle($0)
+]]></content>
+  <tabTrigger>cmpIgnoreStyle</tabTrigger>
+  <scope>source.nim</scope>
+  <description>cmpIgnoreStyle</description>
+</snippet>

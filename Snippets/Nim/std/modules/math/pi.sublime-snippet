@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PI
+]]></content>
+  <tabTrigger>pi</tabTrigger>
+  <scope>source.nim</scope>
+  <description>pi</description>
+</snippet>

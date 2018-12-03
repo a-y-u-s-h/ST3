@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tanh($0)
+]]></content>
+  <tabTrigger>tanh</tabTrigger>
+  <scope>source.nim</scope>
+  <description>tanh</description>
+</snippet>

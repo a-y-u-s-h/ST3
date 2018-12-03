@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.continuesWith($0)
+]]></content>
+  <tabTrigger>continuesWith</tabTrigger>
+  <scope>source.nim</scope>
+  <description>continuesWith</description>
+</snippet>

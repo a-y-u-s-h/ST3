@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.quoteIfContainsWhite($0)
+]]></content>
+  <tabTrigger>quoteIfContainsWhite</tabTrigger>
+  <scope>source.nim</scope>
+  <description>quoteIfContainsWhite</description>
+</snippet>

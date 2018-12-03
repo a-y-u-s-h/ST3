@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.abbrev($0)
+]]></content>
+  <tabTrigger>abbrev</tabTrigger>
+  <scope>source.nim</scope>
+  <description>abbrev</description>
+</snippet>

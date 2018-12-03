@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.trimZeros($0)
+]]></content>
+  <tabTrigger>trimZeros</tabTrigger>
+  <scope>source.nim</scope>
+  <description>trimZeros</description>
+</snippet>

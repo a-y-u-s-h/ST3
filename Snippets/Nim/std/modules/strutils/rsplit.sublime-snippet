@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.rsplit($0)
+]]></content>
+  <tabTrigger>rsplit</tabTrigger>
+  <scope>source.nim</scope>
+  <description>rsplit</description>
+</snippet>

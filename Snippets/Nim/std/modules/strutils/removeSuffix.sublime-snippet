@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.removeSuffix($0)
+]]></content>
+  <tabTrigger>removeSuffix</tabTrigger>
+  <scope>source.nim</scope>
+  <description>removeSuffix</description>
+</snippet>

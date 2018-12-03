@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+classify($0)
+]]></content>
+  <tabTrigger>classify</tabTrigger>
+  <scope>source.nim</scope>
+  <description>classify</description>
+</snippet>

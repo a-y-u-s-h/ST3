@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.addf($0)
+]]></content>
+  <tabTrigger>addf</tabTrigger>
+  <scope>source.nim</scope>
+  <description>addf</description>
+</snippet>

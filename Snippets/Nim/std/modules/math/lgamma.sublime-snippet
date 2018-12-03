@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+lgamma($0)
+]]></content>
+  <tabTrigger>lgamma</tabTrigger>
+  <scope>source.nim</scope>
+  <description>lgamma</description>
+</snippet>

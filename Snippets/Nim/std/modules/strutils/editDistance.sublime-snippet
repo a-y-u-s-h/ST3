@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.editDistance($0)
+]]></content>
+  <tabTrigger>editDistance</tabTrigger>
+  <scope>source.nim</scope>
+  <description>editDistance</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ln($0)
+]]></content>
+  <tabTrigger>ln</tabTrigger>
+  <scope>source.nim</scope>
+  <description>ln</description>
+</snippet>

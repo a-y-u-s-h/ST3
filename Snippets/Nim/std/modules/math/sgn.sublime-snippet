@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+sgn($0)
+]]></content>
+  <tabTrigger>sgn</tabTrigger>
+  <scope>source.nim</scope>
+  <description>sgn</description>
+</snippet>

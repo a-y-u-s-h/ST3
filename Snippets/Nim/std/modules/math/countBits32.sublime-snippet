@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+countBits32($0)
+]]></content>
+  <tabTrigger>countBits32</tabTrigger>
+  <scope>source.nim</scope>
+  <description>countBits32</description>
+</snippet>

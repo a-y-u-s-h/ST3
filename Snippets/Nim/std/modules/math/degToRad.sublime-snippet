@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+degToRad($0)
+]]></content>
+  <tabTrigger>degToRad</tabTrigger>
+  <scope>source.nim</scope>
+  <description>degToRad</description>
+</snippet>

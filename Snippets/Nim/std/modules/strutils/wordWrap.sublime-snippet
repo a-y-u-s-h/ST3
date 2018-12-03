@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.wordWrap($0)
+]]></content>
+  <tabTrigger>wordWrap</tabTrigger>
+  <scope>source.nim</scope>
+  <description>wordWrap</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.unindent($0)
+]]></content>
+  <tabTrigger>unindent</tabTrigger>
+  <scope>source.nim</scope>
+  <description>unindent</description>
+</snippet>

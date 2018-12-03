@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+sech($0)
+]]></content>
+  <tabTrigger>sech</tabTrigger>
+  <scope>source.nim</scope>
+  <description>sech</description>
+</snippet>

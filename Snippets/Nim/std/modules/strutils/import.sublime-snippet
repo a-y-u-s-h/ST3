@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import strutils
+]]></content>
+  <tabTrigger>incstrutils</tabTrigger>
+  <scope>source.nim</scope>
+  <description>incstrutils</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+export $0
+]]></content>
+  <tabTrigger>export</tabTrigger>
+  <scope>source.nim</scope>
+  <description>export</description>
+</snippet>

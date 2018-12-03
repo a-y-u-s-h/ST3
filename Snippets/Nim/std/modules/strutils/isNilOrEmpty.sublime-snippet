@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1.isNilOrEmpty($0)
+]]></content>
+  <tabTrigger>isNilOrEmpty</tabTrigger>
+  <scope>source.nim</scope>
+  <description>isNilOrEmpty</description>
+</snippet>
