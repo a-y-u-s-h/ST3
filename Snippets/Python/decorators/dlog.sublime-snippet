@@ -22,7 +22,9 @@ def log(f):
     
     file = os.path.join(path, f"{datetime.datetime.now():%d %B %Y}.log")
 
-    logging.handlers = []
+    for handler in logging.root.handlers[:]:
+      logging.root.removeHandler(handler)
+      
     logging.basicConfig(
       filename = file,
       level = logging.DEBUG,

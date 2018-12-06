@@ -1,7 +1,6 @@
 <snippet>
   <description>#include functional</description>
-  <content><![CDATA[
-#include <functional>
+  <content><![CDATA[#include <functional>
 
 ]]></content>
   <tabTrigger>incfunctional</tabTrigger>

@@ -1,11 +1,8 @@
 <snippet>
-  <content><![CDATA[
-/* 
-   ${0}
-*/
+  <description>#include set</description>
+  <content><![CDATA[#include <set>
 
 ]]></content>
-  <tabTrigger>whoa</tabTrigger>
+  <tabTrigger>incset</tabTrigger>
   <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
-  <description>whatsup</description>
 </snippet>

@@ -1,0 +1,194 @@
+<snippet>
+  <content><![CDATA[
+#include <bits/stdc++.h>
+
+std::vector<std::string>                 readlines    ();
+template <typename T> std::vector<T>     readvector   (std::string line);
+template <typename T> std::vector<T>     range        (T stop);
+template <typename T> std::vector<T>     range        (T start, T stop);
+template <typename T> std::vector<T>     range        (T start, T stop, T step);
+template <typename T> std::ostream&      operator <<  (std::ostream& os, const std::vector<T>& v);
+template <typename T> std::ostream&      operator <<  (std::ostream& os, const std::vector<std::vector<T>>& v);
+
+
+/* |======================================================================| */
+
+/* 
+     /\$\$\$\$\$\$   /\$\$\$\$\$\$  /\$\$\$\$\$\$\$  /\$\$\$\$\$\$\$\$
+    /\$\$__  \$\$ /\$\$__  \$\$| \$\$__  \$\$| \$\$_____/
+   | \$\$  \__/| \$\$  \ \$\$| \$\$  \ \$\$| \$\$
+   | \$\$      | \$\$  | \$\$| \$\$  | \$\$| \$\$\$\$\$
+   | \$\$      | \$\$  | \$\$| \$\$  | \$\$| \$\$__/
+   | \$\$    \$\$| \$\$  | \$\$| \$\$  | \$\$| \$\$
+   |  \$\$\$\$\$\$/|  \$\$\$\$\$\$/| \$\$\$\$\$\$\$/| \$\$\$\$\$\$\$\$
+    \______/  \______/ |_______/ |________/
+*/
+
+int main(int argc, char const *argv[])
+{
+  #ifndef JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+  #endif
+
+  std::ios_base::sync_with_stdio(false);
+  std::cin.tie(NULL);
+  std::vector<std::string> lines = readlines();
+
+  $0
+  
+  return 0;
+}
+
+/* |======================================================================| */
+
+/*
+     /\$\$\$\$\$\$\$  /\$\$\$\$\$\$\$\$  /\$\$\$\$\$\$  /\$\$\$\$\$\$\$
+    | \$\$__  \$\$| \$\$_____/ /\$\$__  \$\$| \$\$__  \$\$
+    | \$\$  \ \$\$| \$\$      | \$\$  \ \$\$| \$\$  \ \$\$
+    | \$\$\$\$\$\$\$/| \$\$\$\$\$   | \$\$\$\$\$\$\$\$| \$\$  | \$\$
+    | \$\$__  \$\$| \$\$__/   | \$\$__  \$\$| \$\$  | \$\$
+    | \$\$  \ \$\$| \$\$      | \$\$  | \$\$| \$\$  | \$\$
+    | \$\$  | \$\$| \$\$\$\$\$\$\$\$| \$\$  | \$\$| \$\$\$\$\$\$\$/
+    |__/  |__/|________/|__/  |__/|_______/
+*/
+
+
+std::vector<std::string> readlines () {
+  /*
+    ======================================
+      Read the input from STDIN and return
+      a vector of lines. These lines can then
+      be dissected using stringstreams or
+      some helper functions mentioned below.
+
+      Example usage :
+
+      std::vector<std::string> lines = readlines();
+    ======================================
+  */
+  std::vector<std::string> lines;
+  std::string line;
+  while (std::getline(std::cin, line)) {
+    lines.push_back(line);
+  }
+  return lines;  
+}
+
+template <typename T>
+std::vector<T> readvector (std::string line) {
+  /*
+    ======================================
+      Given a string which contains numbers
+      such as in inputs of most competitive
+      programming questions, create a vector
+      of those numbers and return it.
+
+      Example usage : 
+
+      vector<float> numbers = readvector<float>(lines[0])
+    ======================================
+  */
+  std::vector<T> result;
+  std::stringstream stream (line);
+  std::string temporary;
+  T item;
+  while (!stream.eof()) {
+    stream >> temporary;
+    if (std::stringstream(temporary) >> item) result.push_back(item);
+    temporary = "";
+  }
+  return result;
+}
+
+/* |======================================================================| */
+
+/* 
+    /\$\$\$\$\$\$\$  /\$\$\$\$\$\$\$  /\$\$\$\$\$\$ /\$\$   /\$\$ /\$\$\$\$\$\$\$\$
+   | \$\$__  \$\$| \$\$__  \$\$|_  \$\$_/| \$\$\$ | \$\$|__  \$\$__/
+   | \$\$  \ \$\$| \$\$  \ \$\$  | \$\$  | \$\$\$\$| \$\$   | \$\$
+   | \$\$\$\$\$\$\$/| \$\$\$\$\$\$\$/  | \$\$  | \$\$ \$\$ \$\$   | \$\$
+   | \$\$____/ | \$\$__  \$\$  | \$\$  | \$\$  \$\$\$\$   | \$\$
+   | \$\$      | \$\$  \ \$\$  | \$\$  | \$\$\  \$\$\$   | \$\$
+   | \$\$      | \$\$  | \$\$ /\$\$\$\$\$\$| \$\$ \  \$\$   | \$\$
+   |__/      |__/  |__/|______/|__/  \__/   |__/
+*/
+
+template <class T>
+std::ostream& operator << (std::ostream& os, const std::vector<T>& v) {
+  /*
+    ======================================
+      Prints out a 1D vector.
+      Example usage :
+  
+      std::cout << vector << std::endl;
+    ======================================
+  */
+  for (int i = 0 ; i < v.size() - 1; i += 1) {
+    os << v[i] << " ";
+  }
+  os << v[v.size() - 1];
+  return os;
+}
+
+template <class T>
+std::ostream& operator << (std::ostream& os, const std::vector<std::vector<T>>& v) {
+/*
+  ======================================
+    Prints out a 2D vector.
+    Example usage:
+
+    std::cout << vector << std::endl;
+  ======================================
+*/
+  for (int i = 0 ; i < v.size(); i += 1) {
+    for (int j = 0 ; j < v[i].size() - 1; j += 1) {
+      os << v[i][j] << " ";
+    }
+    if (i < v.size() - 1) os << v[i][v[i].size() - 1] << std::endl;
+    if (i == v.size() - 1) os << v[i][v[i].size() - 1];
+  }
+  return os;
+}
+
+/* |======================================================================| */
+
+/* 
+    /\$\$\$\$\$\$\$   /\$\$\$\$\$\$  /\$\$   /\$\$  /\$\$\$\$\$\$  /\$\$\$\$\$\$\$\$  /\$\$\$\$\$\$
+   | \$\$__  \$\$ /\$\$__  \$\$| \$\$\$ | \$\$ /\$\$__  \$\$| \$\$_____/ /\$\$__  \$\$
+   | \$\$  \ \$\$| \$\$  \ \$\$| \$\$\$\$| \$\$| \$\$  \__/| \$\$      | \$\$  \__/
+   | \$\$\$\$\$\$\$/| \$\$\$\$\$\$\$\$| \$\$ \$\$ \$\$| \$\$ /\$\$\$\$| \$\$\$\$\$   |  \$\$\$\$\$\$
+   | \$\$__  \$\$| \$\$__  \$\$| \$\$  \$\$\$\$| \$\$|_  \$\$| \$\$__/    \____  \$\$
+   | \$\$  \ \$\$| \$\$  | \$\$| \$\$\  \$\$\$| \$\$  \ \$\$| \$\$       /\$\$  \ \$\$
+   | \$\$  | \$\$| \$\$  | \$\$| \$\$ \  \$\$|  \$\$\$\$\$\$/| \$\$\$\$\$\$\$\$|  \$\$\$\$\$\$/
+   |__/  |__/|__/  |__/|__/  \__/ \______/ |________/ \______/
+*/
+
+template <typename T>
+std::vector<T> range(T start, T stop, T step) {
+  if (step == T(0)) {
+    throw std::invalid_argument("step for range must be non-zero");
+  }
+  std::vector<T> result;
+  T i = start;
+  while ((step > 0) ? (i < stop) : (i > stop)) {
+    result.push_back(i);
+    i += step;
+  }
+  return result;
+}
+
+template <typename T>
+std::vector<T> range(T start, T stop) {
+  return range(start, stop, T(1));
+}
+
+template <typename T>
+std::vector<T> range(T stop) {
+  return range(T(0), stop, T(1));
+}
+
+]]></content>
+  <tabTrigger>cmain</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++)</scope>
+</snippet>

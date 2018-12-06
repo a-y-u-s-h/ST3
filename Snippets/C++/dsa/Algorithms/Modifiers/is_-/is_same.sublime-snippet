@@ -1,8 +1,7 @@
 <snippet>
-  <description>#include bits/stdc++.h</description>
-  <content><![CDATA[#include <algorithm>
-
+  <content><![CDATA[
+std::is_same($0)::value
 ]]></content>
-  <tabTrigger>incalgorithm</tabTrigger>
+  <tabTrigger>issame</tabTrigger>
   <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

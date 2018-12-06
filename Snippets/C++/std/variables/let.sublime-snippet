@@ -1,0 +1,6 @@
+<snippet>
+  <description>auto keyword</description>
+  <content><![CDATA[auto ${0}]]></content>
+  <tabTrigger>let</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

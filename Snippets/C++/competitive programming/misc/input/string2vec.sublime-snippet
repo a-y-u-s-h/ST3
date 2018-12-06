@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+std::vector<${3:float}> $2;
+[&] (std::string line, std::vector<${3:float}> &list) { 
+  std::stringstream stream (line);
+  std::string temporary;
+  ${3:float} item;
+  while (!stream.eof()) {
+    stream >> temporary;
+    if (std::stringstream(temporary) >> item) list.push_back(item);
+    temporary = "";
+  }
+} (lines[${1}], $2);
+
+]]></content>
+  <tabTrigger>putvector</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++)</scope>
+</snippet>
