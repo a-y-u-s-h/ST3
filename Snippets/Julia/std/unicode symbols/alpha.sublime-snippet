@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+α
+]]></content>
+  <tabTrigger>alpha</tabTrigger>
+  <scope>source.julia</scope>
+  <description></description>
+</snippet>

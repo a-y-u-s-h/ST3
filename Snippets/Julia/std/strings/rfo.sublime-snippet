@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+raw"$0"
+]]></content>
+  <tabTrigger>rafo</tabTrigger>
+  <scope>source.julia</scope>
+  <description>rafo</description>
+</snippet>

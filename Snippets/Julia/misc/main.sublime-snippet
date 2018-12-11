@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+function main()
+  $0
+end
+
+main()
+]]></content>
+  <tabTrigger>main</tabTrigger>
+  <scope>source.julia</scope>
+  <description>main</description>
+</snippet>

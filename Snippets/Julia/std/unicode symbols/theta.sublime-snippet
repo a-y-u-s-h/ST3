@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+θ
+]]></content>
+  <tabTrigger>theta</tabTrigger>
+  <scope>source.julia</scope>
+  <description></description>
+</snippet>

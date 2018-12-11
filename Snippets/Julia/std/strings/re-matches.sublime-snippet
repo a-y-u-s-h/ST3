@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+[string(i.match) for i in eachmatch(r"$1"mis, "$2")]
+]]></content>
+  <tabTrigger>rematches</tabTrigger>
+  <scope>source.julia</scope>
+  <description>rematches</description>
+</snippet>

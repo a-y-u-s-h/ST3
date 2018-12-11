@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+$0 <- readLn
+]]></content>
+  <tabTrigger>readinput</tabTrigger>
+  <scope>source.haskell</scope>
+</snippet>
