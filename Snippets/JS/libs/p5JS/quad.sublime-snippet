@@ -2,8 +2,8 @@
 	<content><![CDATA[
 quad(${1:x1}, ${2:y1}, ${3:x2}, ${4:y2}, ${1:x3}, ${2:y3}, ${3:x4}, ${4:y4})
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
 	<tabTrigger>q</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
 	<scope>source.js</scope>
 </snippet>

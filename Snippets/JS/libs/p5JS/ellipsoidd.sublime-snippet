@@ -2,8 +2,8 @@
 	<content><![CDATA[
 ellipsoid(${1:rx}, ${2:ry}, ${3:rz}, ${4:detailX}, ${5:detailY})
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
 	<tabTrigger>elsdd</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
 	<scope>source.js</scope>
 </snippet>

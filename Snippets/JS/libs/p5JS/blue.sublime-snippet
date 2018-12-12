@@ -2,8 +2,8 @@
 	<content><![CDATA[
 blue(${0:color-object || pixel-array})
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
 	<tabTrigger>b</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
 	<scope>source.js</scope>
 </snippet>

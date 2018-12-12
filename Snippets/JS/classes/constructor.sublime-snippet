@@ -4,8 +4,8 @@ constructor (${1/([^,])?(.*)/(?1:)/}${1:}) {
 ${1/(\A\s*,\s*\Z)|,?\s*([A-Za-z_][a-zA-Z0-9_]*)\s*(=[^,]*)?(,\s*|$)/(?2:\tthis.$2 = $2\n)/g}  $0
 }
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
 	<tabTrigger>constructor</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
 	<scope>source.js</scope>
 </snippet>

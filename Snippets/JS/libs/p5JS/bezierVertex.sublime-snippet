@@ -2,8 +2,8 @@
 	<content><![CDATA[
 bezierVertex(${1:x1c}, ${2:y1c}, ${3:x2c}, ${4:y2c}, ${5:x3a}, ${6:y3a})
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
 	<tabTrigger>bvx</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
 	<scope>source.js</scope>
 </snippet>

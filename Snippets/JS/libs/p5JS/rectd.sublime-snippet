@@ -2,8 +2,8 @@
 	<content><![CDATA[
 rect(${1:x}, ${2:y}, ${3:w}, ${4:h}, ${5:detailX}, ${6:detailY})
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
 	<tabTrigger>rectd</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
 	<scope>source.js</scope>
 </snippet>

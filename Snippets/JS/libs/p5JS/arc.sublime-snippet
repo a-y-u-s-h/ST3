@@ -2,8 +2,8 @@
 	<content><![CDATA[
 arc(${1:x}, ${2:y}, ${3:w}, ${4:h}, ${5:start-angle}, ${6:stop-angle}, ${7:OPEN/CHORD/PIE}})
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	
 	<tabTrigger>arc</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
 	<scope>source.js</scope>
 </snippet>

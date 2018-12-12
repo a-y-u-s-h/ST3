@@ -1,0 +1,8 @@
+documentation:
+  - 
+    location: '../README.md'
+    sections:
+        - Snippets, Macros and Settings for ST3: 'Collection of snippets and macros for personal use.'
+        - Author: 'Ayush Sharma (@a-y-u-s-h)'
+        - Languages: ''
+        - Snippets: null

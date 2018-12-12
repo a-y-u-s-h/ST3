@@ -2,8 +2,8 @@
   <content><![CDATA[
 setInterval($0, ${1:300})
 ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  
   <tabTrigger>sti</tabTrigger>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  
   <scope>source.js</scope>
 </snippet>
