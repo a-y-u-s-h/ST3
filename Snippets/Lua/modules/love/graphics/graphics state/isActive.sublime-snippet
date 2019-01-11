@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.isActive($0)
+]]></content>
+  <tabTrigger>isActive</tabTrigger>
+  <scope>source.lua</scope>
+  <description>isActive</description>
+</snippet>

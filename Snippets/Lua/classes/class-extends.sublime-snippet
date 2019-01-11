@@ -3,14 +3,15 @@
 --[[ 
   ======================================
     Class : $1
+    Extends : $2
   ======================================
 --]]
 
-local $1 = {}
+local $1 = $2:constructor ()
 
-function $1:constructor (${2})
+function $1:constructor (${3})
 	setmetatable({}, $1)
-${2/(\A\s*,\s*\Z)|,?\s*([A-Za-z_][a-zA-Z0-9_]*)\s*(=[^,]*)?(,\s*|$)/(?2:\tself.$2 = $2\n)/g}	return self
+${3/(\A\s*,\s*\Z)|,?\s*([A-Za-z_][a-zA-Z0-9_]*)\s*(=[^,]*)?(,\s*|$)/(?2:\tself.$2 = $2\n)/g}	return self
 end
 
 $0
@@ -20,7 +21,7 @@ $0
 return $1
 
 ]]></content>
-	<tabTrigger>class</tabTrigger>
+	<tabTrigger>cex</tabTrigger>
 	<scope>source.lua</scope>
-	<description>class</description>
+	<description>cex</description>
 </snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.getLastModified($0)
+]]></content>
+  <tabTrigger>getLastModified</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getLastModified</description>
+</snippet>

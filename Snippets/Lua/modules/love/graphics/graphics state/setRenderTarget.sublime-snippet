@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setRenderTarget($0)
+]]></content>
+  <tabTrigger>setRenderTarget</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setRenderTarget</description>
+</snippet>

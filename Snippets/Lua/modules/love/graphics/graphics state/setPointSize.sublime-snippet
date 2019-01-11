@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setPointSize($0)
+]]></content>
+  <tabTrigger>setPointSize</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setPointSize</description>
+</snippet>

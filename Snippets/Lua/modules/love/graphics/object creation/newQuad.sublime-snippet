@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.newQuad($0)
+]]></content>
+  <tabTrigger>newQuad</tabTrigger>
+  <scope>source.lua</scope>
+  <description>newQuad</description>
+</snippet>

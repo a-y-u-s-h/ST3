@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.textinput ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>textinput</tabTrigger>
+  <scope>source.lua</scope>
+  <description>textinput</description>
+</snippet>

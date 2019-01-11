@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.errorhandler ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>errorhandler</tabTrigger>
+  <scope>source.lua</scope>
+  <description>errorhandler</description>
+</snippet>

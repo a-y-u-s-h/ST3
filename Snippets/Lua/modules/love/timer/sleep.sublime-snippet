@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.timer.sleep()
+]]></content>
+  <tabTrigger>sleep</tabTrigger>
+  <scope>source.lua</scope>
+  <description>sleep</description>
+</snippet>

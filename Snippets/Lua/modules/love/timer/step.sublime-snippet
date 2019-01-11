@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.timer.step()
+]]></content>
+  <tabTrigger>step</tabTrigger>
+  <scope>source.lua</scope>
+  <description>step</description>
+</snippet>

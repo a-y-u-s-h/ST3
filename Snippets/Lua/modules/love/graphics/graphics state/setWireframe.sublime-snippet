@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setWireframe($0)
+]]></content>
+  <tabTrigger>setWireframe</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setWireframe</description>
+</snippet>

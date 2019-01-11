@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.setRequirePath($0)
+]]></content>
+  <tabTrigger>setRequirePath</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setRequirePath</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.getColorMode($0)
+]]></content>
+  <tabTrigger>getColorMode</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getColorMode</description>
+</snippet>

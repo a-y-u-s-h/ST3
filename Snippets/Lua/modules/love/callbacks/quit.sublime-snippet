@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.quit ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>quit</tabTrigger>
+  <scope>source.lua</scope>
+  <description>quit</description>
+</snippet>

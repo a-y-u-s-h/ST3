@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.wheelmoved ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>wheelmoved</tabTrigger>
+  <scope>source.lua</scope>
+  <description>wheelmoved</description>
+</snippet>

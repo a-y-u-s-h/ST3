@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setLineWidth($0)
+]]></content>
+  <tabTrigger>setLineWidth</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setLineWidth</description>
+</snippet>

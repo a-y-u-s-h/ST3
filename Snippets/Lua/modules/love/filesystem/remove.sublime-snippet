@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.remove($0)
+]]></content>
+  <tabTrigger>remove</tabTrigger>
+  <scope>source.lua</scope>
+  <description>remove</description>
+</snippet>

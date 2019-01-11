@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.keyreleased ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>keyreleased</tabTrigger>
+  <scope>source.lua</scope>
+  <description>keyreleased</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setLineStyle($0)
+]]></content>
+  <tabTrigger>setLineStyle</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setLineStyle</description>
+</snippet>

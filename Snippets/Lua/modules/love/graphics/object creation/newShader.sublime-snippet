@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.newShader($0)
+]]></content>
+  <tabTrigger>newShader</tabTrigger>
+  <scope>source.lua</scope>
+  <description>newShader</description>
+</snippet>

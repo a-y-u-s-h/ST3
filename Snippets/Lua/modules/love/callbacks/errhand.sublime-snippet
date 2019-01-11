@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.errhand ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>errhand</tabTrigger>
+  <scope>source.lua</scope>
+  <description>errhand</description>
+</snippet>

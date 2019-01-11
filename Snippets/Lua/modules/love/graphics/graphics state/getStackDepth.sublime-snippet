@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.getStackDepth($0)
+]]></content>
+  <tabTrigger>getStackDepth</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getStackDepth</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.getSourceBaseDirectory($0)
+]]></content>
+  <tabTrigger>getSourceBaseDirectory</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getSourceBaseDirectory</description>
+</snippet>

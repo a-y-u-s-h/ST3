@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setPointStyle($0)
+]]></content>
+  <tabTrigger>setPointStyle</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setPointStyle</description>
+</snippet>

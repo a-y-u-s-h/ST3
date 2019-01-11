@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.newFont($0)
+]]></content>
+  <tabTrigger>newFont</tabTrigger>
+  <scope>source.lua</scope>
+  <description>newFont</description>
+</snippet>

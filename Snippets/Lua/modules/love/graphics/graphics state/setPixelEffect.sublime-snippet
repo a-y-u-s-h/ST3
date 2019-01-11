@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setPixelEffect($0)
+]]></content>
+  <tabTrigger>setPixelEffect</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setPixelEffect</description>
+</snippet>

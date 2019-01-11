@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.isFile($0)
+]]></content>
+  <tabTrigger>isFile</tabTrigger>
+  <scope>source.lua</scope>
+  <description>isFile</description>
+</snippet>

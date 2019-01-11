@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.timer.getTime()
+]]></content>
+  <tabTrigger>getTime</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getTime</description>
+</snippet>

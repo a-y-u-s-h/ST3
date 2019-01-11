@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.unmount($0)
+]]></content>
+  <tabTrigger>unmount</tabTrigger>
+  <scope>source.lua</scope>
+  <description>unmount</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.setSymlinksEnabled($0)
+]]></content>
+  <tabTrigger>setSymlinksEnabled</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setSymlinksEnabled</description>
+</snippet>

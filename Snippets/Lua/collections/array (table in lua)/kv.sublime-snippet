@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$1 = $0
+]]></content>
+	<tabTrigger>kv</tabTrigger>
+	<scope>source.lua</scope>
+	<description>key value</description>
+</snippet>

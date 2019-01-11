@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.read($0)
+]]></content>
+  <tabTrigger>read</tabTrigger>
+  <scope>source.lua</scope>
+  <description>read</description>
+</snippet>

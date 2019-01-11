@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.mousefocus ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>mousefocus</tabTrigger>
+  <scope>source.lua</scope>
+  <description>mousefocus</description>
+</snippet>

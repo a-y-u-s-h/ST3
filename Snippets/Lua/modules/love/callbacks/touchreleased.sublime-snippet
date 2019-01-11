@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.touchreleased ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>touchreleased</tabTrigger>
+  <scope>source.lua</scope>
+  <description>touchreleased</description>
+</snippet>

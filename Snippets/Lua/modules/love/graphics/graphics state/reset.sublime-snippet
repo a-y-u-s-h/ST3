@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.reset($0)
+]]></content>
+  <tabTrigger>reset</tabTrigger>
+  <scope>source.lua</scope>
+  <description>reset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setColorMask($0)
+]]></content>
+  <tabTrigger>setColorMask</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setColorMask</description>
+</snippet>

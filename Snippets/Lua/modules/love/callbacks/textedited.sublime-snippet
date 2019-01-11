@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.textedited ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>textedited</tabTrigger>
+  <scope>source.lua</scope>
+  <description>textedited</description>
+</snippet>

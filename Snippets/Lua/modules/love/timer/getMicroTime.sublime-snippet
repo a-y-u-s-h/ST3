@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.timer.getMicroTime()
+]]></content>
+  <tabTrigger>getMicroTime</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getMicroTime</description>
+</snippet>

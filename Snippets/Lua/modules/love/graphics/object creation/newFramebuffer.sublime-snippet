@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.newFramebuffer($0)
+]]></content>
+  <tabTrigger>newFramebuffer</tabTrigger>
+  <scope>source.lua</scope>
+  <description>newFramebuffer</description>
+</snippet>

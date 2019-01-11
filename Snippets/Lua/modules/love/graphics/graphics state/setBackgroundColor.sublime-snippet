@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setBackgroundColor($0)
+]]></content>
+  <tabTrigger>setBackgroundColor</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setBackgroundColor</description>
+</snippet>

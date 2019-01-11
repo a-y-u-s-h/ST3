@@ -1,0 +1,11 @@
+
+<snippet>
+  <content><![CDATA[
+function love.threaderror ($1)
+  $0
+end
+]]></content>
+  <tabTrigger>threaderror</tabTrigger>
+  <scope>source.lua</scope>
+  <description>threaderror</description>
+</snippet>

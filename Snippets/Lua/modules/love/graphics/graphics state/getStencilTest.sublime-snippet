@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.getStencilTest($0)
+]]></content>
+  <tabTrigger>getStencilTest</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getStencilTest</description>
+</snippet>

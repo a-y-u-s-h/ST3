@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.validateShader($0)
+]]></content>
+  <tabTrigger>validateShader</tabTrigger>
+  <scope>source.lua</scope>
+  <description>validateShader</description>
+</snippet>

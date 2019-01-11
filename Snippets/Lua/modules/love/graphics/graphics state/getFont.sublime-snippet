@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.getFont($0)
+]]></content>
+  <tabTrigger>getFont</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getFont</description>
+</snippet>

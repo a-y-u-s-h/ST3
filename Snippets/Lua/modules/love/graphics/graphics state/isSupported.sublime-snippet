@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.isSupported($0)
+]]></content>
+  <tabTrigger>isSupported</tabTrigger>
+  <scope>source.lua</scope>
+  <description>isSupported</description>
+</snippet>

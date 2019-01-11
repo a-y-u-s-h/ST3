@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.getRealDirectory($0)
+]]></content>
+  <tabTrigger>getRealDirectory</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getRealDirectory</description>
+</snippet>

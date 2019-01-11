@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.getDefaultFilter($0)
+]]></content>
+  <tabTrigger>getDefaultFilter</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getDefaultFilter</description>
+</snippet>

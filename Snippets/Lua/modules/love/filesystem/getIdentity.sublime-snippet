@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.getIdentity($0)
+]]></content>
+  <tabTrigger>getIdentity</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getIdentity</description>
+</snippet>

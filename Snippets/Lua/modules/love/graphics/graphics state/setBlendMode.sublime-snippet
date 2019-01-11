@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setBlendMode($0)
+]]></content>
+  <tabTrigger>setBlendMode</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setBlendMode</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setFrontFaceWinding($0)
+]]></content>
+  <tabTrigger>setFrontFaceWinding</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setFrontFaceWinding</description>
+</snippet>

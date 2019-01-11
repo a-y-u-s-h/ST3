@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.setLineStipple($0)
+]]></content>
+  <tabTrigger>setLineStipple</tabTrigger>
+  <scope>source.lua</scope>
+  <description>setLineStipple</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.getLineJoin($0)
+]]></content>
+  <tabTrigger>getLineJoin</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getLineJoin</description>
+</snippet>

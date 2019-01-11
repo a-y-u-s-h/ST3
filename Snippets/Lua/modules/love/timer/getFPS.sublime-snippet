@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.timer.getFPS()
+]]></content>
+  <tabTrigger>getFPS</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getFPS</description>
+</snippet>

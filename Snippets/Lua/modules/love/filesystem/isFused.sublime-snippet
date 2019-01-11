@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+love.filesystem.isFused($0)
+]]></content>
+  <tabTrigger>isFused</tabTrigger>
+  <scope>source.lua</scope>
+  <description>isFused</description>
+</snippet>

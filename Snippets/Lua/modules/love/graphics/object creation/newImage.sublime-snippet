@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.newImage($0)
+]]></content>
+  <tabTrigger>newImage</tabTrigger>
+  <scope>source.lua</scope>
+  <description>newImage</description>
+</snippet>

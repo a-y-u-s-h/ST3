@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.timer.getDelta()
+]]></content>
+  <tabTrigger>getDelta</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getDelta</description>
+</snippet>

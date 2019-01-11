@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.getMeshCullMode($0)
+]]></content>
+  <tabTrigger>getMeshCullMode</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getMeshCullMode</description>
+</snippet>

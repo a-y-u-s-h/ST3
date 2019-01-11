@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+love.graphics.getCanvas($0)
+]]></content>
+  <tabTrigger>getCanvas</tabTrigger>
+  <scope>source.lua</scope>
+  <description>getCanvas</description>
+</snippet>
