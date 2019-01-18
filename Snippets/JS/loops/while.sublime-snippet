@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+while ( ${1:condition} ) {
+	${0:// statements}
+}
+]]></content>
+	
+	<tabTrigger>while</tabTrigger>
+	
+	<scope>source.js</scope>
+</snippet>

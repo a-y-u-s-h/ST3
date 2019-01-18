@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+(${1:0}..${0:n})
+]]></content>
+	<tabTrigger>irange</tabTrigger>
+	<scope>source.crystal</scope>
+</snippet>
