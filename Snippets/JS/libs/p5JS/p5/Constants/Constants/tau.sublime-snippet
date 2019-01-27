@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+TAU
+]]></content>
+  <tabTrigger>tau</tabTrigger>
+  <scope>source.js</scope>
+  <description>TAU</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+boolean($0)
+]]></content>
+  <tabTrigger>boolean</tabTrigger>
+  <scope>source.js</scope>
+  <description>boolean</description>
+</snippet>

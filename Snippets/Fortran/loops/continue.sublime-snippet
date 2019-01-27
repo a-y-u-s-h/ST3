@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cycle
+]]></content>
+  <tabTrigger>continue</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>continue</description>
+</snippet>

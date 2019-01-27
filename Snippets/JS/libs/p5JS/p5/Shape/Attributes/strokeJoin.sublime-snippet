@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+strokeJoin($0)
+]]></content>
+  <tabTrigger>strokejoin</tabTrigger>
+  <scope>source.js</scope>
+  <description>strokeJoin</description>
+</snippet>

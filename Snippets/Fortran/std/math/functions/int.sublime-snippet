@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+int($0)
+]]></content>
+  <tabTrigger>toint</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>int</description>
+</snippet>

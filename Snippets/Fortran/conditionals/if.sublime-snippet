@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if ($1) then
+	$0
+end if
+]]></content>
+  <tabTrigger>if</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>if</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+exit
+]]></content>
+  <tabTrigger>break</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>break</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+do while ($1)
+	$0
+end do
+]]></content>
+  <tabTrigger>dowhile</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>dowhile</description>
+</snippet>

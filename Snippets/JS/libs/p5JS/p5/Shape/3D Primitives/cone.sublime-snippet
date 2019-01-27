@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cone($0)
+]]></content>
+  <tabTrigger>cone</tabTrigger>
+  <scope>source.js</scope>
+  <description>cone</description>
+</snippet>

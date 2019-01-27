@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+noCursor($0)
+]]></content>
+  <tabTrigger>nocursor</tabTrigger>
+  <scope>source.js</scope>
+  <description>noCursor</description>
+</snippet>

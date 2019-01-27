@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+parameter
+]]></content>
+  <tabTrigger>const</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>const</description>
+</snippet>

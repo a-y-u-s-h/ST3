@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+huge($0)
+]]></content>
+  <tabTrigger>biggest</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>biggest</description>
+</snippet>

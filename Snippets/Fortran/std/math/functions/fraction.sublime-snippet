@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+fraction($0)
+]]></content>
+  <tabTrigger>fraction</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>fraction</description>
+</snippet>

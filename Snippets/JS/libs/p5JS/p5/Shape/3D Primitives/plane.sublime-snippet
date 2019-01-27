@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+plane($0)
+]]></content>
+  <tabTrigger>plane</tabTrigger>
+  <scope>source.js</scope>
+  <description>plane</description>
+</snippet>

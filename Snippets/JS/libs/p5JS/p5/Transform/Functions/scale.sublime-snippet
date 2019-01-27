@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+scale($0)
+]]></content>
+  <tabTrigger>scale</tabTrigger>
+  <scope>source.js</scope>
+  <description>scale</description>
+</snippet>

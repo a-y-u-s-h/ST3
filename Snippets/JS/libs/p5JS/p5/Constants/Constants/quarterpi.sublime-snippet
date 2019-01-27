@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+QUARTER_PI
+]]></content>
+  <tabTrigger>quarterpi</tabTrigger>
+  <scope>source.js</scope>
+  <description>QUARTER_PI</description>
+</snippet>

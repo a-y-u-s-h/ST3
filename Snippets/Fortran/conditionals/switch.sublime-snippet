@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+select case ($1)
+	$0
+end select
+]]></content>
+  <tabTrigger>switch</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>switch</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+character * $1 :: $0
+]]></content>
+  <tabTrigger>cstring</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>carray</description>
+</snippet>

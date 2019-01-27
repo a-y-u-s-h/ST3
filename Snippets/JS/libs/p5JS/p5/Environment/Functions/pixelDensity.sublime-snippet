@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+pixelDensity($0)
+]]></content>
+  <tabTrigger>pixeldensity</tabTrigger>
+  <scope>source.js</scope>
+  <description>pixelDensity</description>
+</snippet>

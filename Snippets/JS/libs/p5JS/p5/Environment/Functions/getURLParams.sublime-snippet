@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+getURLParams($0)
+]]></content>
+  <tabTrigger>geturlparams</tabTrigger>
+  <scope>source.js</scope>
+  <description>getURLParams</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+translate($0)
+]]></content>
+  <tabTrigger>translate</tabTrigger>
+  <scope>source.js</scope>
+  <description>translate</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+logical :: $0
+]]></content>
+  <tabTrigger>bool</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>bool</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+smooth($0)
+]]></content>
+  <tabTrigger>smooth</tabTrigger>
+  <scope>source.js</scope>
+  <description>smooth</description>
+</snippet>

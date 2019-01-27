@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+hue($0)
+]]></content>
+  <tabTrigger>hue</tabTrigger>
+  <scope>source.js</scope>
+  <description>hue</description>
+</snippet>

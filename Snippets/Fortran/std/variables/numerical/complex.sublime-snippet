@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+complex :: $1 = ($2, $3) 
+]]></content>
+  <tabTrigger>complex</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>complex</description>
+</snippet>

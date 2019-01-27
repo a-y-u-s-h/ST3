@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+.true.
+]]></content>
+  <tabTrigger>true</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>true</description>
+</snippet>

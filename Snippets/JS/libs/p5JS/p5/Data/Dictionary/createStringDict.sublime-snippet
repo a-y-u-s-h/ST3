@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+createStringDict($0)
+]]></content>
+  <tabTrigger>createstringdict</tabTrigger>
+  <scope>source.js</scope>
+  <description>createStringDict</description>
+</snippet>

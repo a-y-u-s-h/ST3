@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+asin($0)
+]]></content>
+  <tabTrigger>asin</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>asin</description>
+</snippet>

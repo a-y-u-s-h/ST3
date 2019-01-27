@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+unchar($0)
+]]></content>
+  <tabTrigger>unchar</tabTrigger>
+  <scope>source.js</scope>
+  <description>unchar</description>
+</snippet>

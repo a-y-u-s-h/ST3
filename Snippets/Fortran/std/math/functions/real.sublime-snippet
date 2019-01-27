@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+real($0)
+]]></content>
+  <tabTrigger>toreal</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>real</description>
+</snippet>

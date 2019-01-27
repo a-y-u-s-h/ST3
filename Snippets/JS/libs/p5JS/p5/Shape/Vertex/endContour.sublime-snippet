@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+endContour($0)
+]]></content>
+  <tabTrigger>endcontour</tabTrigger>
+  <scope>source.js</scope>
+  <description>endContour</description>
+</snippet>

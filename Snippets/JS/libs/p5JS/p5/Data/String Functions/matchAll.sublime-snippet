@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+matchAll($0)
+]]></content>
+  <tabTrigger>matchall</tabTrigger>
+  <scope>source.js</scope>
+  <description>matchAll</description>
+</snippet>

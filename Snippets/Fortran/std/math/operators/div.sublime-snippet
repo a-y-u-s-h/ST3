@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+/
+]]></content>
+  <tabTrigger>div</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>div</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+print *
+
+]]></content>
+  <tabTrigger>nl</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>nl</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dimension($0)
+]]></content>
+  <tabTrigger>dimension</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>dimension</description>
+</snippet>

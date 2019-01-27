@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+unhex($0)
+]]></content>
+  <tabTrigger>unhex</tabTrigger>
+  <scope>source.js</scope>
+  <description>unhex</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+shearY($0)
+]]></content>
+  <tabTrigger>sheary</tabTrigger>
+  <scope>source.js</scope>
+  <description>shearY</description>
+</snippet>

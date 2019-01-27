@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+else if ($1) then
+	$0
+]]></content>
+  <tabTrigger>elseif</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>elseif</description>
+</snippet>

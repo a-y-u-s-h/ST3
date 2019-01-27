@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+integer :: $0
+]]></content>
+  <tabTrigger>integer</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>integer</description>
+</snippet>

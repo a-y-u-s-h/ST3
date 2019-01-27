@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+RADIANS
+]]></content>
+  <tabTrigger>radians</tabTrigger>
+  <scope>source.js</scope>
+  <description>RADIANS</description>
+</snippet>

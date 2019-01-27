@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+.or.
+]]></content>
+  <tabTrigger>or</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>or</description>
+</snippet>

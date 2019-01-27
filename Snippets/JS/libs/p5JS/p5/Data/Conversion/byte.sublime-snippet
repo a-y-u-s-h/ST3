@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+byte($0)
+]]></content>
+  <tabTrigger>byte</tabTrigger>
+  <scope>source.js</scope>
+  <description>byte</description>
+</snippet>

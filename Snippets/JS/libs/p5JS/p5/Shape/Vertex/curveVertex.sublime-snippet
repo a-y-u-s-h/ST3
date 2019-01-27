@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+curveVertex($0)
+]]></content>
+  <tabTrigger>curvevertex</tabTrigger>
+  <scope>source.js</scope>
+  <description>curveVertex</description>
+</snippet>

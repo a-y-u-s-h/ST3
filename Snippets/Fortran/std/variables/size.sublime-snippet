@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+kind($0)
+]]></content>
+  <tabTrigger>sizeinbytes</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>sizeinbytes</description>
+</snippet>

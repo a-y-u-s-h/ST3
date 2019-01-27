@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+saturation($0)
+]]></content>
+  <tabTrigger>saturation</tabTrigger>
+  <scope>source.js</scope>
+  <description>saturation</description>
+</snippet>

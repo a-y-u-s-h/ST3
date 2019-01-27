@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+! |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+! |~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~~|
+! |                                                                      |
+! |                                                                      |
+! |                     Author  : Ayush Sharma                           |
+! |                     Github  : a-y-u-s-h                              |
+! |                     Twitter : @taggosaurus                           |
+! |                     Website : ayushsharma.net                        |
+! |                                                                      |
+! |                                                                      |
+! |~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~~|
+! |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+
+]]></content>
+  <tabTrigger>ayush</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>ayush</description>
+</snippet>

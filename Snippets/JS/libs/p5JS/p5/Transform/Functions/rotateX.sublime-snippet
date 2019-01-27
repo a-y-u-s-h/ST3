@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+rotateX($0)
+]]></content>
+  <tabTrigger>rotatex</tabTrigger>
+  <scope>source.js</scope>
+  <description>rotateX</description>
+</snippet>

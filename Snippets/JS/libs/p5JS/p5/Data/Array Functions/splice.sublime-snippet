@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+splice($0)
+]]></content>
+  <tabTrigger>splice</tabTrigger>
+  <scope>source.js</scope>
+  <description>splice</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+integer, parameter :: $0
+]]></content>
+  <tabTrigger>cint</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>cint</description>
+</snippet>

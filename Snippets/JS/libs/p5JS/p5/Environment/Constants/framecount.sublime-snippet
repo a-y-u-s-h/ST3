@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+frameCount
+]]></content>
+  <tabTrigger>framecount</tabTrigger>
+  <scope>source.js</scope>
+  <description>frameCount</description>
+</snippet>

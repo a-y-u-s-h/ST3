@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+call $0
+]]></content>
+  <tabTrigger>call</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>call</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+integer, dimension(:), allocatable :: $0
+]]></content>
+  <tabTrigger>ivector</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>ivector</description>
+</snippet>

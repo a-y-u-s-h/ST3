@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+min($0)
+]]></content>
+  <tabTrigger>min</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>min</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+vertex($0)
+]]></content>
+  <tabTrigger>vertex</tabTrigger>
+  <scope>source.js</scope>
+  <description>vertex</description>
+</snippet>

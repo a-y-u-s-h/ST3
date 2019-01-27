@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+fill($0)
+]]></content>
+  <tabTrigger>fill</tabTrigger>
+  <scope>source.js</scope>
+  <description>fill</description>
+</snippet>

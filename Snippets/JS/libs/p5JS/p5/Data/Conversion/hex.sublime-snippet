@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+hex($0)
+]]></content>
+  <tabTrigger>hex</tabTrigger>
+  <scope>source.js</scope>
+  <description>hex</description>
+</snippet>

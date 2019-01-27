@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+windowHeight
+]]></content>
+  <tabTrigger>windowheight</tabTrigger>
+  <scope>source.js</scope>
+  <description>windowHeight</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+nfs($0)
+]]></content>
+  <tabTrigger>nfs</tabTrigger>
+  <scope>source.js</scope>
+  <description>nfs</description>
+</snippet>

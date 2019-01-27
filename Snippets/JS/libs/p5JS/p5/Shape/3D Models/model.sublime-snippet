@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+model($0)
+]]></content>
+  <tabTrigger>model</tabTrigger>
+  <scope>source.js</scope>
+  <description>model</description>
+</snippet>

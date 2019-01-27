@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+real, parameter :: $0 
+]]></content>
+  <tabTrigger>cfloat</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>cfloat</description>
+</snippet>

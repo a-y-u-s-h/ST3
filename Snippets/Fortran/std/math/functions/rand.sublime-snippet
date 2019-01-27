@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+rand($0)
+]]></content>
+  <tabTrigger>rand</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>rand</description>
+</snippet>

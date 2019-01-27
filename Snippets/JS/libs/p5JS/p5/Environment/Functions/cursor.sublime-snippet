@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cursor($0)
+]]></content>
+  <tabTrigger>cursor</tabTrigger>
+  <scope>source.js</scope>
+  <description>cursor</description>
+</snippet>

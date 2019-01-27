@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bezierTangent($0)
+]]></content>
+  <tabTrigger>beziertangent</tabTrigger>
+  <scope>source.js</scope>
+  <description>bezierTangent</description>
+</snippet>

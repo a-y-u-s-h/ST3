@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+.and.
+]]></content>
+  <tabTrigger>&amp;&amp;</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>&amp;&amp;</description>
+</snippet>

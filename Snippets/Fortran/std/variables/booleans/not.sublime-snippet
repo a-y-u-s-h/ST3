@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+.not.
+]]></content>
+  <tabTrigger>not</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>not</description>
+</snippet>

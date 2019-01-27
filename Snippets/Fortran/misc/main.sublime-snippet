@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+program main
+	implicit none
+	$0
+end program main
+]]></content>
+  <tabTrigger>main</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>main</description>
+</snippet>

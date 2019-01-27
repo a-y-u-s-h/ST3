@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+integer :: ${1:i}
+integer :: ${5:j}
+do ${1:i} = ${2:0}, ${3:n}, ${4:1}
+  do ${5:j} = ${6:0}, ${7:m}, ${8:1}
+		$0
+  end do
+end do
+]]></content>
+  <tabTrigger>for2</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>for</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+lerpColor($0)
+]]></content>
+  <tabTrigger>lerpcolor</tabTrigger>
+  <scope>source.js</scope>
+  <description>lerpColor</description>
+</snippet>

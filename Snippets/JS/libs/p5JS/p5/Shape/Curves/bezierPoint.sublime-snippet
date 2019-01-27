@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bezierPoint($0)
+]]></content>
+  <tabTrigger>bezierpoint</tabTrigger>
+  <scope>source.js</scope>
+  <description>bezierPoint</description>
+</snippet>

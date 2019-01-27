@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+brightness($0)
+]]></content>
+  <tabTrigger>brightness</tabTrigger>
+  <scope>source.js</scope>
+  <description>brightness</description>
+</snippet>

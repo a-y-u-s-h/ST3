@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+pop($0)
+]]></content>
+  <tabTrigger>pop</tabTrigger>
+  <scope>source.js</scope>
+  <description>pop</description>
+</snippet>

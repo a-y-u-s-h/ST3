@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+rect($0)
+]]></content>
+  <tabTrigger>rect</tabTrigger>
+  <scope>source.js</scope>
+  <description>rect</description>
+</snippet>

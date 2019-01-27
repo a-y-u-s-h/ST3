@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+point($0)
+]]></content>
+  <tabTrigger>point</tabTrigger>
+  <scope>source.js</scope>
+  <description>point</description>
+</snippet>

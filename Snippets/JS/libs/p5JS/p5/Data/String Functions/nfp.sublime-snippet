@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+nfp($0)
+]]></content>
+  <tabTrigger>nfp</tabTrigger>
+  <scope>source.js</scope>
+  <description>nfp</description>
+</snippet>

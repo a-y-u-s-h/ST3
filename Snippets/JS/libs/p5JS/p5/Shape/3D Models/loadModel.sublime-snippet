@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+loadModel($0)
+]]></content>
+  <tabTrigger>loadmodel</tabTrigger>
+  <scope>source.js</scope>
+  <description>loadModel</description>
+</snippet>

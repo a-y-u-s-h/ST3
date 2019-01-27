@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+frameRate($0)
+]]></content>
+  <tabTrigger>framerate</tabTrigger>
+  <scope>source.js</scope>
+  <description>frameRate</description>
+</snippet>

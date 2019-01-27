@@ -1,0 +1,33 @@
+<snippet>
+  <content><![CDATA[
+let config = {
+  ${2:sketch}: {
+    parent: { id: `$1`}
+  }
+};
+
+const ${2:sketch} = new p5(s => {
+  with (s) {
+    s.setup = () => {
+      let container = document.getElementById(`\${config.${2:sketch}.parent.id}`);
+      let canvas    = createCanvas(container.offsetWidth, container.offsetHeight); 
+      canvas.parent(`\${config.${2:sketch}.parent.id}`); 
+      angleMode(DEGREES);
+      noFill();
+      rectMode(CENTER);
+      ellipseMode(CENTER);
+    }
+
+    s.draw = () => {
+      $0
+    }
+
+    s.windowResized = () => {
+      s.setup();
+    };
+  }
+});
+]]></content>
+  <tabTrigger>p5init</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

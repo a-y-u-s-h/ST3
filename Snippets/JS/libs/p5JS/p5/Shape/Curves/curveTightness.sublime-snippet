@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+curveTightness($0)
+]]></content>
+  <tabTrigger>curvetightness</tabTrigger>
+  <scope>source.js</scope>
+  <description>curveTightness</description>
+</snippet>

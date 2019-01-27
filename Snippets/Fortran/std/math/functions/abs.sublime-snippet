@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+abs($0)
+]]></content>
+  <tabTrigger>abs</tabTrigger>
+  <scope>source.modern-fortran</scope>
+  <description>abs</description>
+</snippet>

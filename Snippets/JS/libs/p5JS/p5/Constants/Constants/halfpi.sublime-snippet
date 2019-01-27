@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+HALF_PI
+]]></content>
+  <tabTrigger>halfpi</tabTrigger>
+  <scope>source.js</scope>
+  <description>HALF_PI</description>
+</snippet>

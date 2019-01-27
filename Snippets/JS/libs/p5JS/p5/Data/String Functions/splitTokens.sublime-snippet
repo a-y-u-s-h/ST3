@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+splitTokens($0)
+]]></content>
+  <tabTrigger>splittokens</tabTrigger>
+  <scope>source.js</scope>
+  <description>splitTokens</description>
+</snippet>

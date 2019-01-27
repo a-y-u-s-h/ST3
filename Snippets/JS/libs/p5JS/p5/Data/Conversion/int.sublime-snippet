@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+int($0)
+]]></content>
+  <tabTrigger>int</tabTrigger>
+  <scope>source.js</scope>
+  <description>int</description>
+</snippet>

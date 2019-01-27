@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+strokeWeight($0)
+]]></content>
+  <tabTrigger>strokeweight</tabTrigger>
+  <scope>source.js</scope>
+  <description>strokeWeight</description>
+</snippet>
