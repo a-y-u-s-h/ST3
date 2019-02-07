@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+$0.min
+]]></content>
+  <tabTrigger>min</tabTrigger>
+  <scope>source.scala</scope>
+  <description>min</description>
+</snippet>
+

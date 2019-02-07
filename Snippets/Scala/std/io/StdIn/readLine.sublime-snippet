@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-readLine
-]]></content>
-  <tabTrigger>readline</tabTrigger>
-  <scope>source.scala</scope>
-  <description>readLine</description>
-</snippet>

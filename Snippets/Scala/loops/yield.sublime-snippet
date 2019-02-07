@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+yield
+]]></content>
+  <tabTrigger>yield</tabTrigger>
+  <scope>source.scala</scope>
+  <description>yield</description>
+</snippet>

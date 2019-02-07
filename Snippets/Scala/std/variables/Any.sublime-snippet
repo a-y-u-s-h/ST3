@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[${1:a} : Any]]></content>
+  <content><![CDATA[Any]]></content>
   <tabTrigger>any</tabTrigger>
   <scope>source.scala</scope>
   <description>any</description>

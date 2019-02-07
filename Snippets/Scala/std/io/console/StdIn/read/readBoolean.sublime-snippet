@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+readBoolean
+]]></content>
+  <tabTrigger>readBoolean</tabTrigger>
+  <scope>source.scala</scope>
+  <description>readBoolean</description>
+</snippet>
+

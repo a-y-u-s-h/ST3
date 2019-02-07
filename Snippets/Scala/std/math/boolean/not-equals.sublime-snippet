@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[!=]]></content>
+  <tabTrigger>neq</tabTrigger>
+  <scope>source.scala</scope>
+  <description>not equals</description>
+</snippet>

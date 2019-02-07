@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[==]]></content>
+  <tabTrigger>eq</tabTrigger>
+  <scope>source.scala</scope>
+  <description>equals</description>
+</snippet>

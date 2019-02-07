@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+$0.sorted
+]]></content>
+  <tabTrigger>sorted</tabTrigger>
+  <scope>source.scala</scope>
+  <description>sorted</description>
+</snippet>
+

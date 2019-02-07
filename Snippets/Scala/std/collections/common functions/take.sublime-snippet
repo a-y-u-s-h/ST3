@@ -2,7 +2,7 @@
   <content><![CDATA[
 ${1:c}.take(${2})
 ]]></content>
-  <tabTrigger>tl</tabTrigger>
+  <tabTrigger>takeleft</tabTrigger>
   <scope>source.scala</scope>
   <description>take</description>
 </snippet>

@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+$0.sum
+]]></content>
+  <tabTrigger>sum</tabTrigger>
+  <scope>source.scala</scope>
+  <description>sum</description>
+</snippet>
+

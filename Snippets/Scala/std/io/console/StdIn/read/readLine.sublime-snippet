@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+readLine
+]]></content>
+  <tabTrigger>readLine</tabTrigger>
+  <scope>source.scala</scope>
+  <description>readLine</description>
+</snippet>
+

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[&&]]></content>
+  <tabTrigger>and</tabTrigger>
+  <scope>source.scala</scope>
+  <description>and</description>
+</snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 ${1:c}.takeRight(${2})
 ]]></content>
-  <tabTrigger>tr</tabTrigger>
+  <tabTrigger>takeright</tabTrigger>
   <scope>source.scala</scope>
   <description>take</description>
 </snippet>

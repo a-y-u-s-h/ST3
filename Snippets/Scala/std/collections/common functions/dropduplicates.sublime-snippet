@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$0.distinct
+]]></content>
+  <tabTrigger>dedup</tabTrigger>
+  <scope>source.scala</scope>
+  <description>dedup</description>
+</snippet>

@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+readf
+]]></content>
+  <tabTrigger>readf</tabTrigger>
+  <scope>source.scala</scope>
+  <description>readf</description>
+</snippet>
+

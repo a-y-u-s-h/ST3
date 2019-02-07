@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[object ${1:main} {
-  def main(args: Array[String]): Unit = {
+  def main (args: Array[String]) : Unit = {
     ${0:}
   }
 }]]></content>

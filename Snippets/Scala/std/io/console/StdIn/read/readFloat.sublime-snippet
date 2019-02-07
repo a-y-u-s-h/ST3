@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+readFloat
+]]></content>
+  <tabTrigger>readFloat</tabTrigger>
+  <scope>source.scala</scope>
+  <description>readFloat</description>
+</snippet>
+

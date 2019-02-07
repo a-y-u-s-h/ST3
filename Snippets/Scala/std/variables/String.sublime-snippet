@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[${1:s} : String]]></content>
+  <content><![CDATA[String]]></content>
   <tabTrigger>string</tabTrigger>
   <scope>source.scala</scope>
   <description>string</description>

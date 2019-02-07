@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+$0.zipWithIndex
+]]></content>
+  <tabTrigger>zipWithIndex</tabTrigger>
+  <scope>source.scala</scope>
+  <description>zipWithIndex</description>
+</snippet>
+

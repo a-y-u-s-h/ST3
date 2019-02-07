@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[true]]></content>
+  <tabTrigger>1</tabTrigger>
+  <scope>source.scala</scope>
+  <description>true</description>
+</snippet>

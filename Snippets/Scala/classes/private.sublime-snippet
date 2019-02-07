@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+private
+]]></content>
+  <tabTrigger>private</tabTrigger>
+  <scope>source.scala</scope>
+  <description>private</description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[${1:x} : Int]]></content>
+  <content><![CDATA[Int]]></content>
   <tabTrigger>int</tabTrigger>
   <scope>source.scala</scope>
   <description>int</description>

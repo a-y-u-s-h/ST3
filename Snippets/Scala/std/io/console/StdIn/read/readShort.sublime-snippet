@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+readShort
+]]></content>
+  <tabTrigger>readShort</tabTrigger>
+  <scope>source.scala</scope>
+  <description>readShort</description>
+</snippet>
+

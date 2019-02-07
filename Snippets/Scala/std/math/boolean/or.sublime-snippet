@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[||]]></content>
+  <tabTrigger>or</tabTrigger>
+  <scope>source.scala</scope>
+  <description>or</description>
+</snippet>

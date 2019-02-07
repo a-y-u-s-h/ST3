@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[${1:x} : Double]]></content>
+  <content><![CDATA[Double]]></content>
   <tabTrigger>double</tabTrigger>
   <scope>source.scala</scope>
   <description>double</description>

@@ -2,8 +2,6 @@
 	<content><![CDATA[
 this.
 ]]></content>
-	
 	<tabTrigger>t.</tabTrigger>
-	
 	<scope>source.js</scope>
 </snippet>
