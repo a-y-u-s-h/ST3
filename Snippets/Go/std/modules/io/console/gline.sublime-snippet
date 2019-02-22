@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+fmt.Scanln(&$0)
+]]></content>
+  <tabTrigger>gline</tabTrigger>
+  <scope>source.go</scope>
+  <description>gline</description>
+</snippet>

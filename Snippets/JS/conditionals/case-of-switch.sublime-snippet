@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-case ${1:label} : 
-	${2:// case definition}
+case ${1}: 
+	$0
 break;
 ]]></content>
 	

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[for (let $1 in $2) {
+	<content><![CDATA[for (let $1 of $2) {
 	${0}
 }]]></content>
 	<tabTrigger>forin</tabTrigger>

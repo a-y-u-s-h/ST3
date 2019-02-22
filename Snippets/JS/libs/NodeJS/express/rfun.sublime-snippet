@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+api.get("/$1", (request, response) => {
+	$0
+});
+]]></content>
+  
+  <tabTrigger>rfun</tabTrigger>
+  
+  <scope>source.js</scope>
+</snippet>

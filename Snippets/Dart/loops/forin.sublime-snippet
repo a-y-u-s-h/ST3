@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+for (var ${1:} in ${2:}) {
+	$0
+}]]></content>
+	<tabTrigger>forin</tabTrigger>
+	<scope>source.dart</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+is!
+]]></content>
+  <tabTrigger>isnot</tabTrigger>
+  <scope>source.dart</scope>
+</snippet>

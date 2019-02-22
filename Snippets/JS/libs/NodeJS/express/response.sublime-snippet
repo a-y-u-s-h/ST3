@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+response
+]]></content>
+  
+  <tabTrigger>response</tabTrigger>
+  
+  <scope>source.js</scope>
+</snippet>

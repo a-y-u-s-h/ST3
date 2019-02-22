@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+struct $1 {
+	${2/,/,\n /g}
+}
+
+impl $1 {
+	fn constructor ($2) -> $1 {
+		$1 {
+			${2/[^((?<=\(|, )\w+)]//g}
+		}
+	}
+}
+]]></content>
+  <tabTrigger>class</tabTrigger>
+  <scope>source.rust</scope>
+  <description>class</description>
+</snippet>

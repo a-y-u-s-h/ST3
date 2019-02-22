@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+$0.toInt()
+]]></content>
+  <tabTrigger>toInt</tabTrigger>
+  <scope>source.dart</scope>
+</snippet>

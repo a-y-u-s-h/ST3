@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+fs.createReadStream(`$0`, "utf-8").on("data", chunk => console.log(chunk));
+]]></content>
+  
+  <tabTrigger>cat</tabTrigger>
+  
+  <scope>source.js</scope>
+</snippet>

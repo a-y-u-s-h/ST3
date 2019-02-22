@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mouseY
+]]></content>
+	
+	<tabTrigger>mousey</tabTrigger>
+	
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+fs.createReadStream(`$0`, "utf-8").pipe(response)
+]]></content>
+  <tabTrigger>fresponse</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

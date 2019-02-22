@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+$0.abs()
+]]></content>
+  <tabTrigger>abs</tabTrigger>
+  <scope>source.dart</scope>
+</snippet>

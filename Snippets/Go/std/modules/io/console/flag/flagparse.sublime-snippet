@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+flag.Parse()
+
+]]></content>
+  <tabTrigger>flagparse</tabTrigger>
+  <scope>source.go</scope>
+  <description>flagparse</description>
+</snippet>

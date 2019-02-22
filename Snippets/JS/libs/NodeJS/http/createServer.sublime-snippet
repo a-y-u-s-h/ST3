@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+http.createServer((request, response) => {
+  let url = request.url;
+  switch (url) {
+    case "/" : 
+    case "/home":
+      response.writeHead(200, {"content-type": "text/html"});
+      fs.createReadStream(`index.html`, "utf-8").pipe(response);
+    break;
+    default:
+      response.writeHead(200, {"content-type": "text/plain"});
+      response.end("");
+  } 
+}).listen(4000, '127.0.0.1');
+console.log("Listening to port 4000...");
+
+]]></content>
+  
+  <tabTrigger>httpcreateserver</tabTrigger>
+  
+  <scope>source.js</scope>
+</snippet>

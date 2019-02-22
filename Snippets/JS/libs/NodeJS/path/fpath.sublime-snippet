@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+__filename
+]]></content>	
+	<tabTrigger>fpath</tabTrigger>
+	
+	<scope>source.js</scope>
+</snippet>

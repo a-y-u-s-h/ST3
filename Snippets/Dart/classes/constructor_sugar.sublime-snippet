@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$1 ($2);
+
+]]></content>
+	<tabTrigger>cc</tabTrigger>
+	<scope>source.dart</scope>
+</snippet>

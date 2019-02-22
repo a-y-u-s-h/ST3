@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+do {
+	$0
+} while ($1);
+]]></content>
+	<tabTrigger>dowhile</tabTrigger>
+	<scope>source.dart</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+response.writeHead(200, {"content-type": "${1:text/plain}"});
+]]></content>
+  
+  <tabTrigger>writehead</tabTrigger>
+  
+  <scope>source.js</scope>
+</snippet>

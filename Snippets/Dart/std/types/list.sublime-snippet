@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+List
+]]></content>
+  <tabTrigger>li</tabTrigger>
+  <scope>source.dart</scope>
+</snippet>

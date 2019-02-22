@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+$1: ${2:i32},
+
+]]></content>
+  <tabTrigger>property</tabTrigger>
+  <scope>source.rust</scope>
+  <description>property</description>
+</snippet>

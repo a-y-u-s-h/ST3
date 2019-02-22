@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+($1) => {
+	$0
+} ($2);
+]]></content>
+	<tabTrigger>iiafun</tabTrigger>
+	<scope>source.dart</scope>
+</snippet>

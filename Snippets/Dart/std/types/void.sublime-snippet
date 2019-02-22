@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+void
+]]></content>
+  <tabTrigger>void</tabTrigger>
+  <scope>source.dart</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[$0.to_string()]]></content>
+  <tabTrigger>tostring</tabTrigger>
+  <scope>source.rust</scope>
+  <description>tostring</description>
+</snippet>

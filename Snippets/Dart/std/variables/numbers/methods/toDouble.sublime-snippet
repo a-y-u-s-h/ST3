@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+$0.toDouble()
+]]></content>
+  <tabTrigger>toDouble</tabTrigger>
+  <scope>source.dart</scope>
+</snippet>

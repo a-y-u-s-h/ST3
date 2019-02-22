@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+%
+]]></content>
+	<tabTrigger>mod</tabTrigger>
+  <scope>source.dart</scope>
+	<description>mod</description>
+</snippet>

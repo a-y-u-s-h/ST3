@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+$0.compareTo($1)
+]]></content>
+  <tabTrigger>compareTo</tabTrigger>
+  <scope>source.dart</scope>
+</snippet>

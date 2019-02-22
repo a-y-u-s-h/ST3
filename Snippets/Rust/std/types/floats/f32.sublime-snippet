@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[f32]]></content>
+  <tabTrigger>f32</tabTrigger>
+  <scope>source.rust</scope>
+  <description>f32</description>
+</snippet>

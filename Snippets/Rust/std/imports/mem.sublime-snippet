@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+use std::mem;
+
+]]></content>
+  <tabTrigger>memimport</tabTrigger>
+  <scope>source.rust</scope>
+  <description>memimport</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1::constructor($0)
+]]></content>
+  <tabTrigger>new</tabTrigger>
+  <scope>source.rust</scope>
+  <description>new</description>
+</snippet>

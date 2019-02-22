@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[($0)]]></content>
+  <tabTrigger>9</tabTrigger>
+  <scope>source.rust</scope>
+  <description>brackets</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[f64]]></content>
+  <tabTrigger>f64</tabTrigger>
+  <scope>source.rust</scope>
+  <description>f64</description>
+</snippet>

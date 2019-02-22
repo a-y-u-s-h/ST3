@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+response.end($0);
+]]></content>
+  
+  <tabTrigger>httpresponseend</tabTrigger>
+  
+  <scope>source.js</scope>
+</snippet>

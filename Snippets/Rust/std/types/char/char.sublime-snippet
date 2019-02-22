@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[char]]></content>
+  <tabTrigger>char</tabTrigger>
+  <scope>source.rust</scope> 
+  <description>char</description>
+</snippet>

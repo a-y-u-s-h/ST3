@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+const express = require("express");
+]]></content>
+  
+  <tabTrigger>expressimport</tabTrigger>
+  
+  <scope>source.js</scope>
+</snippet>

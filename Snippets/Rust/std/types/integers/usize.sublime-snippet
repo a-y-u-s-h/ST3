@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[usize]]></content>
+  <tabTrigger>usize</tabTrigger>
+  <scope>source.rust</scope>
+  <description>usize</description>
+</snippet>

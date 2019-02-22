@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[u16]]></content>
+  <tabTrigger>u16</tabTrigger>
+  <scope>source.rust</scope>
+  <description>u16</description>
+</snippet>
