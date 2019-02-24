@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Vec::new($0)]]></content>
+  <tabTrigger>vnew</tabTrigger>
+  <scope>source.rust</scope>
+  <description>vector</description>
+</snippet>

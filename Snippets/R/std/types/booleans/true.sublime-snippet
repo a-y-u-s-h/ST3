@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+T
+]]></content>
+  <tabTrigger>true</tabTrigger>
+  <scope>source.r</scope>
+  <description>true</description>
+</snippet>

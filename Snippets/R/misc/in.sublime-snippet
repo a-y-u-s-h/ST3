@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+%in%
+]]></content>
+  <tabTrigger>in</tabTrigger>
+  <scope>source.r</scope>
+  <description>in</description>
+</snippet>

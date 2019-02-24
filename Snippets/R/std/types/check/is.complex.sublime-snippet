@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+is.complex($0)
+]]></content>
+  <tabTrigger>iscomplex</tabTrigger>
+  <scope>source.r</scope>
+  <description>complex</description>
+</snippet>

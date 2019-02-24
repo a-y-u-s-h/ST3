@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+is.numeric($0)
+]]></content>
+  <tabTrigger>isnumeric</tabTrigger>
+  <scope>source.r</scope>
+  <description>numeric</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$1 ..= $0
+]]></content>
+  <tabTrigger>irange</tabTrigger>
+  <scope>source.rust</scope>
+  <description>inclusive range</description>
+</snippet>

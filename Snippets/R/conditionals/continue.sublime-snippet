@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+next
+]]></content>
+  <tabTrigger>continue</tabTrigger>
+  <scope>source.r</scope>
+  <description>continue</description>
+</snippet>

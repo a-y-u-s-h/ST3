@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+for (${1:key}, ${2:value}) in &$3 {
+	println!("{:?} {:?}", ${1:key}, ${2:value});
+}
+
+]]></content>
+  <tabTrigger>prmap</tabTrigger>
+  <scope>source.rust</scope>
+  <description>print hashmap</description>
+</snippet>

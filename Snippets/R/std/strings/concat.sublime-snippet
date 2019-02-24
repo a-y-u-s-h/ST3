@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+paste($1, $2, sep = "")
+]]></content>
+  <tabTrigger>concat</tabTrigger>
+  <scope>source.r</scope>
+  <description>concat</description>
+</snippet>
+

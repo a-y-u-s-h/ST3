@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+pub
+]]></content>
+  <tabTrigger>pub</tabTrigger>
+  <scope>source.rust</scope>
+  <description>pub</description>
+</snippet>

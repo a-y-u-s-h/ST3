@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+read.table(file = $0, header = T, sep = "${1:,}", na.strings = "φ", stringsAsFactors = F)
+]]></content>
+  <tabTrigger>readt</tabTrigger>
+  <scope>source.r</scope>
+  <description>New Class</description>
+</snippet>
+

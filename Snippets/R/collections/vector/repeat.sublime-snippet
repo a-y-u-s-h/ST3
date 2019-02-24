@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+repeat(x = $1, times = $1, each = $2)
+]]></content>
+  <tabTrigger>vrepeat</tabTrigger>
+  <scope>source.r</scope>
+  <description>repeat</description>
+</snippet>

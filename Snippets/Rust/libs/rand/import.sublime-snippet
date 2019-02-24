@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+extern crate rand;
+
+]]></content>
+  <tabTrigger>randimport</tabTrigger>
+  <scope>source.rust</scope>
+  <description>extern crate rand</description>
+</snippet>

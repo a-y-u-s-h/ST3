@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+data.frame($0, stringsAsFactors = F)
+]]></content>
+  <tabTrigger>df</tabTrigger>
+  <scope>source.r</scope>
+  <description>df</description>
+</snippet>

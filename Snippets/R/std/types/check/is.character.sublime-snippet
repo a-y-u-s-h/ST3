@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+is.character($0)
+]]></content>
+  <tabTrigger>ischaracter</tabTrigger>
+  <scope>source.r</scope>
+  <description>character</description>
+</snippet>

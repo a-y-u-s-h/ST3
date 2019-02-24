@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+length($0)
+]]></content>
+  <tabTrigger>vlen</tabTrigger>
+  <scope>source.r</scope>
+  <description>length</description>
+</snippet>

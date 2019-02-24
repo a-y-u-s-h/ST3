@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+extern crate piston_window;
+
+]]></content>
+  <tabTrigger>pistonwindowimport</tabTrigger>
+  <scope>source.rust</scope>
+  <description>extern crate piston_window</description>
+</snippet>

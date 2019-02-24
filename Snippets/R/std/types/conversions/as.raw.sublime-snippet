@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+as.raw($0)
+]]></content>
+  <tabTrigger>asraw</tabTrigger>
+  <scope>source.r</scope>
+  <description>asraw</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+use std::collections::HashMap;
+
+]]></content>
+  <tabTrigger>mapimport</tabTrigger>
+  <scope>source.rust</scope>
+  <description>mapimport</description>
+</snippet>

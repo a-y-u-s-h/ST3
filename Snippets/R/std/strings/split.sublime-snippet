@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+strsplit($0)
+]]></content>
+  <tabTrigger>split</tabTrigger>
+  <scope>source.r</scope>
+  <description>split</description>
+</snippet>
+

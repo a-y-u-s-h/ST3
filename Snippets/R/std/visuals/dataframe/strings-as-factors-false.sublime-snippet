@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+stringsAsFactors = F
+]]></content>
+  <tabTrigger>saff</tabTrigger>
+  <scope>source.r</scope>
+  <description>saff</description>
+</snippet>

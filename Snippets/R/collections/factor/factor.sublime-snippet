@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+factor($0)
+]]></content>
+  <tabTrigger>factor</tabTrigger>
+  <scope>source.r</scope>
+  <description>factor</description>
+</snippet>

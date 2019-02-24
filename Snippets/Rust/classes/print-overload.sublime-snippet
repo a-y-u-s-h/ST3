@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+impl fmt::Display for $1 {
+  fn fmt (&self, f: &mut fmt::Formatter) -> fmt::Result {
+    write!(f, "$2", $0);
+  }
+}
+]]></content>
+  <tabTrigger>pro</tabTrigger>
+  <scope>source.rust</scope>
+  <description>print overload</description>
+</snippet>

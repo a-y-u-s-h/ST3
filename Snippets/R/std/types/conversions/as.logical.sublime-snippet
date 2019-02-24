@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+as.logical($0)
+]]></content>
+  <tabTrigger>aslogical</tabTrigger>
+  <scope>source.r</scope>
+  <description>aslogical</description>
+</snippet>

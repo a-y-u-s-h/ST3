@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+rbind($0)
+]]></content>
+  <tabTrigger>dfpush</tabTrigger>
+  <scope>source.r</scope>
+  <description>dfpush</description>
+</snippet>

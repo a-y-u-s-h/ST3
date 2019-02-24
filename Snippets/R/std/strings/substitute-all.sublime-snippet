@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+gsub(x = $1, pattern = $2, replacement = $3)
+]]></content>
+  <tabTrigger>subtitute</tabTrigger>
+  <scope>source.r</scope>
+  <description>replace</description>
+</snippet>
+

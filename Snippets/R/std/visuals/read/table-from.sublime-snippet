@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+read.table(file = file.choose(), header = T, sep = "${1:,}", na.strings = "φ", stringsAsFactors = F)
+]]></content>
+  <tabTrigger>readtable</tabTrigger>
+  <scope>source.r</scope>
+  <description>New Class</description>
+</snippet>
+

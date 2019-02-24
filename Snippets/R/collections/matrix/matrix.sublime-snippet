@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+matrix(data = $0, nrow = $1, ncol = $2)
+]]></content>
+  <tabTrigger>matrix</tabTrigger>
+  <scope>source.r</scope>
+  <description>matrix</description>
+</snippet>

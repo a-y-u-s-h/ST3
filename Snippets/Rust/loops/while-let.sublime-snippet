@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+while let Some($1) = $2 {
+	$0
+}
+]]></content>
+  <tabTrigger>whilelet</tabTrigger>
+  <scope>source.rust</scope>
+  <description>while-let</description>
+</snippet>

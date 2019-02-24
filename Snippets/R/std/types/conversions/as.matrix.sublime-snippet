@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+as.matrix($0)
+]]></content>
+  <tabTrigger>asmatrix</tabTrigger>
+  <scope>source.r</scope>
+  <description>asmatrix</description>
+</snippet>

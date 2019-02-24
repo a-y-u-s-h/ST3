@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[vec![$0]]]></content>
+  <tabTrigger>vector</tabTrigger>
+  <scope>source.rust</scope>
+  <description>vector</description>
+</snippet>

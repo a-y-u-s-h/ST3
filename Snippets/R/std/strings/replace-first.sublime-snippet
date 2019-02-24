@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+sub(x = $1, pattern = $2, replacement = $3)
+]]></content>
+  <tabTrigger>freplace</tabTrigger>
+  <scope>source.r</scope>
+  <description>freplace</description>
+</snippet>
+

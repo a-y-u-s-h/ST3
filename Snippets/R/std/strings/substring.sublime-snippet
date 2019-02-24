@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+substr(x = $1, start = $2, stop = $3)
+]]></content>
+  <tabTrigger>substring</tabTrigger>
+  <scope>source.r</scope>
+  <description>substring</description>
+</snippet>
+

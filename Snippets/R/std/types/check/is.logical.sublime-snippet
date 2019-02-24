@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+is.logical($0)
+]]></content>
+  <tabTrigger>islogical</tabTrigger>
+  <scope>source.r</scope>
+  <description>logical</description>
+</snippet>

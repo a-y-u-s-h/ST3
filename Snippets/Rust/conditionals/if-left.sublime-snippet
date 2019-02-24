@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if let Some(${1:i}) = $2 {
+	$0
+}
+]]></content>
+  <tabTrigger>iflet</tabTrigger>
+  <scope>source.rust</scope>
+  <description>if-let</description>
+</snippet>

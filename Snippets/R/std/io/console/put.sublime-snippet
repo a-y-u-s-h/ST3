@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+sprintf("$1", $0)
+]]></content>
+  <tabTrigger>put</tabTrigger>
+  <scope>source.r</scope>
+  <description>sprintf</description>
+</snippet>

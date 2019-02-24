@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+(function ($2) {
+	$0
+})($1)
+]]></content>
+  <tabTrigger>iiafun</tabTrigger>
+  <scope>source.r</scope>
+  <description>iiafun</description>
+</snippet>

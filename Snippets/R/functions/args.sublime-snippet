@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+...
+]]></content>
+  <tabTrigger>args</tabTrigger>
+  <scope>source.r</scope>
+  <description>args</description>
+</snippet>

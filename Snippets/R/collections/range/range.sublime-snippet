@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+seq(from = $1, to = $2, by = $3)
+]]></content>
+  <tabTrigger>range</tabTrigger>
+  <scope>source.r</scope>
+  <description>range</description>
+</snippet>

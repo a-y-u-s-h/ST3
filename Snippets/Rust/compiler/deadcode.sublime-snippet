@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+#![allow(dead_code)]
+]]></content>
+  <tabTrigger>deadcode</tabTrigger>
+  <scope>source.rust</scope>
+  <description>deadcode</description>
+</snippet>

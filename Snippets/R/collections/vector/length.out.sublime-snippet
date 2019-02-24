@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+length.out
+]]></content>
+  <tabTrigger>lengthout</tabTrigger>
+  <scope>source.r</scope>
+  <description>length out</description>
+</snippet>
