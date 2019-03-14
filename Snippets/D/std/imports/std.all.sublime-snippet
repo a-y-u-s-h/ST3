@@ -1,0 +1,25 @@
+<snippet>
+  <content><![CDATA[
+import std.stdio;
+import std.conv;
+import std.math;
+import std.random;
+import std.datetime;
+import std.algorithm;
+import std.array;
+import std.string;
+import std.format;
+import std.typecons : No;
+import std.typecons;
+import std.range : chain;
+import std.range;
+import std.file;
+import std.parallelism;
+import std.concurrency;
+import core.thread;
+
+]]></content>
+  <tabTrigger>importstdall</tabTrigger>
+  <scope>source.d</scope>
+  <description>import std all</description>
+</snippet>

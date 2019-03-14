@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+real.max
+]]></content>
+  <tabTrigger>realmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>real.max</description>
+</snippet>

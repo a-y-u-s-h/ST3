@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+writeln("$0")
+]]></content>
+  <tabTrigger>print</tabTrigger>
+  <scope>source.d</scope>
+  <description>print</description>
+</snippet>

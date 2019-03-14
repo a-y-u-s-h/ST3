@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cummax($0)
+]]></content>
+  <tabTrigger>cummax</tabTrigger>
+  <scope>source.r</scope>
+  <description>cummax</description>
+</snippet>

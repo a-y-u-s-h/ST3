@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+azure3
+]]></content>
+  <tabTrigger>colorazure3</tabTrigger>
+  <scope>source.r</scope>
+  <description>azure3</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+log10($0)
+
+]]></content>
+  <tabTrigger>log10</tabTrigger>
+  <scope>source.d</scope>
+  <description>log10</description>
+</snippet>

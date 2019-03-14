@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.range : chain;
+
+]]></content>
+  <tabTrigger>importstdrangechain</tabTrigger>
+  <scope>source.d</scope>
+  <description>importrange</description>
+</snippet>

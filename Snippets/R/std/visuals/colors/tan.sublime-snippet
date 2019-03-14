@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+tan
+]]></content>
+  <tabTrigger>colortan</tabTrigger>
+  <scope>source.r</scope>
+  <description>tan</description>
+</snippet>

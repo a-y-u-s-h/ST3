@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+lightcyan1
+]]></content>
+  <tabTrigger>colorlightcyan1</tabTrigger>
+  <scope>source.r</scope>
+  <description>lightcyan1</description>
+</snippet>

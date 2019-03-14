@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ubyte
+]]></content>
+  <tabTrigger>ubyte</tabTrigger>
+  <scope>source.d</scope>
+  <description>ubyte</description>
+</snippet>

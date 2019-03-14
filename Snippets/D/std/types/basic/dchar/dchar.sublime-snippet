@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dchar
+]]></content>
+  <tabTrigger>dchar</tabTrigger>
+  <scope>source.d</scope>
+  <description>dchar</description>
+</snippet>

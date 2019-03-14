@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+darkmagenta
+]]></content>
+  <tabTrigger>colordarkmagenta</tabTrigger>
+  <scope>source.r</scope>
+  <description>darkmagenta</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+to!string($0)
+]]></content>
+  <tabTrigger>tostring</tabTrigger>
+  <scope>source.d</scope>
+  <description>tostring</description>
+</snippet>

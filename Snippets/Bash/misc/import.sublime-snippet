@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+source \$(dirname \$0)/$1
+
+]]></content>
+	<tabTrigger>import</tabTrigger>
+	<scope>source.shell</scope>
+</snippet>

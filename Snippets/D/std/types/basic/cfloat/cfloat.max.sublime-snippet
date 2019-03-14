@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cfloat.max
+]]></content>
+  <tabTrigger>cfloatmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>cfloat.max</description>
+</snippet>

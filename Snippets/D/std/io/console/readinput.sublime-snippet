@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+readf("${1:%s}\n", &$2)
+]]></content>
+  <tabTrigger>readinput</tabTrigger>
+  <scope>source.d</scope>
+  <description>readinput</description>
+</snippet>

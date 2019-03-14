@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+exp($0)
+]]></content>
+  <tabTrigger>exp</tabTrigger>
+  <scope>source.r</scope>
+  <description>exp</description>
+</snippet>

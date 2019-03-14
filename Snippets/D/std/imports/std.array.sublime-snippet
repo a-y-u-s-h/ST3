@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.array;
+
+]]></content>
+  <tabTrigger>importstdarray</tabTrigger>
+  <scope>source.d</scope>
+  <description>importarray</description>
+</snippet>

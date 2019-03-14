@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+void.min
+]]></content>
+  <tabTrigger>voidmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>void.min</description>
+</snippet>

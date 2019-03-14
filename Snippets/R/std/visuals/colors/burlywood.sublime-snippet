@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+burlywood
+]]></content>
+  <tabTrigger>colorburlywood</tabTrigger>
+  <scope>source.r</scope>
+  <description>burlywood</description>
+</snippet>

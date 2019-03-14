@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+hypot($0)
+
+]]></content>
+  <tabTrigger>hypot</tabTrigger>
+  <scope>source.d</scope>
+  <description>hypot</description>
+</snippet>

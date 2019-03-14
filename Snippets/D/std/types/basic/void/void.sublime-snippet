@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+void
+]]></content>
+  <tabTrigger>void</tabTrigger>
+  <scope>source.d</scope>
+  <description>void</description>
+</snippet>

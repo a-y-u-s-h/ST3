@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+sin($0)
+
+]]></content>
+  <tabTrigger>sin</tabTrigger>
+  <scope>source.d</scope>
+  <description>sin</description>
+</snippet>

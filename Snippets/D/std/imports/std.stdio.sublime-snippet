@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.stdio;
+
+]]></content>
+  <tabTrigger>importstdstdio</tabTrigger>
+  <scope>source.d</scope>
+  <description>importstdio</description>
+</snippet>

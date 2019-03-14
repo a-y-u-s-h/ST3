@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+sqrt($0)
+]]></content>
+  <tabTrigger>sqrt</tabTrigger>
+  <scope>source.r</scope>
+  <description>sqrt</description>
+</snippet>

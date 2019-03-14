@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+plum3
+]]></content>
+  <tabTrigger>colorplum3</tabTrigger>
+  <scope>source.r</scope>
+  <description>plum3</description>
+</snippet>

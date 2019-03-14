@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+sample($1, $2, replace = T)
+]]></content>
+  <tabTrigger>sample</tabTrigger>
+  <scope>source.r</scope>
+  <description>sample</description>
+</snippet>
+

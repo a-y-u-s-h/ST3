@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+short.max
+]]></content>
+  <tabTrigger>shortmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>short.max</description>
+</snippet>

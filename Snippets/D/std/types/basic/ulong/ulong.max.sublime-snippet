@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ulong.max
+]]></content>
+  <tabTrigger>ulongmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>ulong.max</description>
+</snippet>

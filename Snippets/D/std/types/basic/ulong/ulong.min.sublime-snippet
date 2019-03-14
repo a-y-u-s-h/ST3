@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ulong.min
+]]></content>
+  <tabTrigger>ulongmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>ulong.min</description>
+</snippet>

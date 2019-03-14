@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+long.min
+]]></content>
+  <tabTrigger>longmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>long.min</description>
+</snippet>

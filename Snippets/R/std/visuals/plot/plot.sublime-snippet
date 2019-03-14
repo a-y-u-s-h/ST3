@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-plot(x = $1, y = $2, xlab = "$3", ylab = "$4", main = "${5:...}")
+plot(x = $1, y = $2, xlab = "$3", ylab = "$4", main = "${5:...}", type ="${6:b}")
 ]]></content>
   <tabTrigger>plot</tabTrigger>
   <scope>source.r</scope>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+chartreuse3
+]]></content>
+  <tabTrigger>colorchartreuse3</tabTrigger>
+  <scope>source.r</scope>
+  <description>chartreuse3</description>
+</snippet>

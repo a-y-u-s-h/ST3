@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cdouble.min
+]]></content>
+  <tabTrigger>cdoublemin</tabTrigger>
+  <scope>source.d</scope>
+  <description>cdouble.min</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cent.min
+]]></content>
+  <tabTrigger>centmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>cent.min</description>
+</snippet>

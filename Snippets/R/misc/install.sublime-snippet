@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+install.packages("$0")
+]]></content>
+  <tabTrigger>install</tabTrigger>
+  <scope>source.r-console</scope>
+  <description>install</description>
+</snippet>

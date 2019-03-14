@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bool.min
+]]></content>
+  <tabTrigger>boolmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>bool.min</description>
+</snippet>

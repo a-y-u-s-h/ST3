@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+pow($0)
+
+]]></content>
+  <tabTrigger>pow</tabTrigger>
+  <scope>source.d</scope>
+  <description>pow</description>
+</snippet>

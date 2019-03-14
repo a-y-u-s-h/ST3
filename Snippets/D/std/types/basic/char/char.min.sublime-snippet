@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+char.min
+]]></content>
+  <tabTrigger>charmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>char.min</description>
+</snippet>

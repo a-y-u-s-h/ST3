@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+creal
+]]></content>
+  <tabTrigger>creal</tabTrigger>
+  <scope>source.d</scope>
+  <description>creal</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ceiling($0)
+]]></content>
+  <tabTrigger>ceiling</tabTrigger>
+  <scope>source.r</scope>
+  <description>ceiling</description>
+</snippet>

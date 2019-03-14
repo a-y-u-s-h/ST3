@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+round($0)
+
+]]></content>
+  <tabTrigger>round</tabTrigger>
+  <scope>source.d</scope>
+  <description>round</description>
+</snippet>

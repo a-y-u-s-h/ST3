@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bisque4
+]]></content>
+  <tabTrigger>colorbisque4</tabTrigger>
+  <scope>source.r</scope>
+  <description>bisque4</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+file.choose()
+]]></content>
+  <tabTrigger>filechoose</tabTrigger>
+  <scope>source.r</scope>
+  <description>Choose File</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+moccasin
+]]></content>
+  <tabTrigger>colormoccasin</tabTrigger>
+  <scope>source.r</scope>
+  <description>moccasin</description>
+</snippet>

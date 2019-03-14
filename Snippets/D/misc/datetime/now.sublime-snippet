@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Clock.currTime(UTC())
+]]></content>
+  <tabTrigger>now</tabTrigger>
+  <scope>source.d</scope>
+  <description>now</description>
+</snippet>

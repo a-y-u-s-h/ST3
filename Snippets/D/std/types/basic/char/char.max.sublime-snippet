@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+char.max
+]]></content>
+  <tabTrigger>charmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>char.max</description>
+</snippet>

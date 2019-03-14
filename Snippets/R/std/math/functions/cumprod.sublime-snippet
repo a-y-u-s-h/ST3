@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cumprod($0)
+]]></content>
+  <tabTrigger>cumprod</tabTrigger>
+  <scope>source.r</scope>
+  <description>cumprod</description>
+</snippet>

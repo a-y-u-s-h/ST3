@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+mean($0)
+]]></content>
+  <tabTrigger>mean</tabTrigger>
+  <scope>source.r</scope>
+  <description>mean</description>
+</snippet>

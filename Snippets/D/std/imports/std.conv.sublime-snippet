@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.conv;
+
+]]></content>
+  <tabTrigger>importstdconv</tabTrigger>
+  <scope>source.d</scope>
+  <description>importconv</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ucent.max
+]]></content>
+  <tabTrigger>ucentmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>ucent.max</description>
+</snippet>

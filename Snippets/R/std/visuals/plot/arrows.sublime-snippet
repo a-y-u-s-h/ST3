@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+arrows(x0 = c($1), y0 = c($2), x1 = c($3), y1 = c($4), col = "${5:black}", lty = ${6:2})
+]]></content>
+  <tabTrigger>arrows</tabTrigger>
+  <scope>source.r</scope>
+  <description>harrows</description>
+</snippet>

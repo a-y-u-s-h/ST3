@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+wchar.min
+]]></content>
+  <tabTrigger>wcharmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>wchar.min</description>
+</snippet>

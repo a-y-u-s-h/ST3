@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+text(x  = c($1), y = c($2), col = "${5:black}", lty = ${6:2})
+]]></content>
+  <tabTrigger>text</tabTrigger>
+  <scope>source.r</scope>
+  <description>htext</description>
+</snippet>

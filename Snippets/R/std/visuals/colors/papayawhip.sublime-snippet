@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+papayawhip
+]]></content>
+  <tabTrigger>colorpapayawhip</tabTrigger>
+  <scope>source.r</scope>
+  <description>papayawhip</description>
+</snippet>

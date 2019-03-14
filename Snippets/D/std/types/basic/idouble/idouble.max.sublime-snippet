@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+idouble.max
+]]></content>
+  <tabTrigger>idoublemax</tabTrigger>
+  <scope>source.d</scope>
+  <description>idouble.max</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bool.max
+]]></content>
+  <tabTrigger>boolmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>bool.max</description>
+</snippet>

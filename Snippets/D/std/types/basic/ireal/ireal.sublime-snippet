@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ireal
+]]></content>
+  <tabTrigger>ireal</tabTrigger>
+  <scope>source.d</scope>
+  <description>ireal</description>
+</snippet>

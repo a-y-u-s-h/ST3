@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+png(file = "$1")
+pie(c(${2:percentages}), c(${3:labels}),  main = "${4:...}", col = rainbow(length(c(${2:percentages}))))
+legend("topright", c(${3:labels}), cex = 0.8, fill = rainbow(length(c(${2:percentages}))))
+dev.off()
+]]></content>
+  <tabTrigger>pie</tabTrigger>
+  <scope>source.r</scope>
+  <description>hpie</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+uint.min
+]]></content>
+  <tabTrigger>uintmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>uint.min</description>
+</snippet>

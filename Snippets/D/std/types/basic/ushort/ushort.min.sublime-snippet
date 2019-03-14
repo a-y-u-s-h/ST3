@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ushort.min
+]]></content>
+  <tabTrigger>ushortmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>ushort.min</description>
+</snippet>

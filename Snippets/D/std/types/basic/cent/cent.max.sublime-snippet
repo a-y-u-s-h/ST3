@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cent.max
+]]></content>
+  <tabTrigger>centmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>cent.max</description>
+</snippet>

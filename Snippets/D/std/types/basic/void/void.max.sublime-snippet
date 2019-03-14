@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+void.max
+]]></content>
+  <tabTrigger>voidmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>void.max</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+median($0)
+]]></content>
+  <tabTrigger>median</tabTrigger>
+  <scope>source.r</scope>
+  <description>median</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+byte.min
+]]></content>
+  <tabTrigger>bytemin</tabTrigger>
+  <scope>source.d</scope>
+  <description>byte.min</description>
+</snippet>

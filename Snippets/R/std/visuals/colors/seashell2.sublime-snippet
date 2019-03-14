@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+seashell2
+]]></content>
+  <tabTrigger>colorseashell2</tabTrigger>
+  <scope>source.r</scope>
+  <description>seashell2</description>
+</snippet>

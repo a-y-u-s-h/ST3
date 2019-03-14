@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+long.max
+]]></content>
+  <tabTrigger>longmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>long.max</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+oldlace
+]]></content>
+  <tabTrigger>coloroldlace</tabTrigger>
+  <scope>source.r</scope>
+  <description>oldlace</description>
+</snippet>

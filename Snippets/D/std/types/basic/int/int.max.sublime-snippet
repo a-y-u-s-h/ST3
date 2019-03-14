@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+int.max
+]]></content>
+  <tabTrigger>intmax</tabTrigger>
+  <scope>source.d</scope>
+  <description>int.max</description>
+</snippet>

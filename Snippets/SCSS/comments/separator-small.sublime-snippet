@@ -5,6 +5,6 @@
 
 ]]></content>
   <tabTrigger>---</tabTrigger>
-  <scope>source.scss,source.css</scope>
+  <scope>source.css meta.property-list.css - meta.property-value.css, source.less - meta.property-value.css, source.scss - meta.property-list - support.function.name.sass.library - variable.other.root</scope>
   <description>---</description>
 </snippet>

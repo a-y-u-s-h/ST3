@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+firebrick
+]]></content>
+  <tabTrigger>colorfirebrick</tabTrigger>
+  <scope>source.r</scope>
+  <description>firebrick</description>
+</snippet>

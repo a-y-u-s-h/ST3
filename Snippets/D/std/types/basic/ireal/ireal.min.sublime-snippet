@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ireal.min
+]]></content>
+  <tabTrigger>irealmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>ireal.min</description>
+</snippet>

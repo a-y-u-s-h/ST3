@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+abs($0)
+
+]]></content>
+  <tabTrigger>abs</tabTrigger>
+  <scope>source.d</scope>
+  <description>abs</description>
+</snippet>

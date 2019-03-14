@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cummin($0)
+]]></content>
+  <tabTrigger>cummin</tabTrigger>
+  <scope>source.r</scope>
+  <description>cummin</description>
+</snippet>

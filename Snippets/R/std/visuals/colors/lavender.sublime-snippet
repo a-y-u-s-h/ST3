@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+lavender
+]]></content>
+  <tabTrigger>colorlavender</tabTrigger>
+  <scope>source.r</scope>
+  <description>lavender</description>
+</snippet>

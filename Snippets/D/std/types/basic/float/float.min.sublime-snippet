@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+float.min
+]]></content>
+  <tabTrigger>floatmin</tabTrigger>
+  <scope>source.d</scope>
+  <description>float.min</description>
+</snippet>

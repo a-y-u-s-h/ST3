@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ubyte.max
+]]></content>
+  <tabTrigger>ubytemax</tabTrigger>
+  <scope>source.d</scope>
+  <description>ubyte.max</description>
+</snippet>

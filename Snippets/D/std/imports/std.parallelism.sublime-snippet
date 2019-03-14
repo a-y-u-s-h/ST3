@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.parallelism;
+
+]]></content>
+  <tabTrigger>importstdparallelism</tabTrigger>
+  <scope>source.d</scope>
+  <description>importparallelism</description>
+</snippet>

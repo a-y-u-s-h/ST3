@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+uniform(${1:0}, ${2:1}, Random(Clock.currTime(UTC()).second))
+]]></content>
+  <tabTrigger>rand</tabTrigger>
+  <scope>source.d</scope>
+  <description>random</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.concurrency;
+
+]]></content>
+  <tabTrigger>importstdconcurrency</tabTrigger>
+  <scope>source.d</scope>
+  <description>importconcurrency</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+cosh($0)
+
+]]></content>
+  <tabTrigger>cosh</tabTrigger>
+  <scope>source.d</scope>
+  <description>cosh</description>
+</snippet>

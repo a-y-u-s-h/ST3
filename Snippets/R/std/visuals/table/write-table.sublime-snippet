@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+write.table(x = $1, file = $0, header = T, sep = "${2:,}", na.strings = "φ", quote = F, row.names = F)
+]]></content>
+  <tabTrigger>writetable</tabTrigger>
+  <scope>source.r</scope>
+  <description>New Class</description>
+</snippet>
+

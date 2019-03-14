@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+sinh($0)
+
+]]></content>
+  <tabTrigger>sinh</tabTrigger>
+  <scope>source.d</scope>
+  <description>sinh</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+cumsum($0)
+]]></content>
+  <tabTrigger>cumsum</tabTrigger>
+  <scope>source.r</scope>
+  <description>cumsum</description>
+</snippet>

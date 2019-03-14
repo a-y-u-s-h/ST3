@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.typecons : No;
+
+]]></content>
+  <tabTrigger>importstdtypeconsno</tabTrigger>
+  <scope>source.d</scope>
+  <description>importtypecons</description>
+</snippet>

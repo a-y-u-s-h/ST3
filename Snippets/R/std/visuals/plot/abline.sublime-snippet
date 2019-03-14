@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+abline(h = c($1), v = c($2),  col = "${3:black}", lty = ${4:2})
+]]></content>
+  <tabTrigger>abline</tabTrigger>
+  <scope>source.r</scope>
+  <description>habline</description>
+</snippet>

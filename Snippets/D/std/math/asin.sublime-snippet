@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+asin($0)
+
+]]></content>
+  <tabTrigger>asin</tabTrigger>
+  <scope>source.d</scope>
+  <description>asin</description>
+</snippet>

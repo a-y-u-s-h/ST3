@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.datetime;
+
+]]></content>
+  <tabTrigger>importstddatetime</tabTrigger>
+  <scope>source.d</scope>
+  <description>importdatetime</description>
+</snippet>

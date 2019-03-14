@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+import std.algorithm;
+
+]]></content>
+  <tabTrigger>importstdalgorithm</tabTrigger>
+  <scope>source.d</scope>
+  <description>importalgorithm</description>
+</snippet>

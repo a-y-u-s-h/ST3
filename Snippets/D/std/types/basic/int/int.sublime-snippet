@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+int
+]]></content>
+  <tabTrigger>int</tabTrigger>
+  <scope>source.d</scope>
+  <description>int</description>
+</snippet>

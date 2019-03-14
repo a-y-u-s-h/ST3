@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+floor($0)
+
+]]></content>
+  <tabTrigger>floor</tabTrigger>
+  <scope>source.d</scope>
+  <description>floor</description>
+</snippet>
