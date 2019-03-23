@@ -3,13 +3,31 @@
 import React, { Component } from 'react'
 import ReactDOM             from "react-dom"
 import p5                   from 'p5'
-import './${1}.css';
+import './${1}.css'
 
 class ${1} extends Component {
   constructor (props) {
     super(props)
     this.visualization = React.createRef()
     this.id = this.props.id || "${2:container}"
+  }
+  
+  render() {
+    return (
+      <div ref={(e) => this.visualization = e} id={this.id} className="${1}"></div>
+    );
+  }
+
+  componentDidMount () {
+    setTimeout(() => {
+     this.setState({
+      dimensions: {
+        width: ReactDOM.findDOMNode(this.visualization).offsetWidth,
+        height: ReactDOM.findDOMNode(this.visualization).offsetHeight
+      }
+    })
+    }, 1)
+    this.sketch = new p5(this.props.sketch || this.sketch)
   }
 
   sketch = (s) => {
@@ -27,23 +45,6 @@ class ${1} extends Component {
     s.draw = () => {
       $0
     }
-  }
-  componentDidMount () {
-    setTimeout(() => {
-     this.setState({
-      dimensions: {
-        width: ReactDOM.findDOMNode(this.visualization).offsetWidth,
-        height: ReactDOM.findDOMNode(this.visualization).offsetHeight
-      }
-    })
-    }, 1)
-    this.sketch = new p5(this.props.sketch || this.sketch)
-  }
-
-  render() {
-    return (
-      <div ref={(e) => this.visualization = e} id={this.id} className="${1}"></div>
-    );
   }
 }
 

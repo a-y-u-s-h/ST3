@@ -1,0 +1,247 @@
+<snippet>
+  <content><![CDATA[
+import React, { Component } from 'react'
+
+import './$1.css'
+
+class $1 extends Component {
+  constructor (props) {
+    /*
+      ======================================
+        
+        Constructor is the first thing that
+        gets called (given your component) is
+        a class component. Won't apply to functional
+        components. 
+
+        Constructor is used to:
+
+        1. Initialize state: this.state = { counter: 0 }
+        2. Create refs:      this.visualization = React.createRef()
+        3. Method binding:   this.method = this.method.bind(this)
+
+      ======================================
+    */
+    super(props)
+    this.state = {}
+  }
+
+  static getDerivedStateFromProps (props, state) {
+    /*
+      ======================================
+        
+        This method fires under these conditions:
+
+        => When mounting, this method is the last one that's called before rendering.
+        => Also this is the one that's called every time props change.
+
+        Return value is the desired state object. 
+        (this.state) will update after it is called.
+
+        You can use it to: 
+
+        1. Set state according to initial props.
+        2. Set state according to props changing.
+
+        .. by returning a new state object.
+
+        One last point about static methods like getDerivedStateFromProps: 
+        you don’t have access to the component viathis. 
+        So we couldn’t access our grid ref, for example. 
+
+      ======================================
+    */
+   return {}
+  }
+
+  render() {
+    /*
+      ======================================
+        Does everything. Returns JSX and
+        puts everything to the DOM.
+      ======================================
+    */
+    return (
+      <div className="$1">
+				$0
+      </div>
+    )
+  }
+ 
+  componentDidMount () {
+    /*
+      ======================================
+
+        This method is called right after 
+        we've rendered this component for the
+        first time.
+
+        If you need to load data, here’s where 
+        you do it. Don’t try to load data in the 
+        constructor or render or anything crazy.
+
+        componentDidMount is also where you can do all 
+        the fun things you couldn’t do when there was no 
+        component to play with. Here are some examples:
+
+        1. Draw on a <canvas> element that you just rendered.
+        2. Add event listeners.
+        3. Doing AJAX in here will guarantee that there’s a 
+           component to update when the request resolves.
+
+      ======================================
+    */
+  }
+
+  shouldComponentUpdate (nextProps, nextState) {
+    /*
+      ======================================
+
+        We have new props. Typical React dogma 
+        says that when a component receives new 
+        props, or new state, it should update.
+
+        But our component is a little bit anxious 
+        and is going to ask permission first.
+
+        Here’s what we get  —  a shouldComponentUpdate method, 
+        called with nextProps as the first argument, 
+        and nextState is the second.
+
+        This method should always return a boolean -
+        an answer to the question "Should I re-render?".
+        Yes, little component, you should. The default is
+        that it always returns true.
+
+        But if you're worried about wasted renders
+        and other nonsense - this method is awesome
+        place to improve performance.
+
+        shouldComponentUpdate allows us to say: 
+        only update if the props you care about change.
+
+        Most common use case: controlling exactly
+        when your component will re-render.
+
+      ======================================
+    */
+
+    return true
+  }
+
+  getSnapshotBeforeUpdate (prevProps, prevState) {
+    /*
+      ======================================
+
+        It’s called between render and the 
+        updated component actually being 
+        propagated to the DOM. 
+
+        It exists as a last-chance-look at 
+        your component with its previous 
+        props and state.
+
+        Most Common Use Case: Taking a look 
+        at some attribute of the current DOM, 
+        and passing that value on to componentDidUpdate.
+
+        You should either return 'null' or a value
+        from getSnapshotBeforeUpdate.
+
+      ======================================
+    */
+   return null
+  }
+
+  componentDidUpdate (prevProps, prevState, snapshot) {
+    /*
+      ======================================
+
+        This method is called after our changes
+        have been commited to the DOM. This method
+        has access to three things:
+
+        1. Previous props. 
+        2. Previous state.
+        3. Whatever value we returned 
+           from getSnapshotBeforeUpdate.
+        
+        Most common use case:
+
+        1. Reacting to commited changes to DOM.
+
+      ======================================
+    */
+  }
+  
+  componentWillUnmount () {
+    /*
+      ======================================
+        
+        Your component is going to go away. 
+        Maybe forever. It’s very sad.
+
+        Before it goes, it asks if you have 
+        any last-minute requests.
+
+        Here you can cancel any outgoing network 
+        requests, or remove all event listeners 
+        associated with the component.
+
+        Basically, clean up anything to do that 
+        solely involves the component in question  — 
+         when it’s gone, it should be completely gone.
+
+      ======================================
+    */
+  }
+
+    static getDerivedStateFromError (error) {
+    /*
+      ======================================
+        
+        Something broke.
+        Not in your component itself, 
+        but one of its descendants.
+        
+        We want to show an error screen. The easiest way to do 
+        so is to have a value like this.state.error, 
+        which gets flipped to true at this point.
+
+        It receives the error that was thrown as a parameter 
+        and should return a value to update state.
+
+      ======================================
+    */
+   return {}
+  }
+
+  componentDidCatch (error, info) {
+    /*
+      ======================================
+        
+        Very similar to getDerivedStateFromError, 
+        in that it is triggered when an error occurs 
+        in a child component.
+
+        The difference is rather than updating state 
+        in response to an error, we can now perform 
+        any side effects, like logging the error.
+
+        `error` would be the actual error message 
+        (Undefined Variable blah blah blah ) &
+        
+        `info` would be the stack trace 
+        (In Component, in div, etc).
+      
+      ======================================
+    */
+  }
+}
+
+export default $1
+
+]]></content>
+  <tabTrigger>reactcomponentexplained</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

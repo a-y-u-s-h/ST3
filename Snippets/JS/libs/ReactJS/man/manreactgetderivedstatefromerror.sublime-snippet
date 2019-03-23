@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+    
+    getDerivedStateFromError: 
+    
+    Something broke.
+    Not in your component itself, 
+    but one of its descendants.
+    
+    We want to show an error screen. The easiest way to do 
+    so is to have a value like this.state.error, 
+    which gets flipped to true at this point.
+
+    It receives the error that was thrown as a parameter 
+    and should return a value to update state.
+
+  ======================================
+*/
+]]></content>
+  <tabTrigger>manreactgetderivedstatefromerror</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

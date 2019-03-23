@@ -1,0 +1,28 @@
+<snippet>
+  <content><![CDATA[
+componentDidCatch (error, info) {
+  /*
+    ======================================
+      
+      Very similar to getDerivedStateFromError, 
+      in that it is triggered when an error occurs 
+      in a child component.
+
+      The difference is rather than updating state 
+      in response to an error, we can now perform 
+      any side effects, like logging the error.
+
+      `error` would be the actual error message 
+      (Undefined Variable blah blah blah ) &
+      
+      `info` would be the stack trace 
+      (In Component, in div, etc).
+    
+    ======================================
+  */
+ 	$0
+}
+]]></content>
+  <tabTrigger>componentDidCatch</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

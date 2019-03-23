@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+($0)
+]]></content>
+	<tabTrigger>9</tabTrigger>
+	<scope>source.elm</scope>
+</snippet>

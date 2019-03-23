@@ -1,18 +1,12 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 /*
- |======================================================================|
- 
-   Purpose of ${1} :
- 
-   ${2}
- 
- |======================================================================|
+  ++++++++++++++++++++++++++++++++++++++
+    ${0}
+  ++++++++++++++++++++++++++++++++++++++
 */
-
-
 ]]></content>
-	<tabTrigger>whatsup</tabTrigger>
-	<scope>source.js</scope>
-	<description>whatsup</description>
+  <tabTrigger>dude</tabTrigger>
+  <scope>source.js</scope>
+  <description>dude</description>
 </snippet>

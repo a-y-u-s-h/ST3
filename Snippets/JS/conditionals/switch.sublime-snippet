@@ -4,8 +4,6 @@ switch (${1:}) {
 	$0
 } 
 ]]></content>
-	
 	<tabTrigger>switch</tabTrigger>
-	
 	<scope>source.js</scope>
 </snippet>
