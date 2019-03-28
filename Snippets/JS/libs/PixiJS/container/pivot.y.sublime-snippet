@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+$1.pivot.y
+]]></content>
+  <tabTrigger>pixipivoty</tabTrigger>
+  <scope>source.js</scope>
+  <description>pivot.y</description>
+</snippet>

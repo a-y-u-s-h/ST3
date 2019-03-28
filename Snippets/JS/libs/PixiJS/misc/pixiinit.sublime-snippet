@@ -2,12 +2,11 @@
   <content><![CDATA[
 class Pixi {
   constructor (id, options) {
-    this.id                 = id;
-    document.body.innerHTML += `<div class="canvas" id="\${id}">`;
+    this.id                  = id;
+    document.body.innerHTML += `<div class="canvas" id="${id}">`;
     this.container           = document.getElementById(this.id);
     this.width               = this.container.offsetWidth;
     this.height              = this.container.offsetHeight;
-    this.dragging 					 = null;
     this.options             = {
       width            : this.width,
       height           : this.height,
@@ -37,7 +36,7 @@ class Pixi {
     this.app.stage.addChild(element);
   }
 
-  draggable (element) {
+  drag (element, f = () => {}) {
     element.interactive = true;
     element.buttonMode  = true;
     
@@ -56,6 +55,7 @@ class Pixi {
         let position = this.data.getLocalPosition(this.parent);
         this.x = position.x;
         this.y = position.y;
+        f()
       }
     }
 
@@ -64,6 +64,12 @@ class Pixi {
       .on('pointerup',        onDragEnd) 
       .on('pointerupoutside', onDragEnd)
       .on('pointermove',      onDragMove);
+  }
+
+  click (element, f = () => {}) {
+    element.interactive = true;
+    element.buttonMode  = true;
+    element.on('pointerdown', f)    
   }
 };
 

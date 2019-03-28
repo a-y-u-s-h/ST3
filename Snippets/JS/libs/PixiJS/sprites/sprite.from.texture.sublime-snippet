@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+PIXI.Sprite(${0:texture})
+]]></content>
+  <tabTrigger>pixisprite</tabTrigger>
+  <scope>source.js</scope>
+  <description>new pixi sprite</description>
+</snippet>

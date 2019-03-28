@@ -1,0 +1,16 @@
+<snippet> 
+  <content><![CDATA[
+"""
+  ======================================
+    Route : /$1
+  ======================================
+"""
+@ app.route("/$1")
+def ${1/\//_/g}():
+  return render_template("${1/\// /g}/${1/\// /g}.html")
+
+]]></content>
+  <tabTrigger>tfun</tabTrigger>
+  <scope>source.python</scope>
+  <description>render template function</description>
+</snippet>

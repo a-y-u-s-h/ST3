@@ -5,12 +5,12 @@
     Route : /$1
   ======================================
 """
-@ app.route("/$1")
+@ app.route("/$1", methods = ["GET", "POST"])
 def ${1/\//_/g}():
-  return render_template("${1/\// /g}/${1/\// /g}.html")
+  return response
 
 ]]></content>
   <tabTrigger>rfun</tabTrigger>
   <scope>source.python</scope>
-  <description>render function</description>
+  <description>routing function</description>
 </snippet>
