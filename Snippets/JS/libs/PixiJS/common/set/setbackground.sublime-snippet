@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+s.app.renderer.backgroundColor = 0x${1:000000}
+$0
+]]></content>
+  <tabTrigger>pixisetbackground</tabTrigger>
+  <scope>source.js</scope>
+  <description>set background</description>
+</snippet>

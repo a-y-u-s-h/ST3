@@ -8,18 +8,46 @@ class Pixi {
     this.width               = this.container.offsetWidth;
     this.height              = this.container.offsetHeight;
     this.options             = {
-      width            : this.width,
-      height           : this.height,
-      antialias        : true,
-      transparent      : false,
-      resolution       : 1,
-      backgroundColor  : 0x009B89
+      app: {
+        width            : this.width,
+        height           : this.height,
+        antialias        : true,
+        transparent      : false,
+        resolution       : 1,
+        backgroundColor  : 0x009B89
+      },
+      text: {
+        heading: {      
+          fontFamily       : 'Roboto',
+          fontSize         : 30,
+          fontStyle        : 'normal',
+          fontWeight       : 'bold',
+          fill             : ['#FFFFFF'],
+          stroke           : '#000000',
+          strokeThickness  : 7,
+          dropShadow       : false,
+          wordWrap         : true,
+          wordWrapWidth    : 900
+        },
+        paragraph: {      
+          fontFamily       : 'Roboto',
+          fontSize         : 15,
+          fontStyle        : 'normal',
+          fontWeight       : 'normal',
+          fill             : ['#000000'],
+          stroke           : '#000000',
+          strokeThickness  : 0,
+          dropShadow       : false,
+          wordWrap         : true,
+          wordWrapWidth    : 900
+        }
+      }
     };
     this.init();
   }
 
   init () {
-    this.app = new PIXI.Application(this.options);
+    this.app = new PIXI.Application(this.options.app);
     this.container.appendChild(this.app.view);
     this.setup();
   }
