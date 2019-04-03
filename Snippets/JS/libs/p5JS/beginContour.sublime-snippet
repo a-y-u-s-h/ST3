@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-beginContour()
-]]></content>
-	
-	<tabTrigger>bcon</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

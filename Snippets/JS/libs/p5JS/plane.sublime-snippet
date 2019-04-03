@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-plane(${1:w}, ${2:h})
-]]></content>
-	
-	<tabTrigger>pln</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

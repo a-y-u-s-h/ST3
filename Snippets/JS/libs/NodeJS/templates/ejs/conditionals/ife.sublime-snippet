@@ -7,6 +7,6 @@
 <% } %>
 ]]></content>
   <tabTrigger>ife</tabTrigger>
-  <scope>text.html</scope>
+  <scope>text.html.js</scope>
   <description>code block</description>
 </snippet>

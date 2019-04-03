@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- <======================================> -->
+
+
+]]></content>
+	<tabTrigger>===</tabTrigger>
+	<scope>text.html, source.js, text.html.vue</scope>
+	<description>===</description>
+</snippet>

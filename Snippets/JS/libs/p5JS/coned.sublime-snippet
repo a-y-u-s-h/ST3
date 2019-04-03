@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-cone(${1:r}, ${2:h}, ${3:detailX}, ${4:detailY})
-]]></content>
-	
-	<tabTrigger>coned</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

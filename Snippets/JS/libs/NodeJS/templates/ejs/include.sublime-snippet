@@ -3,6 +3,6 @@
 <% include $0 %>
 ]]></content>
   <tabTrigger>include</tabTrigger>
-  <scope>text.html</scope>
+  <scope>text.html.js</scope>
   <description>code block</description>
 </snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-curveTightness(${0:amount})
-]]></content>
-	
-	<tabTrigger>cuti</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

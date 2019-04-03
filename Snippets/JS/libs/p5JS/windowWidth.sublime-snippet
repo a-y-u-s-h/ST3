@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-windowWidth
-]]></content>
-	
-	<tabTrigger>ww</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

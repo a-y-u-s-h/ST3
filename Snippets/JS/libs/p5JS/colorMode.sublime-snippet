@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-colorMode(${1:mode-RGB/HSB}, ${2:${3:max-red/hue}, ${4:max-green/sat}, ${5:max-blue/brightness}, ${6:maxA}})
-]]></content>
-	
-	<tabTrigger>cm</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-windowHeight
+${1:s.}windowHeight
 ]]></content>
   <tabTrigger>windowheight</tabTrigger>
   <scope>source.js</scope>

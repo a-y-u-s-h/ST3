@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-displayWidth
+${1:s.}displayWidth
 ]]></content>
   <tabTrigger>displaywidth</tabTrigger>
   <scope>source.js</scope>

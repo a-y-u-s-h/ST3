@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<slot name="$1">$0</slot>
+]]></content>
+  <tabTrigger>vslot</tabTrigger>
+  <scope>text.html, source.js, text.html.vue</scope>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-translate($0)
+${1:s.}translate($0)
 ]]></content>
   <tabTrigger>translate</tabTrigger>
   <scope>source.js</scope>

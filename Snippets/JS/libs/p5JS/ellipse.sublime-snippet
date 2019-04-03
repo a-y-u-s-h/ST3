@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-ellipse(${1:x}, ${2:y}, ${3:w}, ${4:h})
-]]></content>
-	
-	<tabTrigger>el</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

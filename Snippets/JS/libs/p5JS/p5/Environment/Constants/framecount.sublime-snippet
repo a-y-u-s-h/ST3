@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-frameCount
+${1:s.}frameCount
 ]]></content>
   <tabTrigger>framecount</tabTrigger>
   <scope>source.js</scope>

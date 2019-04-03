@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-noSmooth()
-]]></content>
-	
-	<tabTrigger>nosm</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

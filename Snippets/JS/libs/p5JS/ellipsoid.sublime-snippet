@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-ellipsoid(${1:rx}, ${2:ry}, ${3:rz})
-]]></content>
-	
-	<tabTrigger>elsd</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

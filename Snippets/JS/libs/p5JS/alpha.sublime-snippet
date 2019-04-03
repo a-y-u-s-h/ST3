@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-alpha(${0:color-object || pixel-array})
-]]></content>
-	
-	<tabTrigger>al</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

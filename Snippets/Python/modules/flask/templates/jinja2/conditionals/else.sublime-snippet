@@ -1,0 +1,9 @@
+<snippet> 
+  <content><![CDATA[
+{% else %}
+	$0
+]]></content>
+  <tabTrigger>else</tabTrigger>
+  <scope>text.html</scope>
+  <description>else</description>
+</snippet>

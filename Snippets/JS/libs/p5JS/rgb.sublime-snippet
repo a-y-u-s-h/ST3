@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-${1:r}, ${2:g}, ${3:b}
-]]></content>
-	
-	<tabTrigger>rgb</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

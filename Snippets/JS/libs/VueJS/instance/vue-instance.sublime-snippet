@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+new Vue({
+	el: `$1`,
+	data: {
+		$0
+	},
+	methods: {
+	
+	},
+	computed: {
+
+	}
+})
+]]></content>
+  <tabTrigger>vueinstance</tabTrigger>
+  <scope>text.html, source.js, text.html.vue</scope>
+</snippet>

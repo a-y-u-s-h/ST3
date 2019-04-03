@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+<!--
+  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+  |~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~~|
+  |                                                                      |
+  |                                                                      |
+  |                     Author  : Ayush Sharma                           |
+  |                     Github  : a-y-u-s-h                              |
+  |                     Twitter : @taggosaurus                           |
+  |                     Website : ayushsharma.net                        |
+  |                                                                      |
+  |                                                                      |
+  |~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~~|
+  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+-->
+
+]]></content>
+  <tabTrigger>ayush</tabTrigger>
+  <scope>text.html, source.js, text.html.vue</scope>
+  <description>ayush</description>
+</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sphere(${1:r}, ${2:detailX}, ${3:detailY})
-]]></content>
-	
-	<tabTrigger>sphd</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

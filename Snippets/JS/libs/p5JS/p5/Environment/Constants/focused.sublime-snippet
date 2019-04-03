@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-focused
+${1:s.}focused
 ]]></content>
   <tabTrigger>focused</tabTrigger>
   <scope>source.js</scope>

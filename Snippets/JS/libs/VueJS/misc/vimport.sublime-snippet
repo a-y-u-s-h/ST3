@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import $1 from "$0"
+
+]]></content>
+  <tabTrigger>vimport</tabTrigger>
+  <scope>text.html, source.js, text.html.vue</scope>
+</snippet>

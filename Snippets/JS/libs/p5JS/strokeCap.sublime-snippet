@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-strokeCap(${0:ROUND/SQUARE/PROJECT})
-]]></content>
-	
-	<tabTrigger>stc</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

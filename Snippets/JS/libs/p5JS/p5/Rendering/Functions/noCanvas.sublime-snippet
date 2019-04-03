@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-noCanvas($0)
+${1:s.}noCanvas($0)
 ]]></content>
   <tabTrigger>nocanvas</tabTrigger>
   <scope>source.js</scope>

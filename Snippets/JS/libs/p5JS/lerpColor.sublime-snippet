@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-lerpColor(${1:from-color}, ${2:to-color}, ${3:number-from-0-to-1})
-]]></content>
-	
-	<tabTrigger>lc</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

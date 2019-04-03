@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-strokeWeight(${0:pixels})
-]]></content>
-	
-	<tabTrigger>stw</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

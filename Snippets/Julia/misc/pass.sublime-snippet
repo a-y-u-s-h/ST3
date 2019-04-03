@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+nothing
+]]></content>
+  <tabTrigger>pass</tabTrigger>
+  <scope>source.julia</scope>
+  <description>pass</description>
+</snippet>

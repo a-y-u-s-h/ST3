@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-HALF_PI
+${1:s.}HALF_PI
 ]]></content>
   <tabTrigger>halfpi</tabTrigger>
   <scope>source.js</scope>

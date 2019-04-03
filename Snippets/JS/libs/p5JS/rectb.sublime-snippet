@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-rect(${1:x}, ${2:y}, ${3:w}, ${4:h}, ${5:tl}, ${6:tr}, ${7:br}, ${8:bl})
-]]></content>
-	
-	<tabTrigger>rectb</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

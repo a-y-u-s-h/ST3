@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-torus($0)
+${1:s.}torus($0)
 ]]></content>
   <tabTrigger>torus</tabTrigger>
   <scope>source.js</scope>

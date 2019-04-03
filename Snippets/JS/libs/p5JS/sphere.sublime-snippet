@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sphere(${0:r})
-]]></content>
-	
-	<tabTrigger>sph</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

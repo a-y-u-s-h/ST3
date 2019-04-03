@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-clear()
-]]></content>
-	
-	<tabTrigger>clr</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-box(${1:w}, ${2:h}, ${3:d}, ${4:detailX}, ${5:detailY})
-]]></content>
-	
-	<tabTrigger>bxd</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

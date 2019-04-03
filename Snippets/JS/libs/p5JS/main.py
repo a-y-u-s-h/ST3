@@ -216,7 +216,7 @@ def main():
               name = x[:-2]
               snippet = f"""<snippet>
   <content><![CDATA[
-{name}($0)
+${{1:s.}}{name}($0)
 ]]></content>
   <tabTrigger>{name.lower().replace("_", "")}</tabTrigger>
   <scope>source.js</scope>
@@ -248,7 +248,7 @@ let {name} = () = {{
               name = x
               snippet = f"""<snippet>
   <content><![CDATA[
-{name}
+${{1:s.}}{name}
 ]]></content>
   <tabTrigger>{name.lower().replace("_", "")}</tabTrigger>
   <scope>source.js</scope>

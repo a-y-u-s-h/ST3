@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+{% block $0 %}{% endblock %}
+]]></content>
+  <tabTrigger>block</tabTrigger>
+  <scope>text.html</scope>
+  <description>code block</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-blue($0)
+${1:s.}blue($0)
 ]]></content>
   <tabTrigger>blue</tabTrigger>
   <scope>source.js</scope>

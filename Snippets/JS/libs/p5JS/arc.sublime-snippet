@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-arc(${1:x}, ${2:y}, ${3:w}, ${4:h}, ${5:start-angle}, ${6:stop-angle}, ${7:OPEN/CHORD/PIE}})
-]]></content>
-	
-	<tabTrigger>arc</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+v-for="${1} in $2" :key="$3"
+]]></content>
+  <tabTrigger>vforin</tabTrigger>
+  <scope>text.html, source.js, text.html.vue</scope>
+</snippet>

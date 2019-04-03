@@ -1,0 +1,12 @@
+<snippet> 
+  <content><![CDATA[
+{% if $1 %}
+	$0
+{% else %}
+
+{% endif %}
+]]></content>
+  <tabTrigger>ife</tabTrigger>
+  <scope>text.html</scope>
+  <description>code block</description>
+</snippet>

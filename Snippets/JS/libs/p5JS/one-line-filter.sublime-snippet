@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-filter(${1:x} => ${0})
-]]></content>
-	
-	<tabTrigger>ofil</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

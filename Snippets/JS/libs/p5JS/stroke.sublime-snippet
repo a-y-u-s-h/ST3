@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stroke(${0:color})
-]]></content>
-	
-	<tabTrigger>st</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

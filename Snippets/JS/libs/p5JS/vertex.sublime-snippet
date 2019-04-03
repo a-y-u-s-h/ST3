@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-vertex(${1:x}, ${2:y})
-]]></content>
-	
-	<tabTrigger>vx</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

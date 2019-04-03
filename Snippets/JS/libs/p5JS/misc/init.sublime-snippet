@@ -4,18 +4,17 @@ let config = {
   ${2:sketch}: {
     parent: { id: `$1`}
   }
-};
+}
 
 const ${2:sketch} = new p5(s => {
-  with (s) {
     s.setup = () => {
-      let container = document.getElementById(`\${config.${2:sketch}.parent.id}`);
-      let canvas    = createCanvas(container.offsetWidth, container.offsetHeight); 
-      canvas.parent(`\${config.${2:sketch}.parent.id}`); 
-      angleMode(DEGREES);
-      noFill();
-      rectMode(CENTER);
-      ellipseMode(CENTER);
+      let container = document.getElementById(`\${config.${2:sketch}.parent.id}`)
+      let canvas    = s.createCanvas(container.offsetWidth, container.offsetHeight) 
+      canvas.parent(`\${config.${2:sketch}.parent.id}`) 
+      s.angleMode(s.DEGREES)
+      s.noFill()
+      s.rectMode(s.CENTER)
+      s.ellipseMode(s.CENTER)
     }
 
     s.draw = () => {
@@ -23,10 +22,10 @@ const ${2:sketch} = new p5(s => {
     }
 
     s.windowResized = () => {
-      s.setup();
-    };
-  }
-});
+      s.setup()
+    }
+})
+
 ]]></content>
   <tabTrigger>p5init</tabTrigger>
   <scope>source.js</scope>

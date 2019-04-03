@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-noStroke()
-]]></content>
-	
-	<tabTrigger>nost</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

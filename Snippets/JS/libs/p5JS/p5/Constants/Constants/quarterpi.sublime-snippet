@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-QUARTER_PI
+${1:s.}QUARTER_PI
 ]]></content>
   <tabTrigger>quarterpi</tabTrigger>
   <scope>source.js</scope>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-displayHeight
+${1:s.}displayHeight
 ]]></content>
   <tabTrigger>displayheight</tabTrigger>
   <scope>source.js</scope>

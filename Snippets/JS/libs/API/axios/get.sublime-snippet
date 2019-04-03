@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+api
+  .get("$1")
+  .then(response => $0)
+  .catch(error => console.error(error))
+]]></content>
+  <tabTrigger>apiget</tabTrigger>
+  <scope>text.html, source.js, text.html.vue</scope>
+</snippet>

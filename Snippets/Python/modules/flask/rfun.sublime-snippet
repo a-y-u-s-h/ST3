@@ -5,7 +5,7 @@
     Route : /$1
   ======================================
 """
-@ app.route("/$1", methods = ["GET", "POST"])
+@app.route("/$1", methods = ["GET", "POST"])
 def ${1/\//_/g}():
   return response
 

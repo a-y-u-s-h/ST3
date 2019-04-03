@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-curveVertex(${1:x}, ${2:y})
-]]></content>
-	
-	<tabTrigger>cuvx</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

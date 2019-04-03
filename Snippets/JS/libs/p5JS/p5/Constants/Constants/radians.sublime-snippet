@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-RADIANS
+${1:s.}RADIANS
 ]]></content>
   <tabTrigger>radians</tabTrigger>
   <scope>source.js</scope>

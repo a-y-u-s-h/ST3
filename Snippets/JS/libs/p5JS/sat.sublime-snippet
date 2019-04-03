@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-saturation(${0:color-object || pixel-array})
-]]></content>
-	
-	<tabTrigger>sat</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

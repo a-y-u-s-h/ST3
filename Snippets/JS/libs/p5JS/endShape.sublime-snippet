@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-endShape(${1:CLOSE})
-]]></content>
-	
-	<tabTrigger>esh</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

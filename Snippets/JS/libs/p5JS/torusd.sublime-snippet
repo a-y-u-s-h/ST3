@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-torus(${1:r}, ${2:tr}, ${3:detailX}, ${4:detailY})
-]]></content>
-	
-	<tabTrigger>trsd</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

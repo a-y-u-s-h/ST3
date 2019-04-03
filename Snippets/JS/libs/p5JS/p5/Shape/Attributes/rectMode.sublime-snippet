@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-rectMode($0)
+${1:s.}rectMode($0)
 ]]></content>
   <tabTrigger>rectmode</tabTrigger>
   <scope>source.js</scope>

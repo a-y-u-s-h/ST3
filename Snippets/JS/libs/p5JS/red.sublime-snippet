@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-red(${0:color-object || pixel-array})
-]]></content>
-	
-	<tabTrigger>r</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

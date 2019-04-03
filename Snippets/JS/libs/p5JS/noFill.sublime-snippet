@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-noFill()
-]]></content>
-	
-	<tabTrigger>nofi</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-strokeJoin(${0:MITEL/BEVEL/ROUND})
-]]></content>
-	
-	<tabTrigger>stj</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

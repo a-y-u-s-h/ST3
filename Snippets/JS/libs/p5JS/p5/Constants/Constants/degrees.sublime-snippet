@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-DEGREES
+${1:s.}DEGREES
 ]]></content>
   <tabTrigger>degrees</tabTrigger>
   <scope>source.js</scope>

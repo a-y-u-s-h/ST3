@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-append($0)
+${1:s.}append($0)
 ]]></content>
   <tabTrigger>append</tabTrigger>
   <scope>source.js</scope>

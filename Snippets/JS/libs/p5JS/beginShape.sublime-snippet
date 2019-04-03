@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-beginShape(${1:kind})
-]]></content>
-	
-	<tabTrigger>bsh</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-random(${1:0}, ${0:255})
-]]></content>
-	
-	<tabTrigger>ran</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

@@ -1,0 +1,11 @@
+<snippet> 
+  <content><![CDATA[
+{% extends "$1" %}
+{% block $2 %}
+	$0
+{% endblock $2 %}
+]]></content>
+  <tabTrigger>template</tabTrigger>
+  <scope>text.html</scope>
+  <description>code block</description>
+</snippet>

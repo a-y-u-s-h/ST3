@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-brightness(${0:color-object || pixel-array})
-]]></content>
-	
-	<tabTrigger>br</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

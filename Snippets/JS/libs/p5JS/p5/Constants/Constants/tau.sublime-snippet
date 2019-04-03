@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-TAU
+${1:s.}TAU
 ]]></content>
   <tabTrigger>tau</tabTrigger>
   <scope>source.js</scope>

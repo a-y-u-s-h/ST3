@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+props: {
+	$1: {
+		type 			: ${2:String},
+		required 	: ${3:false},
+		default 	 : ${4:""}
+	}
+}
+]]></content>
+  <tabTrigger>vprops</tabTrigger>
+  <scope>text.html.vue, text.html, source.js</scope>
+</snippet>

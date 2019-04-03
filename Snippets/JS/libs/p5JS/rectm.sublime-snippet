@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-rectMode(${0:CENTER/RADIUS/CORNER/CORNERS})
-]]></content>
-	
-	<tabTrigger>rectm</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<!--
+  **************************************
+    ${0}
+  **************************************
+-->
+]]></content>
+  <tabTrigger>whoa</tabTrigger>
+  <scope>text.html, source.js, text.html.vue</scope>
+  <description>whoa</description>
+</snippet>

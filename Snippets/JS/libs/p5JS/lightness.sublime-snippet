@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-lightness(${0:color-object || pixel-array})
-]]></content>
-	
-	<tabTrigger>light</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

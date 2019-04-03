@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-quadraticVertex(${1:xc}, ${2:yc}, ${3:xa}, ${4:ya})
-]]></content>
-	
-	<tabTrigger>qvx</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>

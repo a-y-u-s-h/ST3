@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-PI
+${1:s.}PI
 ]]></content>
   <tabTrigger>pi</tabTrigger>
   <scope>source.js</scope>

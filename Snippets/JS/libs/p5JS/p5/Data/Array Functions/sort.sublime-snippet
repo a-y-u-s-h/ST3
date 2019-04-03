@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-sort($0)
+${1:s.}sort($0)
 ]]></content>
   <tabTrigger>sort</tabTrigger>
   <scope>source.js</scope>

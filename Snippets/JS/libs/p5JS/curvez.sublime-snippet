@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-curve(${1:z1}, ${2:z2}, ${3:z3}, ${4:z4})
-]]></content>
-	
-	<tabTrigger>cuz</tabTrigger>
-	
-	<scope>source.js</scope>
-</snippet>
