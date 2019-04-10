@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-pmouseY
+${1:s.}pmouseY
 ]]></content>
 	
 	<tabTrigger>pmousey</tabTrigger>

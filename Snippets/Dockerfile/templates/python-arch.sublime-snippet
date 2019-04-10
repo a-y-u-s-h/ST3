@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-FROM base/archlinux
+FROM archlinux/base
 
 WORKDIR /app
 ADD . /app

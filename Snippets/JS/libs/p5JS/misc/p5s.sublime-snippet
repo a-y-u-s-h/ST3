@@ -1,0 +1,30 @@
+<snippet>
+  <content><![CDATA[
+const $1 = s => {
+  s.setup = () => {
+    let container = document.getElementById($2)
+    let canvas = s.createCanvas(
+      container.offsetWidth,
+      container.offsetHeight
+    )
+    canvas.parent($2)
+    s.angleMode(s.DEGREES)
+    s.noFill()
+    s.rectMode(s.CENTER)
+    s.ellipseMode(s.CENTER)
+    s.textAlign(s.CENTER, s.CENTER)    
+  }
+
+  s.draw = () => {
+    $0
+  }
+
+  s.windowResized = () => {
+    s.setup()
+  }
+}
+
+]]></content>
+  <tabTrigger>p5s</tabTrigger>  
+  <scope>source.js</scope>
+</snippet>

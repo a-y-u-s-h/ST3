@@ -1,7 +1,5 @@
 <snippet>	
 	<content><![CDATA[
-#!/usr/bin/env python3
-
 def main():
 	${0:pass}
 
