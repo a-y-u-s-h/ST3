@@ -1,10 +1,9 @@
 <snippet>
   <content><![CDATA[
-import $1 from "$2"
-
+import { $1 } from "$0"
 ]]></content>
   
-  <tabTrigger>fromimport</tabTrigger>
+  <tabTrigger>nimport</tabTrigger>
   
   <scope>source.js</scope>
 </snippet>

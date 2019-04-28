@@ -1,11 +1,11 @@
 <snippet>
   <content><![CDATA[
 import React, { Component } from 'react'
-
+import data from "./props"
 import './$1.css'
 
 class $1 extends Component {
-  constructor (props) {
+  constructor (props = data) {
     super(props)
     this.state = {}
   }
