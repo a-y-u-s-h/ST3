@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Long
+]]></content>
+  <tabTrigger>long</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

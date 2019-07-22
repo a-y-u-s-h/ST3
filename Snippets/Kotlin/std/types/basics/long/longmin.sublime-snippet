@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Long.MIN_VALUE
+]]></content>
+  <tabTrigger>longmin</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

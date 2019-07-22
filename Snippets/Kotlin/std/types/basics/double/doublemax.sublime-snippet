@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Double.MAX_VALUE
+]]></content>
+  <tabTrigger>doublemax</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

@@ -1,7 +1,7 @@
 <snippet> 
   <content><![CDATA[
 with open(f"${1}", "r") as file:
-  content = yaml.load(file)
+  content = yaml.load(file, Loader = yaml.FullLoader)
     
 ]]></content>
   <tabTrigger>readyaml</tabTrigger>

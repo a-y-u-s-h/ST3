@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Int
+]]></content>
+  <tabTrigger>int</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Long.MAX_VALUE
+]]></content>
+  <tabTrigger>longmax</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

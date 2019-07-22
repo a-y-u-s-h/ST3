@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Byte
+]]></content>
+  <tabTrigger>byte</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

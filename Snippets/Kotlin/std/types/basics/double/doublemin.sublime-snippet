@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Double.MIN_VALUE
+]]></content>
+  <tabTrigger>doublemin</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

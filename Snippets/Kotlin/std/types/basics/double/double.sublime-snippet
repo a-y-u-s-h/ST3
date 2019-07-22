@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Double
+]]></content>
+  <tabTrigger>double</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

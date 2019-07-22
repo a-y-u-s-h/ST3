@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+println("$0")
+]]></content>
+  <tabTrigger>prn</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>

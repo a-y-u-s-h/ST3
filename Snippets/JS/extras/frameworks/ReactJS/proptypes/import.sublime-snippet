@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import PropTypes from "prop-types"
+
+]]></content>
+  <tabTrigger>ptimport</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

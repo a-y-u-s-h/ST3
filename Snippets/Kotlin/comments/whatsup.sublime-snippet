@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+/*
+ |======================================================================|
+ 
+   Purpose of ${1} :
+ 
+   ${2}
+ 
+ |======================================================================|
+*/
+
+
+]]></content>
+	<tabTrigger>whatsup</tabTrigger>
+	<scope>source.Kotlin</scope>
+	<description>whatsup</description>
+</snippet>

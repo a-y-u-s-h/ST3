@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Float
+]]></content>
+  <tabTrigger>float</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

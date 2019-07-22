@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+function main () {
+  $0
+}
+
+if (require.main === module) {
+  main()
+} else {
+  exports.main = (typeof(main) != "undefined") ? main : undefined
+}
+]]></content>
+  <tabTrigger>nmain</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

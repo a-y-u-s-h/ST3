@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Byte.MAX_VALUE
+]]></content>
+  <tabTrigger>bytemax</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

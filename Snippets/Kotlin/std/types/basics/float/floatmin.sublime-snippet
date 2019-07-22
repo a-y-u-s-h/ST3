@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Float.MIN_VALUE
+]]></content>
+  <tabTrigger>floatmin</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>
+        

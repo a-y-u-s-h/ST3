@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+String
+]]></content>
+  <tabTrigger>string</tabTrigger>
+  <scope>source.Kotlin</scope>
+</snippet>

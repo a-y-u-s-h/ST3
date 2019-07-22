@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+import { graphql, useStaticQuery } from "gatsby"
+]]></content>
+  <tabTrigger>gqlimport</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
