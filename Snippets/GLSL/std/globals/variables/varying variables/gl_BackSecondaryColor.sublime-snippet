@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_BackSecondaryColor
+]]></content>
+  <tabTrigger>glbacksecondarycolor</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_BackSecondaryColor</description>
+</snippet>

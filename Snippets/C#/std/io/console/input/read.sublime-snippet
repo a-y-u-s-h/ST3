@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+string ${1:input} = Console.ReadLine();
+$0
+]]></content>
+  <tabTrigger>readinput</tabTrigger>
+  <scope>source.cs</scope>
+  <description>read input</description>
+</snippet>

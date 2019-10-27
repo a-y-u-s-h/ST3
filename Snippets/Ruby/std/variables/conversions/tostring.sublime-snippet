@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-$0.to_s
-]]></content>
-	<tabTrigger>tostring</tabTrigger>
-	<scope>source.crystal</scope>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Int32
-]]></content>
-	<tabTrigger>int3</tabTrigger>
-	<scope>source.crystal</scope>
-</snippet>

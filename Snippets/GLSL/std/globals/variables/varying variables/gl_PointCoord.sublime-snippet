@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_PointCoord
+]]></content>
+  <tabTrigger>glpointcoord</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_PointCoord</description>
+</snippet>

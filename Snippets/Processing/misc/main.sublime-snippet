@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+void setup () {
+	$0
+}
+
+void draw () {
+
+}
+]]></content>
+  <tabTrigger>main</tabTrigger>
+  <scope>source.pde</scope>
+  <description>main</description>
+</snippet>

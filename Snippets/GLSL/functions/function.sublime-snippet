@@ -1,0 +1,8 @@
+<snippet>
+    <description>Regular function</description>
+    <content><![CDATA[${1:void} ${2:function} (${3}) {
+  ${0}
+}]]></content>
+    <tabTrigger>fun</tabTrigger>
+    <scope>source.glsl</scope>
+</snippet>

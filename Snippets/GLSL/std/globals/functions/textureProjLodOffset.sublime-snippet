@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+textureProjLodOffset($0)
+]]></content>
+  <tabTrigger>textureProjLodOffset</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>textureProjLodOffset</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+textureSize($0)
+]]></content>
+  <tabTrigger>textureSize</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>textureSize</description>
+</snippet>

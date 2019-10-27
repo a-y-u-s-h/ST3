@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Acos($0)
+]]></content>
+  <tabTrigger>acos</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Acos</description>
+</snippet>

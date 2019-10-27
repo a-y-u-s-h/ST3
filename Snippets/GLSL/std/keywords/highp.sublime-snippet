@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+highp $0
+]]></content>
+  <tabTrigger>highp</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>highp</description>
+</snippet>

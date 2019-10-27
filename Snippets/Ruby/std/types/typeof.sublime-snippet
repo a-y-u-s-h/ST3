@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$0.class
+]]></content>
+  <tabTrigger>typeof</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>typeof</description>
+</snippet>

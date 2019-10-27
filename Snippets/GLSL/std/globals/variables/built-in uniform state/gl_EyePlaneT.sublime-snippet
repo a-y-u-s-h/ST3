@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_EyePlaneT
+]]></content>
+  <tabTrigger>gleyeplanet</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_EyePlaneT</description>
+</snippet>

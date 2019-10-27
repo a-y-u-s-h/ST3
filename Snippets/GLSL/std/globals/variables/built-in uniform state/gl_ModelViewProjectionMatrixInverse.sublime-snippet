@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_ModelViewProjectionMatrixInverse
+]]></content>
+  <tabTrigger>glmodelviewprojectionmatrixinverse</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_ModelViewProjectionMatrixInverse</description>
+</snippet>

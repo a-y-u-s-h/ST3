@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+textureProj($0)
+]]></content>
+  <tabTrigger>textureProj</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>textureProj</description>
+</snippet>

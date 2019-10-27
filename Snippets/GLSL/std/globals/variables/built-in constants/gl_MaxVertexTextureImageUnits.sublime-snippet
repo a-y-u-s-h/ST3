@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_MaxVertexTextureImageUnits
+]]></content>
+  <tabTrigger>glmaxvertextextureimageunits</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_MaxVertexTextureImageUnits</description>
+</snippet>

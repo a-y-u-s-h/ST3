@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_TextureMatrixTranspose
+]]></content>
+  <tabTrigger>gltexturematrixtranspose</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_TextureMatrixTranspose</description>
+</snippet>

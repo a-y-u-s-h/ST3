@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+mat2 $0
+]]></content>
+  <tabTrigger>mat2</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>mat2</description>
+</snippet>

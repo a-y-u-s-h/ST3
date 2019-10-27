@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Char
-]]></content>
-	<tabTrigger>char</tabTrigger>
-	<scope>source.crystal</scope>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_BackColor
+]]></content>
+  <tabTrigger>glbackcolor</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_BackColor</description>
+</snippet>

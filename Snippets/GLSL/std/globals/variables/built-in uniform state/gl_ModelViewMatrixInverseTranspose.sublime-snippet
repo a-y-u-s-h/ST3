@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_ModelViewMatrixInverseTranspose
+]]></content>
+  <tabTrigger>glmodelviewmatrixinversetranspose</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_ModelViewMatrixInverseTranspose</description>
+</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Float32
-]]></content>
-	<tabTrigger>float</tabTrigger>
-	<scope>source.crystal</scope>
-</snippet>

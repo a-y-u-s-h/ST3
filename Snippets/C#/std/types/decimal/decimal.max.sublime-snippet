@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+decimal.MaxValue
+]]></content>
+  <tabTrigger>decimalmax</tabTrigger>
+  <scope>source.cs</scope>
+  <description>decimalmax</description>
+</snippet>

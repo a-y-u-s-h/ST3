@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+textureGrad($0)
+]]></content>
+  <tabTrigger>textureGrad</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>textureGrad</description>
+</snippet>

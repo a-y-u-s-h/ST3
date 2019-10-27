@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+isamplerCube $0
+]]></content>
+  <tabTrigger>isamplerCube</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>isamplerCube</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_Normal
+]]></content>
+  <tabTrigger>glnormal</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_Normal</description>
+</snippet>

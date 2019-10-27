@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_ObjectPlaneR
+]]></content>
+  <tabTrigger>globjectplaner</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_ObjectPlaneR</description>
+</snippet>

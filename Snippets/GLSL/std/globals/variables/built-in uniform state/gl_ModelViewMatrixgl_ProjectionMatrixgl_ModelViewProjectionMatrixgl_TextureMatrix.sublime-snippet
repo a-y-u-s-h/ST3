@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_ModelViewMatrixgl_ProjectionMatrixgl_ModelViewProjectionMatrixgl_TextureMatrix
+]]></content>
+  <tabTrigger>glmodelviewmatrixglprojectionmatrixglmodelviewprojectionmatrixgltexturematrix</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_ModelViewMatrixgl_ProjectionMatrixgl_ModelViewProjectionMatrixgl_TextureMatrix</description>
+</snippet>

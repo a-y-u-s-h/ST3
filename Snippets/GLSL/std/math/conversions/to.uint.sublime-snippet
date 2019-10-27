@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+uint($0)
+]]></content>
+  <tabTrigger>touint</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>touint</description>
+</snippet>

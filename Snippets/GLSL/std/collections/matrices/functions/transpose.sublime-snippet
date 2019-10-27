@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+transpose($0)
+]]></content>
+  <tabTrigger>transpose</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>transpose</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_Fog
+]]></content>
+  <tabTrigger>glfog</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_Fog</description>
+</snippet>

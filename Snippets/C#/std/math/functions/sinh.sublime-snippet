@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Sinh($0)
+]]></content>
+  <tabTrigger>sinh</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Sinh</description>
+</snippet>

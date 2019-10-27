@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_LightSource
+]]></content>
+  <tabTrigger>gllightsource</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_LightSource</description>
+</snippet>

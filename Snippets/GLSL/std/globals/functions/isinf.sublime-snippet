@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+isinf($0)
+]]></content>
+  <tabTrigger>isinf</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>isinf</description>
+</snippet>

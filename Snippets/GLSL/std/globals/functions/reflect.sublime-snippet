@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+reflect($0)
+]]></content>
+  <tabTrigger>reflect</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>reflect</description>
+</snippet>

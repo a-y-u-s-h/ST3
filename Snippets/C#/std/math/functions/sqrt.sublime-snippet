@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Sqrt($0)
+]]></content>
+  <tabTrigger>sqrt</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Sqrt</description>
+</snippet>

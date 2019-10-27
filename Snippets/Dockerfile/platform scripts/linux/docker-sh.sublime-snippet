@@ -38,7 +38,7 @@ function debug () {
   sudo docker run -it                            \
     --net=host                                   \
     -p \$3:4000                                   \
-    -v "\$(pwd):/app"                               \
+    -v "\$(pwd):/app"                             \
     -v "\$HOME/.Xauthority:/root/.Xauthority:rw"  \
     -e DISPLAY                                   \
     --name \$2 \$1

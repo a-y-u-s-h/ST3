@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+dFdy($0)
+]]></content>
+  <tabTrigger>dFdy</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>dFdy</description>
+</snippet>

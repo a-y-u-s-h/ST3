@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_MaxFragmentUniformComponents
+]]></content>
+  <tabTrigger>glmaxfragmentuniformcomponents</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_MaxFragmentUniformComponents</description>
+</snippet>

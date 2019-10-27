@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(bool) $0
+]]></content>
+  <tabTrigger>tobool</tabTrigger>
+  <scope>source.cs</scope>
+  <description>tobool</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_NormalMatrix 
+]]></content>
+  <tabTrigger>glnormalmatrix </tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_NormalMatrix </description>
+</snippet>

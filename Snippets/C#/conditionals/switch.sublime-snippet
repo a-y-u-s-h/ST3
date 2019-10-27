@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+switch ($1) {
+	$0
+}
+]]></content>
+  <tabTrigger>switch</tabTrigger>
+  <scope>source.cs</scope>
+  <description>switch</description>
+</snippet>

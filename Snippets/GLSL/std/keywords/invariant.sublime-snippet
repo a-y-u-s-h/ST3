@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+invariant $0
+]]></content>
+  <tabTrigger>invariant</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>invariant</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+#extension $0
+]]></content>
+  <tabTrigger>extension</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>#extension</description>
+</snippet>

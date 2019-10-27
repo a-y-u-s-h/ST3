@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+roundEven($0)
+]]></content>
+  <tabTrigger>roundEven</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>roundEven</description>
+</snippet>

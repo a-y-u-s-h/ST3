@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+#line $0
+]]></content>
+  <tabTrigger>line</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>#line</description>
+</snippet>

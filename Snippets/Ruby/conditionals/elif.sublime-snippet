@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+elsif $1
+	$0
+]]></content>
+  <tabTrigger>elif</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>elif</description>
+</snippet>

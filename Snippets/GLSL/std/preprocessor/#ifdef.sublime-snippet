@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+#ifdef $1
+	$0
+#endif
+]]></content>
+  <tabTrigger>ifdef</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>#ifdef</description>
+</snippet>

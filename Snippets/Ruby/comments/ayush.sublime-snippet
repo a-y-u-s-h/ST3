@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+=begin
+  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+  |~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~~|
+  |                                                                      |
+  |                                                                      |
+  |                     Author  : Ayush Sharma                           |
+  |                     Github  : a-y-u-s-h                              |
+  |                     Twitter : @taggosaurus                           |
+  |                     Website : ayushsharma.net                        |
+  |                                                                      |
+  |                                                                      |
+  |~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~~|
+  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+=end
+
+]]></content>
+  <tabTrigger>ayush</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>ayush</description>
+</snippet>

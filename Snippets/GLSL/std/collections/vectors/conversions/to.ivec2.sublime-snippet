@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+ivec2($0)
+]]></content>
+  <tabTrigger>toivec2</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>toivec2</description>
+</snippet>

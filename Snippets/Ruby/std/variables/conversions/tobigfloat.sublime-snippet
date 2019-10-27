@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-$0.to_f64
-]]></content>
-	<tabTrigger>tobigfloat</tabTrigger>
-	<scope>source.crystal</scope>
-</snippet>

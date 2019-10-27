@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+lessThan($0)
+]]></content>
+  <tabTrigger>lessThan</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>lessThan</description>
+</snippet>

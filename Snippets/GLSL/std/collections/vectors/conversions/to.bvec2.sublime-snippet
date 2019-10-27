@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+bvec2($0)
+]]></content>
+  <tabTrigger>tobvec2</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>tobvec2</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_MultiTexCoord2
+]]></content>
+  <tabTrigger>glmultitexcoord2</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_MultiTexCoord2</description>
+</snippet>

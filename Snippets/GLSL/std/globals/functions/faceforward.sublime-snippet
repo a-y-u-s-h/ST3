@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+faceforward($0)
+]]></content>
+  <tabTrigger>faceforward</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>faceforward</description>
+</snippet>

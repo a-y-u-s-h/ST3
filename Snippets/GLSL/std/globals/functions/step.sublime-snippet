@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+step($0)
+]]></content>
+  <tabTrigger>step</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>step</description>
+</snippet>

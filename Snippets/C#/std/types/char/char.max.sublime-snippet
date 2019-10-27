@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+char.MaxValue
+]]></content>
+  <tabTrigger>charmax</tabTrigger>
+  <scope>source.cs</scope>
+  <description>charmax</description>
+</snippet>

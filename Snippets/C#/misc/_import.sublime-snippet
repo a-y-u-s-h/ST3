@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+using $0;
+]]></content>
+  <tabTrigger>using</tabTrigger>
+  <scope>source.cs</scope>
+  <description>using</description>
+</snippet>

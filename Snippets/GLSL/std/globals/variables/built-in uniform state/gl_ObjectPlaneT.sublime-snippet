@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_ObjectPlaneT
+]]></content>
+  <tabTrigger>globjectplanet</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_ObjectPlaneT</description>
+</snippet>

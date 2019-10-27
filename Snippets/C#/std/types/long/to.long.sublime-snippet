@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(long) $0
+]]></content>
+  <tabTrigger>tolong</tabTrigger>
+  <scope>source.cs</scope>
+  <description>tolong</description>
+</snippet>

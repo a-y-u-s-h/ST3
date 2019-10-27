@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_FogFragCoord
+]]></content>
+  <tabTrigger>glfogfragcoord</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_FogFragCoord</description>
+</snippet>

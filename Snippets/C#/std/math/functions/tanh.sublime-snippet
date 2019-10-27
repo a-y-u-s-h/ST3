@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Tanh($0)
+]]></content>
+  <tabTrigger>tanh</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Tanh</description>
+</snippet>

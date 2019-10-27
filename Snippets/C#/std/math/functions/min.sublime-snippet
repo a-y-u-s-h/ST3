@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Min($0)
+]]></content>
+  <tabTrigger>min</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Min</description>
+</snippet>

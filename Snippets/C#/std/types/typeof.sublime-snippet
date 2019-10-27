@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+$0.GetTypeCode()
+]]></content>
+  <tabTrigger>typeof</tabTrigger>
+  <scope>source.cs</scope>
+  <description>typeof</description>
+</snippet>

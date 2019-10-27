@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_ClipPlane
+]]></content>
+  <tabTrigger>glclipplane</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_ClipPlane</description>
+</snippet>

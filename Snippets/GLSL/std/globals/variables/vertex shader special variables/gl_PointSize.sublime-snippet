@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_PointSize
+]]></content>
+  <tabTrigger>glpointsize</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_PointSize</description>
+</snippet>

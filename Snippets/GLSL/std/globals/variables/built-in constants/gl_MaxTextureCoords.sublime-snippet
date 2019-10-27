@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_MaxTextureCoords
+]]></content>
+  <tabTrigger>glmaxtexturecoords</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_MaxTextureCoords</description>
+</snippet>

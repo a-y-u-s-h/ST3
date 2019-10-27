@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+string
+]]></content>
+  <tabTrigger>string</tabTrigger>
+  <scope>source.cs</scope>
+  <description>string</description>
+</snippet>

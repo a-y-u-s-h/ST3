@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_TextureEnvColor
+]]></content>
+  <tabTrigger>gltextureenvcolor</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_TextureEnvColor</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_EyePlaneQ
+]]></content>
+  <tabTrigger>gleyeplaneq</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_EyePlaneQ</description>
+</snippet>

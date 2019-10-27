@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+shadow1DProjLod($0)
+]]></content>
+  <tabTrigger>shadow1DProjLod</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>shadow1DProjLod</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_DepthRange
+]]></content>
+  <tabTrigger>gldepthrange</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_DepthRange</description>
+</snippet>

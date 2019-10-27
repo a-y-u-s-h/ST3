@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+degrees($0)
+]]></content>
+  <tabTrigger>degrees</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>degrees</description>
+</snippet>

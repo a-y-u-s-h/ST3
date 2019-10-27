@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+string.MaxValue
+]]></content>
+  <tabTrigger>stringmax</tabTrigger>
+  <scope>source.cs</scope>
+  <description>stringmax</description>
+</snippet>

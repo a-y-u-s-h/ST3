@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+#endif
+]]></content>
+  <tabTrigger>endif</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>#endif</description>
+</snippet>

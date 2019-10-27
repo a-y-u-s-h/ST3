@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+=begin
+  ++++++++++++++++++++++++++++++++++++++
+    ${0}
+  ++++++++++++++++++++++++++++++++++++++
+=end
+]]></content>
+  <tabTrigger>dude</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>dude</description>
+</snippet>

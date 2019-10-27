@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_MaxLights
+]]></content>
+  <tabTrigger>glmaxlights</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_MaxLights</description>
+</snippet>

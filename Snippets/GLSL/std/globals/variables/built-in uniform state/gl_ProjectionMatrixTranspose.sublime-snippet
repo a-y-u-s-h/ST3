@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_ProjectionMatrixTranspose
+]]></content>
+  <tabTrigger>glprojectionmatrixtranspose</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_ProjectionMatrixTranspose</description>
+</snippet>

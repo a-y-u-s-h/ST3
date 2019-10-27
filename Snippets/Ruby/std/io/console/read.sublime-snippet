@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gets.chomp
+]]></content>
+  <tabTrigger>readinput</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>gets</description>
+</snippet>

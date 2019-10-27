@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+isampler1DArray $0
+]]></content>
+  <tabTrigger>isampler1DArray</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>isampler1DArray</description>
+</snippet>

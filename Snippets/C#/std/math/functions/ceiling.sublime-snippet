@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Ceiling($0)
+]]></content>
+  <tabTrigger>ceiling</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Ceiling</description>
+</snippet>

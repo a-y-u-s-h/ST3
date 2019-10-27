@@ -1,0 +1,8 @@
+<snippet>	
+	<content><![CDATA[
+os.path.dirname(os.path.realpath(__file__))
+]]></content>
+	<tabTrigger>root</tabTrigger>
+	<scope>source.python</scope>
+	<description>script path</description>
+</snippet>

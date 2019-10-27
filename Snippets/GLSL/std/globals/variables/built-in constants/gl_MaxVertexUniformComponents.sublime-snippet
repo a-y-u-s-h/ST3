@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_MaxVertexUniformComponents
+]]></content>
+  <tabTrigger>glmaxvertexuniformcomponents</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_MaxVertexUniformComponents</description>
+</snippet>

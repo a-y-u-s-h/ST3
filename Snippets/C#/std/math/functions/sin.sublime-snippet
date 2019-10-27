@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Sin($0)
+]]></content>
+  <tabTrigger>sin</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Sin</description>
+</snippet>

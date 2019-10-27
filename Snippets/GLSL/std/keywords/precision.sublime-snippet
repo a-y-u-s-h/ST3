@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+precision $0
+]]></content>
+  <tabTrigger>precision</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>precision</description>
+</snippet>

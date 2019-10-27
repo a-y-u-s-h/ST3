@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_MaxClipPlanes
+]]></content>
+  <tabTrigger>glmaxclipplanes</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_MaxClipPlanes</description>
+</snippet>

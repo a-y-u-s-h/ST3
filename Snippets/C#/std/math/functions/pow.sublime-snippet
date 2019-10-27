@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Pow($0)
+]]></content>
+  <tabTrigger>pow</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Pow</description>
+</snippet>

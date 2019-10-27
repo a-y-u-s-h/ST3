@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+int.MaxValue
+]]></content>
+  <tabTrigger>intmax</tabTrigger>
+  <scope>source.cs</scope>
+  <description>intmax</description>
+</snippet>

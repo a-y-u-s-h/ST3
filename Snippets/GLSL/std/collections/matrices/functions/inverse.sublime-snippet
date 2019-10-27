@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+inverse($0)
+]]></content>
+  <tabTrigger>inverse</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>inverse</description>
+</snippet>

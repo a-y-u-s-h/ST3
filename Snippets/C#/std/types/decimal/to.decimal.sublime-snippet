@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(decimal) $0
+]]></content>
+  <tabTrigger>todecimal</tabTrigger>
+  <scope>source.cs</scope>
+  <description>todecimal</description>
+</snippet>

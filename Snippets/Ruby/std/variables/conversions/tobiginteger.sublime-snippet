@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-$0.to_i64
-]]></content>
-	<tabTrigger>tobiginteger</tabTrigger>
-	<scope>source.crystal</scope>
-</snippet>

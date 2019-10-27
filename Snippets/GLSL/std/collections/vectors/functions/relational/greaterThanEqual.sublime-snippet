@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+greaterThanEqual($0)
+]]></content>
+  <tabTrigger>greaterThanEqual</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>greaterThanEqual</description>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+using System;
+
+class ${1:_} {
+  static void Main() {
+		$0
+  }
+}
+]]></content>
+  <tabTrigger>main</tabTrigger>
+  <scope>source.cs</scope>
+  <description>main</description>
+</snippet>

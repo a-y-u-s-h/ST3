@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_FragData
+]]></content>
+  <tabTrigger>glfragdata</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_FragData</description>
+</snippet>

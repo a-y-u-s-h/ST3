@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_ObjectPlaneQ
+]]></content>
+  <tabTrigger>globjectplaneq</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_ObjectPlaneQ</description>
+</snippet>

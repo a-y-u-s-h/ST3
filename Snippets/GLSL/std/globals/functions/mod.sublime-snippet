@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+mod($0)
+]]></content>
+  <tabTrigger>mod</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>mod</description>
+</snippet>

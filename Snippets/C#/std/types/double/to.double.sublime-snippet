@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+(double) $0
+]]></content>
+  <tabTrigger>todouble</tabTrigger>
+  <scope>source.cs</scope>
+  <description>todouble</description>
+</snippet>

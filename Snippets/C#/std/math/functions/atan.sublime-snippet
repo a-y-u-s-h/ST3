@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Math.Atan($0)
+]]></content>
+  <tabTrigger>atan</tabTrigger>
+  <scope>source.cs</scope>
+  <description>Atan</description>
+</snippet>

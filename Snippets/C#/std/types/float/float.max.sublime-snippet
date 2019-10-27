@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+float.MaxValue
+]]></content>
+  <tabTrigger>floatmax</tabTrigger>
+  <scope>source.cs</scope>
+  <description>floatmax</description>
+</snippet>

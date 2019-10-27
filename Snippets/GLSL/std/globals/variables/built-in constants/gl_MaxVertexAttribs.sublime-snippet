@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_MaxVertexAttribs
+]]></content>
+  <tabTrigger>glmaxvertexattribs</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_MaxVertexAttribs</description>
+</snippet>

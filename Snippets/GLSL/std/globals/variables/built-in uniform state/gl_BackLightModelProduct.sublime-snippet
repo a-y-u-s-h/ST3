@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_BackLightModelProduct
+]]></content>
+  <tabTrigger>glbacklightmodelproduct</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_BackLightModelProduct</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+samplerBuffer ($0)
+]]></content>
+  <tabTrigger>tosamplerBuffer </tabTrigger>
+  <scope>source.glsl</scope>
+  <description>tosamplerBuffer </description>
+</snippet>

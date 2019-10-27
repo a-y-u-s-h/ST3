@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_Position
+]]></content>
+  <tabTrigger>glposition</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_Position</description>
+</snippet>

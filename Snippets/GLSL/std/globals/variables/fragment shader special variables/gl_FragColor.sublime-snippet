@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_FragColor
+]]></content>
+  <tabTrigger>glfragcolor</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_FragColor</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_FrontFacing
+]]></content>
+  <tabTrigger>glfrontfacing</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_FrontFacing</description>
+</snippet>

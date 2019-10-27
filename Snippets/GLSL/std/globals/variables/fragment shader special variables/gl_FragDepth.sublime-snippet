@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+gl_FragDepth
+]]></content>
+  <tabTrigger>glfragdepth</tabTrigger>
+  <scope>source.glsl</scope>
+  <description>gl_FragDepth</description>
+</snippet>

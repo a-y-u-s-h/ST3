@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Int64
-]]></content>
-	<tabTrigger>bint</tabTrigger>
-	<scope>source.crystal</scope>
-</snippet>
