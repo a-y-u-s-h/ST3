@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}lightness($0)
+]]></content>
+  <tabTrigger>lightness</tabTrigger>
+  <scope>source.ts</scope>
+  <description>lightness</description>
+</snippet>

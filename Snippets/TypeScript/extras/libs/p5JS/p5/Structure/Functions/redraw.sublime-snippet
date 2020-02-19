@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}redraw($0)
+]]></content>
+  <tabTrigger>redraw</tabTrigger>
+  <scope>source.ts</scope>
+  <description>redraw</description>
+</snippet>

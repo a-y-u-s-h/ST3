@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+const events = require("events");
+
+]]></content>
+  
+  <tabTrigger>eventsimport</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}displayDensity($0)
+]]></content>
+  <tabTrigger>displaydensity</tabTrigger>
+  <scope>source.ts</scope>
+  <description>displayDensity</description>
+</snippet>

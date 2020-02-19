@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}unhex($0)
+]]></content>
+  <tabTrigger>unhex</tabTrigger>
+  <scope>source.ts</scope>
+  <description>unhex</description>
+</snippet>

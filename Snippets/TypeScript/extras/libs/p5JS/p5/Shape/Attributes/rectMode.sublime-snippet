@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}rectMode($0)
+]]></content>
+  <tabTrigger>rectmode</tabTrigger>
+  <scope>source.ts</scope>
+  <description>rectMode</description>
+</snippet>

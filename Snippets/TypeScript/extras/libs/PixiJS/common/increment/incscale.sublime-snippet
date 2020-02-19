@@ -1,0 +1,10 @@
+<snippet> 
+  <content><![CDATA[
+$1.scale.x += $2
+$1.scale.y += $2
+$0
+]]></content>
+  <tabTrigger>pixiincrementscale</tabTrigger>
+  <scope>source.ts</scope>
+  <description>increment scale</description>
+</snippet>

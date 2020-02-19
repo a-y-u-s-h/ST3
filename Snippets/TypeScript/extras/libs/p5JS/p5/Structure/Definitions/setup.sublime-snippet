@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+let setup = () = {
+  $0
+}
+]]></content>
+  <tabTrigger>setup</tabTrigger>
+  <scope>source.ts</scope>
+  <description>setup</description>
+</snippet>

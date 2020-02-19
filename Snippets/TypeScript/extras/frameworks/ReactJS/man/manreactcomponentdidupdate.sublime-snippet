@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+		
+		componentDidUpdate:
+
+    This method is called after our changes
+    have been commited to the DOM. This method
+    has access to three things:
+
+    1. Previous props. 
+    2. Previous state.
+    3. Whatever value we returned 
+       from getSnapshotBeforeUpdate.
+    
+    Most common use case:
+
+    1. Reacting to commited changes to DOM.
+
+  ======================================
+*/
+]]></content>
+  <tabTrigger>manreactcomponentdidupdate</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

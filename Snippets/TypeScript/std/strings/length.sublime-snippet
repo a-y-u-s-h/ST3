@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+length
+]]></content>
+  
+  <tabTrigger>length</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+new URL(`${0}`)
+]]></content>
+	
+	<tabTrigger>nurl</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

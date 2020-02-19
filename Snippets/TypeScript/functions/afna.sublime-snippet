@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+($1) => {
+	$0
+}
+]]></content>
+	
+	<tabTrigger>afna</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

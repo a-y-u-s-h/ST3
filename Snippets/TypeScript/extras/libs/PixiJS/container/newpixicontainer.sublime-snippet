@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+new PIXI.Container()
+]]></content>
+  <tabTrigger>newpixicontainer</tabTrigger>
+  <scope>source.ts</scope>
+  <description>new pixi container</description>
+</snippet>

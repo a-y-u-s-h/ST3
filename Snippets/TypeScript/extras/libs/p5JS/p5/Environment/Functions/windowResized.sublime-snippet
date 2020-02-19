@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}windowResized($0)
+]]></content>
+  <tabTrigger>windowresized</tabTrigger>
+  <scope>source.ts</scope>
+  <description>windowResized</description>
+</snippet>

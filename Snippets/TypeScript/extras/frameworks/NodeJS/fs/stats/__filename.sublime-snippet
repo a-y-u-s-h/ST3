@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+__filename
+]]></content>
+  <tabTrigger>filename</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

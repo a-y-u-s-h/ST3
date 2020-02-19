@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+const { URL } = require("url");
+
+]]></content>
+	
+	<tabTrigger>urlimport</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

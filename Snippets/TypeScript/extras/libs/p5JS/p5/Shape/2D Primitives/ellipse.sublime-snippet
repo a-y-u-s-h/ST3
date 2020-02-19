@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}ellipse($0)
+]]></content>
+  <tabTrigger>ellipse</tabTrigger>
+  <scope>source.ts</scope>
+  <description>ellipse</description>
+</snippet>

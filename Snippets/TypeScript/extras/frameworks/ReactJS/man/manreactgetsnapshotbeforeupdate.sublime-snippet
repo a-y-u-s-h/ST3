@@ -1,0 +1,28 @@
+<snippet>
+  <content><![CDATA[
+/*
+  ======================================
+
+		getSnapshotBeforeUpdate:
+
+    It’s called between render and the 
+    updated component actually being 
+    propagated to the DOM. 
+
+    It exists as a last-chance-look at 
+    your component with its previous 
+    props and state.
+
+    Most Common Use Case: Taking a look 
+    at some attribute of the current DOM, 
+    and passing that value on to componentDidUpdate.
+
+    You should either return 'null' or a value
+    from getSnapshotBeforeUpdate.
+
+  ======================================
+*/
+]]></content>
+  <tabTrigger>manreactgetsnapshotbeforeupdate</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

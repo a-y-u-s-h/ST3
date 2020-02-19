@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+const sh = require("shelljs");
+
+]]></content>
+	
+	<tabTrigger>shimport</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

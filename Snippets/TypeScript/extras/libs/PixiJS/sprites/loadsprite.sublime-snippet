@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+PIXI.Sprite.fromImage(`$0`)
+]]></content>
+  <tabTrigger>pixiloadsprite</tabTrigger>
+  <scope>source.ts</scope>
+  <description>new pixi sprite</description>
+</snippet>

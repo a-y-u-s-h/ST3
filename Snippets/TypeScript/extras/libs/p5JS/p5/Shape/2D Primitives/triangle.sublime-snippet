@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}triangle($0)
+]]></content>
+  <tabTrigger>triangle</tabTrigger>
+  <scope>source.ts</scope>
+  <description>triangle</description>
+</snippet>

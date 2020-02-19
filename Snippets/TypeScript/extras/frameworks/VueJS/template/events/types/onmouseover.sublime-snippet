@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+@mouseover="$0"
+]]></content>
+  <tabTrigger>onmouseover</tabTrigger>
+  <scope>text.html.vue, text.html, source.ts</scope>
+</snippet>

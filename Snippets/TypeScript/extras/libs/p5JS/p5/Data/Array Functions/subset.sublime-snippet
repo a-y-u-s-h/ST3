@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}subset($0)
+]]></content>
+  <tabTrigger>subset</tabTrigger>
+  <scope>source.ts</scope>
+  <description>subset</description>
+</snippet>

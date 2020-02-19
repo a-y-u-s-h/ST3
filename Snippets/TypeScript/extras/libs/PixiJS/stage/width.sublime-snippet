@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+${1:s.app.screen}.width
+]]></content>
+  <tabTrigger>pixiwidth</tabTrigger>
+  <scope>source.ts</scope>
+  <description>pixi width</description>
+</snippet>

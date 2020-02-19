@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+fs.readFile(`${1:}`, `utf-8`, (err, data) => {
+  if (err) throw err;
+  fs.writeFile(`${1:}`, `$0`)
+})
+]]></content>
+  <tabTrigger>edit</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

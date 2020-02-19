@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+${0:}.anchor.set(${1:0.5})
+]]></content>
+  <tabTrigger>pixianchorset</tabTrigger>
+  <scope>source.ts</scope>
+  <description>set anchor</description>
+</snippet>

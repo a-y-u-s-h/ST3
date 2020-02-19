@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}noCursor($0)
+]]></content>
+  <tabTrigger>nocursor</tabTrigger>
+  <scope>source.ts</scope>
+  <description>noCursor</description>
+</snippet>

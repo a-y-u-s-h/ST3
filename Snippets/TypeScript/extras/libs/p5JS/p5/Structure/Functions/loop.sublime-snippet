@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}loop($0)
+]]></content>
+  <tabTrigger>loop</tabTrigger>
+  <scope>source.ts</scope>
+  <description>loop</description>
+</snippet>

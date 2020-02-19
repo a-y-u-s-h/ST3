@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}ellipseMode($0)
+]]></content>
+  <tabTrigger>ellipsemode</tabTrigger>
+  <scope>source.ts</scope>
+  <description>ellipseMode</description>
+</snippet>

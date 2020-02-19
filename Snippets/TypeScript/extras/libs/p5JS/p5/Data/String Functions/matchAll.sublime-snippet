@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}matchAll($0)
+]]></content>
+  <tabTrigger>matchall</tabTrigger>
+  <scope>source.ts</scope>
+  <description>matchAll</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}fullscreen($0)
+]]></content>
+  <tabTrigger>fullscreen</tabTrigger>
+  <scope>source.ts</scope>
+  <description>fullscreen</description>
+</snippet>

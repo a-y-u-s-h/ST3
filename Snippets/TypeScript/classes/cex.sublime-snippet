@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+class ${1:ClassName} extends ${2:AnotherClass} {
+	${0}
+}
+]]></content>
+	
+	<tabTrigger>cex</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>
+
+

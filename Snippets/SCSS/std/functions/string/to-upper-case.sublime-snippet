@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+to-upper-case($0)
+]]></content>
+  <tabTrigger>to-upper-case</tabTrigger>
+  <scope>source.css meta.property-list.css - meta.property-value.css, source.less - meta.property-value.css, source.scss - meta.property-list - support.function.name.sass.library - variable.other.root</scope>
+  <description>to-upper-case</description>
+</snippet>
+    

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}sphere($0)
+]]></content>
+  <tabTrigger>sphere</tabTrigger>
+  <scope>source.ts</scope>
+  <description>sphere</description>
+</snippet>

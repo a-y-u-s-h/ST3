@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+const fs = require("fs");
+
+]]></content>
+	
+	<tabTrigger>fsimport</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

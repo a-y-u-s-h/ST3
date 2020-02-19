@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}quad($0)
+]]></content>
+  <tabTrigger>quad</tabTrigger>
+  <scope>source.ts</scope>
+  <description>quad</description>
+</snippet>

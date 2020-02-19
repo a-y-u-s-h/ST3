@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}quadraticVertex($0)
+]]></content>
+  <tabTrigger>quadraticvertex</tabTrigger>
+  <scope>source.ts</scope>
+  <description>quadraticVertex</description>
+</snippet>

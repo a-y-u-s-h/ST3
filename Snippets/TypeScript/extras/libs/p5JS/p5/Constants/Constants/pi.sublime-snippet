@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}PI
+]]></content>
+  <tabTrigger>pi</tabTrigger>
+  <scope>source.ts</scope>
+  <description>PI</description>
+</snippet>

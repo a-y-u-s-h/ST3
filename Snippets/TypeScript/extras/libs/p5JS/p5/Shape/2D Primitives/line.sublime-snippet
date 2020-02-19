@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}line($0)
+]]></content>
+  <tabTrigger>line</tabTrigger>
+  <scope>source.ts</scope>
+  <description>line</description>
+</snippet>

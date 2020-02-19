@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const $1 = new events.EventEmitter();
+
+]]></content>
+  <tabTrigger>eventemitter</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

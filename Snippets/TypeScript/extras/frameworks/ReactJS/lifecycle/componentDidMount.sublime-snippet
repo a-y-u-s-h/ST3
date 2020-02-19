@@ -1,0 +1,32 @@
+<snippet>
+  <content><![CDATA[
+componentDidMount () {
+  /*
+    ======================================
+
+      This method is called right after 
+      we've rendered this component for the
+      first time.
+
+      If you need to load data, here’s where 
+      you do it. Don’t try to load data in the 
+      constructor or render or anything crazy.
+
+      componentDidMount is also where you can do all 
+      the fun things you couldn’t do when there was no 
+      component to play with. Here are some examples:
+
+      1. Draw on a <canvas> element that you just rendered.
+      2. Add event listeners.
+      3. Doing AJAX in here will guarantee that there’s a 
+         component to update when the request resolves.
+
+    ======================================
+  */
+	
+	$0
+}
+]]></content>
+  <tabTrigger>componentdidmount</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

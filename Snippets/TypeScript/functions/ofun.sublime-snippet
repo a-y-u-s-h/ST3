@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+${1:} = (${2}) => {
+	${0}
+}
+]]></content>
+	
+	<tabTrigger>ofun</tabTrigger>
+	
+	<scope>source.ts, source.ts</scope>
+</snippet>

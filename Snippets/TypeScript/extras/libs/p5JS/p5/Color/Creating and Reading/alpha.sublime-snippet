@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}alpha($0)
+]]></content>
+  <tabTrigger>alpha</tabTrigger>
+  <scope>source.ts</scope>
+  <description>alpha</description>
+</snippet>

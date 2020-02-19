@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}hex($0)
+]]></content>
+  <tabTrigger>hex</tabTrigger>
+  <scope>source.ts</scope>
+  <description>hex</description>
+</snippet>

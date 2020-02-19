@@ -60,6 +60,6 @@ export default {
 </style>
 
 ]]></content>
-  <tabTrigger>vcon</tabTrigger>
+  <tabTrigger>vcontainer</tabTrigger>
   <scope>text.html, source.js, text.html.vue</scope>
 </snippet>

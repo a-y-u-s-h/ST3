@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}cone($0)
+]]></content>
+  <tabTrigger>cone</tabTrigger>
+  <scope>source.ts</scope>
+  <description>cone</description>
+</snippet>

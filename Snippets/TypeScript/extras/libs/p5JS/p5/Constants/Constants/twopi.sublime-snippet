@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}TWO_PI
+]]></content>
+  <tabTrigger>twopi</tabTrigger>
+  <scope>source.ts</scope>
+  <description>TWO_PI</description>
+</snippet>

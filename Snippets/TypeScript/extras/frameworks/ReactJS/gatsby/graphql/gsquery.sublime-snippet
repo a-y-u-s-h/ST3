@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+useStaticQuery(graphql`
+  query {
+    $0
+  }
+`)
+]]></content>
+  <tabTrigger>gsquery</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

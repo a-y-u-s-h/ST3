@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+setTimeout($0, ${1:300})
+]]></content>
+  
+  <tabTrigger>sto</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

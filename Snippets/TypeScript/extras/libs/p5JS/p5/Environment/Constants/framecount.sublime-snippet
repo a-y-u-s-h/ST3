@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}frameCount
+]]></content>
+  <tabTrigger>framecount</tabTrigger>
+  <scope>source.ts</scope>
+  <description>frameCount</description>
+</snippet>

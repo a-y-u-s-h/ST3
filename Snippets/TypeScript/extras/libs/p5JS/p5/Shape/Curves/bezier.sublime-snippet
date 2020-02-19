@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}bezier($0)
+]]></content>
+  <tabTrigger>bezier</tabTrigger>
+  <scope>source.ts</scope>
+  <description>bezier</description>
+</snippet>

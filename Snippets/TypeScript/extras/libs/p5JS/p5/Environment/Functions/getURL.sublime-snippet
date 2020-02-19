@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}getURL($0)
+]]></content>
+  <tabTrigger>geturl</tabTrigger>
+  <scope>source.ts</scope>
+  <description>getURL</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+const http = require("http");
+
+]]></content>
+  
+  <tabTrigger>httpimport</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}square($0)
+]]></content>
+  <tabTrigger>square</tabTrigger>
+  <scope>source.ts</scope>
+  <description>square</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:s.}pmouseX
+]]></content>
+	
+	<tabTrigger>pmousex</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

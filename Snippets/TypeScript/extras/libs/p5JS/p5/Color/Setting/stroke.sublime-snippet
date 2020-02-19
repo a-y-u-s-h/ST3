@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}stroke($0)
+]]></content>
+  <tabTrigger>stroke</tabTrigger>
+  <scope>source.ts</scope>
+  <description>stroke</description>
+</snippet>

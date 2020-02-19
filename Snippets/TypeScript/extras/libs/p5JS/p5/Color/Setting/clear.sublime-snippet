@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}clear($0)
+]]></content>
+  <tabTrigger>clear</tabTrigger>
+  <scope>source.ts</scope>
+  <description>clear</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+const ${2} = require("${1}");
+
+]]></content>
+	
+	<tabTrigger>include</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

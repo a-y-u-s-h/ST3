@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}sort($0)
+]]></content>
+  <tabTrigger>sort</tabTrigger>
+  <scope>source.ts</scope>
+  <description>sort</description>
+</snippet>

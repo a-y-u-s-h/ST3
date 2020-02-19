@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}byte($0)
+]]></content>
+  <tabTrigger>byte</tabTrigger>
+  <scope>source.ts</scope>
+  <description>byte</description>
+</snippet>

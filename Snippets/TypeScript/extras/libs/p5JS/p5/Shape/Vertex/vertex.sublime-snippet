@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}vertex($0)
+]]></content>
+  <tabTrigger>vertex</tabTrigger>
+  <scope>source.ts</scope>
+  <description>vertex</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+$1.beginFill($2)
+$0
+$1.endFill()
+]]></content>
+  <tabTrigger>pixifill</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

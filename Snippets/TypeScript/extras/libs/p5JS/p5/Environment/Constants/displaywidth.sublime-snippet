@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}displayWidth
+]]></content>
+  <tabTrigger>displaywidth</tabTrigger>
+  <scope>source.ts</scope>
+  <description>displayWidth</description>
+</snippet>

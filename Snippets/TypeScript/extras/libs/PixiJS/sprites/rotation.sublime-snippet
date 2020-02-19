@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+$1.rotation
+]]></content>
+  <tabTrigger>pixirotation</tabTrigger>
+  <scope>source.ts</scope>
+  <description>pixi rotation</description>
+</snippet>

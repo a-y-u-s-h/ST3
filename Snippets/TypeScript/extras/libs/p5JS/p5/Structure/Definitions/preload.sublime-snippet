@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+let preload = () = {
+  $0
+}
+]]></content>
+  <tabTrigger>preload</tabTrigger>
+  <scope>source.ts</scope>
+  <description>preload</description>
+</snippet>

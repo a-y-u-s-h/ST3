@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}noLoop($0)
+]]></content>
+  <tabTrigger>noloop</tabTrigger>
+  <scope>source.ts</scope>
+  <description>noLoop</description>
+</snippet>

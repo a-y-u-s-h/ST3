@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+const path = require("path");
+
+]]></content>	
+	<tabTrigger>pathimport</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

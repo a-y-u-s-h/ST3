@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}QUARTER_PI
+]]></content>
+  <tabTrigger>quarterpi</tabTrigger>
+  <scope>source.ts</scope>
+  <description>QUARTER_PI</description>
+</snippet>

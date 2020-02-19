@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}concat($0)
+]]></content>
+  <tabTrigger>concat</tabTrigger>
+  <scope>source.ts</scope>
+  <description>concat</description>
+</snippet>

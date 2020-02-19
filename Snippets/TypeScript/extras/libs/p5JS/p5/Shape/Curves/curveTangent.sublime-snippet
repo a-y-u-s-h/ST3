@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}curveTangent($0)
+]]></content>
+  <tabTrigger>curvetangent</tabTrigger>
+  <scope>source.ts</scope>
+  <description>curveTangent</description>
+</snippet>

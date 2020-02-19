@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}blendMode($0)
+]]></content>
+  <tabTrigger>blendmode</tabTrigger>
+  <scope>source.ts</scope>
+  <description>blendMode</description>
+</snippet>

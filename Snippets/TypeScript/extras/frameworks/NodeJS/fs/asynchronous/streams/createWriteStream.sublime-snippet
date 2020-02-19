@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+fs.createWriteStream(`$0`, "utf-8")
+]]></content>
+  <tabTrigger>createwritestream</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

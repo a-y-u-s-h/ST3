@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+setInterval($0, ${1:300})
+]]></content>
+  
+  <tabTrigger>sti</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

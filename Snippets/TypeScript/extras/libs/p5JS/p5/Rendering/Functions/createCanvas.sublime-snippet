@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}createCanvas($0)
+]]></content>
+  <tabTrigger>createcanvas</tabTrigger>
+  <scope>source.ts</scope>
+  <description>createCanvas</description>
+</snippet>

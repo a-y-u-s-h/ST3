@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}displayHeight
+]]></content>
+  <tabTrigger>displayheight</tabTrigger>
+  <scope>source.ts</scope>
+  <description>displayHeight</description>
+</snippet>

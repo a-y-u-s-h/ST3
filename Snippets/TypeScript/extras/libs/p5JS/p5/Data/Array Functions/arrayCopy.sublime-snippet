@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}arrayCopy($0)
+]]></content>
+  <tabTrigger>arraycopy</tabTrigger>
+  <scope>source.ts</scope>
+  <description>arrayCopy</description>
+</snippet>

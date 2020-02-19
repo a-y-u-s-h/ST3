@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+exports.$1 = (typeof($1) != "undefined") ? $1 : undefined;
+
+]]></content>
+  
+  <tabTrigger>export</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

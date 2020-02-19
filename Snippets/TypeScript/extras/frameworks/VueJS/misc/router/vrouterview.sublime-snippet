@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<router-view />
+]]></content>
+  <tabTrigger>vrv</tabTrigger>
+  <scope>text.html, source.ts, text.html.vue</scope>
+</snippet>

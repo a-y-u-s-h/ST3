@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}noFill($0)
+]]></content>
+  <tabTrigger>nofill</tabTrigger>
+  <scope>source.ts</scope>
+  <description>noFill</description>
+</snippet>

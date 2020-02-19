@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}unchar($0)
+]]></content>
+  <tabTrigger>unchar</tabTrigger>
+  <scope>source.ts</scope>
+  <description>unchar</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}RADIANS
+]]></content>
+  <tabTrigger>radians</tabTrigger>
+  <scope>source.ts</scope>
+  <description>RADIANS</description>
+</snippet>

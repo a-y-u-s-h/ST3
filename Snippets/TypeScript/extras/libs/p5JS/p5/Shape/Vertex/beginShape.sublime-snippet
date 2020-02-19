@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}beginShape($0)
+]]></content>
+  <tabTrigger>beginshape</tabTrigger>
+  <scope>source.ts</scope>
+  <description>beginShape</description>
+</snippet>

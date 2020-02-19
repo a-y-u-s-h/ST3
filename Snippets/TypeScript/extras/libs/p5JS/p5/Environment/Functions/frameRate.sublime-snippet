@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}frameRate($0)
+]]></content>
+  <tabTrigger>framerate</tabTrigger>
+  <scope>source.ts</scope>
+  <description>frameRate</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}nfc($0)
+]]></content>
+  <tabTrigger>nfc</tabTrigger>
+  <scope>source.ts</scope>
+  <description>nfc</description>
+</snippet>

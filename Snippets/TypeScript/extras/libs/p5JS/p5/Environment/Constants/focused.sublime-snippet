@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}focused
+]]></content>
+  <tabTrigger>focused</tabTrigger>
+  <scope>source.ts</scope>
+  <description>focused</description>
+</snippet>

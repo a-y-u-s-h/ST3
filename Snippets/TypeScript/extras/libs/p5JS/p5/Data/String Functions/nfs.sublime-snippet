@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}nfs($0)
+]]></content>
+  <tabTrigger>nfs</tabTrigger>
+  <scope>source.ts</scope>
+  <description>nfs</description>
+</snippet>

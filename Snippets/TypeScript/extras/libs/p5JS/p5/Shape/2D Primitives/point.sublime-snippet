@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}point($0)
+]]></content>
+  <tabTrigger>point</tabTrigger>
+  <scope>source.ts</scope>
+  <description>point</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}endShape($0)
+]]></content>
+  <tabTrigger>endshape</tabTrigger>
+  <scope>source.ts</scope>
+  <description>endShape</description>
+</snippet>

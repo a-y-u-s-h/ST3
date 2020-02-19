@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}shorten($0)
+]]></content>
+  <tabTrigger>shorten</tabTrigger>
+  <scope>source.ts</scope>
+  <description>shorten</description>
+</snippet>

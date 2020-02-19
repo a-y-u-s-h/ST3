@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+response.write($0);
+]]></content>
+  
+  <tabTrigger>responsewrite</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}resetMatrix($0)
+]]></content>
+  <tabTrigger>resetmatrix</tabTrigger>
+  <scope>source.ts</scope>
+  <description>resetMatrix</description>
+</snippet>

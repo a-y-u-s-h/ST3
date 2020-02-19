@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}rect($0)
+]]></content>
+  <tabTrigger>rect</tabTrigger>
+  <scope>source.ts</scope>
+  <description>rect</description>
+</snippet>

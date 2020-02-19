@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}hue($0)
+]]></content>
+  <tabTrigger>hue</tabTrigger>
+  <scope>source.ts</scope>
+  <description>hue</description>
+</snippet>

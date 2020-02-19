@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+@mixin $1 ($2) {
+	$0
+}
+]]></content>
+  <tabTrigger>funo</tabTrigger>
+  <scope>source.css meta.property-list.css - meta.property-value.css, source.less - meta.property-value.css, source.scss - meta.property-list - support.function.name.sass.library - variable.other.root</scope>
+  <description>funo</description>
+</snippet>

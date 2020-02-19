@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}rotateZ($0)
+]]></content>
+  <tabTrigger>rotatez</tabTrigger>
+  <scope>source.ts</scope>
+  <description>rotateZ</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}shuffle($0)
+]]></content>
+  <tabTrigger>shuffle</tabTrigger>
+  <scope>source.ts</scope>
+  <description>shuffle</description>
+</snippet>

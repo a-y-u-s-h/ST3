@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}HALF_PI
+]]></content>
+  <tabTrigger>halfpi</tabTrigger>
+  <scope>source.ts</scope>
+  <description>HALF_PI</description>
+</snippet>

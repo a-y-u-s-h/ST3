@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+{
+  path: "/$2",
+  name: "$1",
+  component: () => import("@/pages/$1.vue"),
+  props: true
+}
+]]></content>
+  <tabTrigger>vr</tabTrigger>
+  <scope>text.html, source.ts, text.html.vue</scope>
+</snippet>

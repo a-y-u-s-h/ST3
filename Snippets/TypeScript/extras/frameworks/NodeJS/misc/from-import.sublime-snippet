@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+import $1 from "$2"
+
+]]></content>
+  
+  <tabTrigger>fromimport</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

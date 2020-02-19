@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+this.\$emit("$1", ${0:{\}})
+]]></content>
+  <tabTrigger>vemit</tabTrigger>
+  <scope>text.html, source.ts, text.html.vue</scope>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+switch ( ${1:expression} ) {
+	$0
+
+	default :
+		${2:// default definition}
+		break; 
+}
+]]></content>
+	
+	<tabTrigger>sw</tabTrigger>
+	
+	<scope>source.ts</scope>
+</snippet>

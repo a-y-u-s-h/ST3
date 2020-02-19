@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}red($0)
+]]></content>
+  <tabTrigger>red</tabTrigger>
+  <scope>source.ts</scope>
+  <description>red</description>
+</snippet>

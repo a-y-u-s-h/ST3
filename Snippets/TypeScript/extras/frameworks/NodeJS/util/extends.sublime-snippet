@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+util.inherits($0)
+]]></content>
+  
+  <tabTrigger>extends</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

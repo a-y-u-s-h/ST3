@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}createStringDict($0)
+]]></content>
+  <tabTrigger>createstringdict</tabTrigger>
+  <scope>source.ts</scope>
+  <description>createStringDict</description>
+</snippet>

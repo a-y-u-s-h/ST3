@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+api.listen(${1:4000});
+
+]]></content>
+  
+  <tabTrigger>listen</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>

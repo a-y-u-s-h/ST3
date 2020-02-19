@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}DEGREES
+]]></content>
+  <tabTrigger>degrees</tabTrigger>
+  <scope>source.ts</scope>
+  <description>DEGREES</description>
+</snippet>

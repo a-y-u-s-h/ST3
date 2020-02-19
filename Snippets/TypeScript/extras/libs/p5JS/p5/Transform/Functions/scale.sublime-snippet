@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}scale($0)
+]]></content>
+  <tabTrigger>scale</tabTrigger>
+  <scope>source.ts</scope>
+  <description>scale</description>
+</snippet>

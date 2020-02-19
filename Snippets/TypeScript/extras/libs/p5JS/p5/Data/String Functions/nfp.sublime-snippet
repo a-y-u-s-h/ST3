@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}nfp($0)
+]]></content>
+  <tabTrigger>nfp</tabTrigger>
+  <scope>source.ts</scope>
+  <description>nfp</description>
+</snippet>

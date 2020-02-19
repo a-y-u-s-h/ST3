@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+new PIXI.Graphics()
+]]></content>
+  <tabTrigger>pixigraphics</tabTrigger>
+  <scope>source.ts</scope>
+</snippet>

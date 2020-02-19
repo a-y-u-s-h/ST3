@@ -1,0 +1,8 @@
+<snippet> 
+  <content><![CDATA[
+${1:s.app.screen}.height
+]]></content>
+  <tabTrigger>pixiheight</tabTrigger>
+  <scope>source.ts</scope>
+  <description>pixi height</description>
+</snippet>

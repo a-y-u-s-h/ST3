@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}bezierVertex($0)
+]]></content>
+  <tabTrigger>beziervertex</tabTrigger>
+  <scope>source.ts</scope>
+  <description>bezierVertex</description>
+</snippet>

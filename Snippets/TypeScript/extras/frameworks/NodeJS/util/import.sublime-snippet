@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+const util = require("util");
+
+]]></content>
+  
+  <tabTrigger>utilimport</tabTrigger>
+  
+  <scope>source.ts</scope>
+</snippet>
