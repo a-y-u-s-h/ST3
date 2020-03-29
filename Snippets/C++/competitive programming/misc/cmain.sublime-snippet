@@ -24,8 +24,7 @@ template <typename T> std::ostream&      operator <<  (std::ostream& os, const s
     \______/  \______/ |_______/ |________/
 */
 
-int main(int argc, char const *argv[])
-{
+int main(int argc, char const *argv[]) {
   #ifndef JUDGE
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);

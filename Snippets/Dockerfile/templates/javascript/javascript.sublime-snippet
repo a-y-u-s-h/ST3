@@ -18,8 +18,11 @@ ADD . /app
 #             \______/
 
 # Installing core dependencies as root.
-RUN pacman -Syu --noconfirm
-RUN pacman -Sy --noconfirm sudo base-devel git
+RUN pacman-key --init >/dev/null 2>&1; exit 0
+RUN pacman-key --refresh-keys >/dev/null 2>&1; exit 0
+RUN pacman -Syu --noconfirm; exit 0
+RUN pacman-db-upgrade; exit 0
+RUN pacman -Sy --noconfirm sudo base-devel git; exit 0
 RUN echo "Set disable_coredump false" >> /etc/sudo.conf
 
 # Creating a USER 'user', giving it sudo permissions and then switching to it.
@@ -29,9 +32,8 @@ RUN echo "root ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
 USER user
 
 # Installing 'yay', an AUR helper for easier dev dependency management.
-RUN cd ~ && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si --noconfirm
-RUN cd ~ && rm -rvf yay && cd /app
-
+RUN cd ~ && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si --noconfirm && cd ~ && rm -rvf yay && cd /app; exit 0
+USER root
 #                                 /\$\$
 #                                | \$\$
 #    /\$\$\$\$\$\$   /\$\$\$\$\$\$   /\$\$\$\$\$\$\$| \$\$   /\$\$  /\$\$\$\$\$\$   /\$\$\$\$\$\$   /\$\$\$\$\$\$   /\$\$\$\$\$\$\$
@@ -46,7 +48,7 @@ RUN cd ~ && rm -rvf yay && cd /app
 #
 #  Install particular dependecies with yay or pacman or anything else with sudo: 
 
-RUN sudo pacman -Sy --noconfirm nodejs npm
+RUN pacman -Sy --noconfirm nodejs npm; exit 0
 
 EXPOSE 4000
 ]]></content>

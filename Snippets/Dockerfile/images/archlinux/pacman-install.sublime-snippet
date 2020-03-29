@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-RUN pacman -Sy --noconfirm $0
+RUN pacman -Sy --noconfirm $0; exit 0
 ]]></content>
   <tabTrigger>pi</tabTrigger>
   <scope>source.dockerfile</scope>
