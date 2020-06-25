@@ -5,7 +5,7 @@ for file in glob.glob("./*.${1}"):
 	os.remove(file)
 
 ]]></content>
-	<tabTrigger>removeextension</tabTrigger>
+	<tabTrigger>rmx</tabTrigger>
 	<scope>source.python</scope>
 	<description>removeextension</description>
 </snippet>

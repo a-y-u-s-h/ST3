@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+import Html exposing (${1:..})
+import Html.Attributes exposing (${1:..})
+]]></content>
+	
+	<tabTrigger>htmlimport</tabTrigger>
+	
+	<scope>source.elm</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+if $1 then
+	$0
+else
+	
+]]></content>
+	<tabTrigger>if</tabTrigger>
+  <scope>source.elm</scope>
+	<description>if</description>
+</snippet>

@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-const ${2} = require("${1}");
+const ${2} = require("${1}").$2;
 
 ]]></content>
   
-  <tabTrigger>import</tabTrigger>
+  <tabTrigger>sinclude</tabTrigger>
   
   <scope>source.js</scope>
 </snippet>

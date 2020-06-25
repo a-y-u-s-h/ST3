@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-function main() {
+const ${1:main} = async () {
   $0
 }
 
-(() => main())()
+${1:main}()
 ]]></content>
   <tabTrigger>main</tabTrigger>
   <scope>source.js</scope>

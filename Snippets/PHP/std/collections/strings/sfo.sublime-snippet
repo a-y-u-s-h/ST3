@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+"$0"
+]]></content>
+  <tabTrigger>sfo</tabTrigger>
+  <scope>embedding.php, meta.embedded.block.php, source.php</scope>
+  <description>sfo</description>
+</snippet>

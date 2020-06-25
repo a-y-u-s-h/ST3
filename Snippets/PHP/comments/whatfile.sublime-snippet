@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+/*
+ |======================================================================|
+
+   Purpose of `$TM_FILENAME` :
+
+   ${1}
+
+ |======================================================================|
+*/
+
+
+]]></content>
+	<tabTrigger>dwhatfile</tabTrigger>
+	<scope>source.php</scope>
+	<description>whatfile</description>
+</snippet>

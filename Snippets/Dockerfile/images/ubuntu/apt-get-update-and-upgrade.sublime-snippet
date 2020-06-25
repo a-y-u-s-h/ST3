@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-RUN apt-get update -y
-RUN apt-get dist-upgrade -y
+RUN apt-get update -y; exit 0
+RUN apt-get dist-upgrade -y; exit 0
 $0
 ]]></content>
   <tabTrigger>uu</tabTrigger>

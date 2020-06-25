@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-let preload = () = {
+s.preload = () => {
   $0
 }
 ]]></content>

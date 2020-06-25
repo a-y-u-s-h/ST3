@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+__dirname
+]]></content>
+  <tabTrigger>root</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

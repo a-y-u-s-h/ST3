@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+/*
+  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+  |~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~\|/~~~~~~~|
+  |                                                                      |
+  |                                                                      |
+  |                     Author  : Ayush Sharma                           |
+  |                     Github  : a-y-u-s-h                              |
+  |                     Twitter : @taggosaurus                           |
+  |                     Website : ayushsharma.net                        |
+  |                                                                      |
+  |                                                                      |
+  |~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~/|\~~~~~~~|
+  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+*/
+
+]]></content>
+  <tabTrigger>ayush</tabTrigger>
+  <scope>embedding.php meta.embedded.block.php source.php</scope>
+  <description>ayush</description>
+</snippet>

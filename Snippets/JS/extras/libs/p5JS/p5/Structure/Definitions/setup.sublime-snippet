@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-let setup = () = {
+s.setup = () => {
   $0
 }
 ]]></content>

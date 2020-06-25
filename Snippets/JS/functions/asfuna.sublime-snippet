@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+const ${1:} = async (${2:}) => {
+	${0}
+}
+]]></content>
+
+	<tabTrigger>asfuna</tabTrigger>
+
+	<scope>source.js</scope>
+</snippet>

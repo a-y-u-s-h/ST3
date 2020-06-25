@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-fs.createReadStream(`$0`, "utf-8")
-]]></content>
-  <tabTrigger>createreadstream</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

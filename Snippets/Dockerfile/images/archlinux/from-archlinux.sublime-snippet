@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-FROM archlinux/base
+FROM archlinux
 
 $0
 ]]></content>
