@@ -1,19 +1,11 @@
 <snippet>
   <content><![CDATA[
-import React from 'react'
-import data from "./props.json"
-import './$1.css'
+import React from "react"
 
-const $1 = (props = data) => {
-  return (
-    <div className="$1">
-      $0
-    </div>
-  )
+export default () => {
+  $0
+  return <></>
 }
-
-export default $1
-
 ]]></content>
   <tabTrigger>rfc</tabTrigger>
   <scope>source.js</scope>

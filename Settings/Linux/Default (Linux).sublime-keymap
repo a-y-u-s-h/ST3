@@ -2,57 +2,210 @@
   { "keys": ["alt+x"], "command": "htmlprettify" },
   { "keys": ["ctrl+b"], "command": "js_prettier" },
   { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
-  { "keys": ["alt+shift+p"], "command": "autoprefixer"},
-  { "keys": ["ctrl+t"], "command": "expand_selection", "args": {"to": "tag"} },
-  {"keys": ["alt+z"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/css-brackets.sublime-macro"}},
-  {"keys": ["alt+c"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/jump-out-of-brackets.sublime-macro"}},
-  {"keys": ["alt+q"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/semi-colon-new-line.sublime-macro"}},
-  {"keys": ["alt+,"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/comma-new-line.sublime-macro"}},
-  {"keys": ["alt+a"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/assign.sublime-macro"}},
-  {"keys": ["ctrl+shift+."], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/right-equal-to-arrow.sublime-macro"}},
-  {"keys": ["ctrl+."], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/right-double-arrow.sublime-macro"}},
-  {"keys": ["alt+."], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/right-single-arrow.sublime-macro"}},
-  {"keys": ["ctrl+shift+,"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/left-equal-to-arrow.sublime-macro"}},
-  {"keys": ["ctrl+,"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/left-double-arrow.sublime-macro"}},
-  {"keys": ["alt+,"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/left-single-arrow.sublime-macro"}},
-  {"keys": ["alt+;"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/scope-colons.sublime-macro"}},
-  {"keys": ["shift+ctrl+a"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/arrayfy.sublime-macro"}},
-  {"keys": ["alt+r"], "command": "run_macro_file", "args": {"file": "res://Packages/ST3/Macros/remove-current-function.sublime-macro"}},
-  { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
-  { "keys": ["shift+ctrl+alt+n"], "command": "advanced_new_file_new", "args": {"is_python": true}},
+  { "keys": ["alt+shift+p"], "command": "autoprefixer" },
+  {
+    "keys": ["ctrl+t"],
+    "command": "expand_selection",
+    "args": { "to": "tag" }
+  },
+  {
+    "keys": ["alt+z"],
+    "command": "run_macro_file",
+    "args": { "file": "res://Packages/ST3/Macros/css-brackets.sublime-macro" }
+  },
+  {
+    "keys": ["alt+c"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/jump-out-of-brackets.sublime-macro"
+    }
+  },
+  {
+    "keys": ["alt+q"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/semi-colon-new-line.sublime-macro"
+    }
+  },
+  {
+    "keys": ["alt+,"],
+    "command": "run_macro_file",
+    "args": { "file": "res://Packages/ST3/Macros/comma-new-line.sublime-macro" }
+  },
+  {
+    "keys": ["alt+a"],
+    "command": "run_macro_file",
+    "args": { "file": "res://Packages/ST3/Macros/assign.sublime-macro" }
+  },
+  {
+    "keys": ["ctrl+shift+."],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/right-equal-to-arrow.sublime-macro"
+    }
+  },
+  {
+    "keys": ["ctrl+."],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/right-double-arrow.sublime-macro"
+    }
+  },
+  {
+    "keys": ["alt+."],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/right-single-arrow.sublime-macro"
+    }
+  },
+  {
+    "keys": ["ctrl+shift+,"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/left-equal-to-arrow.sublime-macro"
+    }
+  },
+  {
+    "keys": ["ctrl+,"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/left-double-arrow.sublime-macro"
+    }
+  },
+  {
+    "keys": ["alt+,"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/left-single-arrow.sublime-macro"
+    }
+  },
+  {
+    "keys": ["alt+;"],
+    "command": "run_macro_file",
+    "args": { "file": "res://Packages/ST3/Macros/scope-colons.sublime-macro" }
+  },
+  {
+    "keys": ["shift+ctrl+a"],
+    "command": "run_macro_file",
+    "args": { "file": "res://Packages/ST3/Macros/arrayfy.sublime-macro" }
+  },
+  {
+    "keys": ["alt+r"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "res://Packages/ST3/Macros/remove-current-function.sublime-macro"
+    }
+  },
+  { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new" },
+  {
+    "keys": ["shift+ctrl+alt+n"],
+    "command": "advanced_new_file_new",
+    "args": { "is_python": true }
+  },
   { "keys": ["alt+g"], "command": "find_under" },
   { "keys": ["shift+alt+g"], "command": "find_under_prev" },
-  { "keys": ["alt+shift+."], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/C++/right-shift.sublime-macro"}},
-  { "keys": ["alt+shift+,"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/C++/left-shift.sublime-macro"}},
-  { "keys": ["alt+down"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Python/godown.sublime-macro"}},
-  { "keys": ["ctrl+'"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/quotes.sublime-macro"}},
-  { "keys": ["ctrl+shift+'"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Python/formattedstring.sublime-macro"}},
+  {
+    "keys": ["alt+shift+."],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/ST3/Macros/C++/right-shift.sublime-macro" }
+  },
+  {
+    "keys": ["alt+shift+,"],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/ST3/Macros/C++/left-shift.sublime-macro" }
+  },
+  {
+    "keys": ["alt+down"],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/ST3/Macros/Python/godown.sublime-macro" }
+  },
+  {
+    "keys": ["ctrl+'"],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/ST3/Macros/quotes.sublime-macro" }
+  },
+  {
+    "keys": ["ctrl+shift+'"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/ST3/Macros/Python/formattedstring.sublime-macro"
+    }
+  },
   {
     "keys": ["tab"],
     "command": "insert",
-    "args": {"characters": "\t"},
-    "context": [{
-      "key": "setting.anf_panel"
-    }]
+    "args": { "characters": "\t" },
+    "context": [
+      {
+        "key": "setting.anf_panel"
+      }
+    ]
   },
   { "keys": ["ctrl+space"], "command": "auto_complete" },
-  { "keys": ["ctrl+space"], "command": "replace_completion_with_auto_complete", "context":
-
-  [ 
-    { "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
-    { "key": "auto_complete_visible", "operator": "equal", "operand": false },
-    { "key": "setting.tab_completion", "operator": "equal", "operand": true }
-  ]
+  {
+    "keys": ["ctrl+space"],
+    "command": "replace_completion_with_auto_complete",
+    "context": [
+      {
+        "key": "last_command",
+        "operator": "equal",
+        "operand": "insert_best_completion"
+      },
+      { "key": "auto_complete_visible", "operator": "equal", "operand": false },
+      { "key": "setting.tab_completion", "operator": "equal", "operand": true }
+    ]
   },
-  
+
   { "keys": ["shift+ctrl+space"], "command": "code_intel_auto_complete" },
   { "keys": ["alt+shift+up"], "command": "goto_definition" },
   { "keys": ["alt+shift+down"], "command": "goto_reference" },
 
-  { "keys": ["ctrl+0"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/get-out-of-parenthesis.sublime-macro"}, "context": [{"key": "selector", "operator": "equal", "operand": "source.lisp"}]},
-  { "keys": ["ctrl+9"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/parens.sublime-macro"}, "context": [{"key": "selector", "operator": "equal", "operand": "source.lisp"}]},
-  { "keys": ["ctrl+shift+9"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/parens-new-line.sublime-macro"}, "context": [{"key": "selector", "operator": "equal", "operand": "source.lisp"}]},
-  { "keys": ["alt+="], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/assign.sublime-macro"}, "context": [{"key": "selector", "operator": "equal", "operand": "source.lisp"}]},
-  { "keys": ["alt+enter"], "command": "run_macro_file", "args": {"file": "Packages/ST3/Macros/Lisp/apply.sublime-macro"}, "context": [{"key": "selector", "operator": "equal", "operand": "source.lisp"}]},
-
+  {
+    "keys": ["ctrl+0"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/ST3/Macros/Lisp/get-out-of-parenthesis.sublime-macro"
+    },
+    "context": [
+      { "key": "selector", "operator": "equal", "operand": "source.lisp" }
+    ]
+  },
+  {
+    "keys": ["ctrl+9"],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/ST3/Macros/Lisp/parens.sublime-macro" },
+    "context": [
+      { "key": "selector", "operator": "equal", "operand": "source.lisp" }
+    ]
+  },
+  {
+    "keys": ["ctrl+shift+9"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/ST3/Macros/Lisp/parens-new-line.sublime-macro"
+    },
+    "context": [
+      { "key": "selector", "operator": "equal", "operand": "source.lisp" }
+    ]
+  },
+  {
+    "keys": ["alt+="],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/ST3/Macros/Lisp/assign.sublime-macro" },
+    "context": [
+      { "key": "selector", "operator": "equal", "operand": "source.lisp" }
+    ]
+  },
+  {
+    "keys": ["alt+enter"],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/ST3/Macros/Lisp/apply.sublime-macro" },
+    "context": [
+      { "key": "selector", "operator": "equal", "operand": "source.lisp" }
+    ]
+  },
+  {
+    "keys": ["ctrl+e"],
+    "command": "emmet_expand_abbreviation"
+  }
 ]

@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
-{$1.map(${2:} => (
-  $0
-))}
+React.useLayoutEffect(() => {
+	$0
+})
 ]]></content>
-  <tabTrigger>forjsx</tabTrigger>
+  <tabTrigger>uselayouteffect</tabTrigger>
   <scope>source.js</scope>
 </snippet>

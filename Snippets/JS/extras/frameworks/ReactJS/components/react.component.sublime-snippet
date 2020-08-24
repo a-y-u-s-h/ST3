@@ -1,42 +1,11 @@
 <snippet>
   <content><![CDATA[
-import React, { Component } from 'react'
-import data from "./props"
-import './$1.css'
+import React from "react"
 
-class $1 extends Component {
-  constructor (props = data) {
-    super(props)
-    this.state = {}
-  }
-
-  static getDerivedStateFromProps (props, state) { return {} }
-
-  render() {
-    return (
-      <div className="$1">
-        $0
-      </div>
-    )
-  }
- 
-  componentDidMount () {}
-
-  shouldComponentUpdate (nextProps, nextState) { return true }
-  
-  getSnapshotBeforeUpdate (prevProps, prevState) { return null }
-
-  componentDidUpdate (prevProps, prevState, snapshot) {}
-  
-  componentWillUnmount () {}
-
-  componentDidCatch (error, info) {}
-
-  static getDerivedStateFromError (error) { return {} }
+export default () => {
+  $0
+  return <></>
 }
-
-export default $1
-
 ]]></content>
   <tabTrigger>reactcomponent</tabTrigger>
   <scope>source.js</scope>

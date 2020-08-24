@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+const [$1, set${1/(.)/\u\1/}] = React.useState($0)
+]]></content>
+  <tabTrigger>usestate</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

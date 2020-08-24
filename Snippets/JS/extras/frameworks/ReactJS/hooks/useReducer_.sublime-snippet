@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+const $1 = (state, action) => {
+  const { type, payload } = action
+	switch (type) {
+		$0
+	  default:
+	    return state
+	}
+}
+]]></content>
+  <tabTrigger>reducer</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
