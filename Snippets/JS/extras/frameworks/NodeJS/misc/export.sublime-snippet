@@ -3,8 +3,8 @@
 exports.$1 = (typeof($1) != "undefined") ? $1 : undefined;
 
 ]]></content>
-  
-  <tabTrigger>export</tabTrigger>
-  
+
+  <tabTrigger>nexport</tabTrigger>
+
   <scope>source.js</scope>
 </snippet>

@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+import React from "react"
+
+export const create = () => {
+	$0
+  return {}er
+}
+
+export const Context = React.createContext()
+export const Consumer = Context.Consumer
+export const Provider = p => <Context.Provider value={create()} {...p} />
+export const use = () => React.useContext(Context)
+export default { Context, Provider, Consumer, use, create }
+]]></content>
+  <tabTrigger>reactcontext</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

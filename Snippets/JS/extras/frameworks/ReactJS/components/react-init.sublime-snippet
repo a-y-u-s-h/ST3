@@ -1,9 +1,14 @@
 <snippet>
   <content><![CDATA[
+import React from "react"
+
 export const $1 = () => {
   $0
   return <></>
-}]]></content>
-  <tabTrigger>reactcomponent</tabTrigger>
+}
+
+export default $1
+]]></content>
+  <tabTrigger>reactinit</tabTrigger>
   <scope>source.js</scope>
 </snippet>

@@ -1,10 +1,7 @@
 <snippet>
   <content><![CDATA[
-import $1 from "$2"
-
+<React.Fragment>$0</React.Fragment>
 ]]></content>
-
-  <tabTrigger>include</tabTrigger>
-
+  <tabTrigger>,.,</tabTrigger>
   <scope>source.js</scope>
 </snippet>

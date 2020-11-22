@@ -207,5 +207,43 @@
   {
     "keys": ["ctrl+e"],
     "command": "emmet_expand_abbreviation"
+  },
+  {
+    "keys": ["ctrl+e"],
+    "command": "emmet_expand_abbreviation",
+    "args": { "tab": true },
+    "context": [
+      {
+        "match_all": true,
+        "key": "emmet_capture_abbreviation",
+        "operator": "equal",
+        "operand": "meta.group.braces.round.js, source.css, source.sass, source.less, source.scss, source.stylus, source.postcss, source.jade, text.jade, source.pug, text.pug, text.slim, text.xml, text.html - source, text.haml, text.scala.html, source string"
+      },
+      {
+        "match_all": true,
+        "key": "selection_empty"
+      },
+      {
+        "operator": "equal",
+        "operand": false,
+        "match_all": true,
+        "key": "has_next_field"
+      },
+      {
+        "operand": false,
+        "operator": "equal",
+        "match_all": true,
+        "key": "auto_complete_visible"
+      },
+      {
+        "match_all": true,
+        "key": "is_abbreviation"
+      },
+      {
+        "key": "selector",
+        "operator": "equal",
+        "operand": "meta.group.braces.round.js, source.css, source.sass, source.less, source.scss, source.stylus, source.postcss, source.jade, text.jade, source.pug, text.pug, text.slim, text.xml, text.html - source, text.haml, text.scala.html, source string"
+      }
+    ]
   }
 ]

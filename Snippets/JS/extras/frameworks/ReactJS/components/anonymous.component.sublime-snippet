@@ -1,0 +1,10 @@
+ <snippet>
+  <content><![CDATA[
+export default () => {
+  $0
+  return <></>
+}
+]]></content>
+  <tabTrigger>areactcomponent</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

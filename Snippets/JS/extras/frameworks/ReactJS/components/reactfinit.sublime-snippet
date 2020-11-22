@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+import React from "react"
+
+export const $1 = React.forwardRef(({ children, ...props }, ref) => {
+  $0
+  return <></>
+})
+
+export default $1
+]]></content>
+  <tabTrigger>reactfinit</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

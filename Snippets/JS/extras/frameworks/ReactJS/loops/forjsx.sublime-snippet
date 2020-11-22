@@ -1,7 +1,9 @@
 <snippet>
   <content><![CDATA[
-{$1.map(${2:} => (
-  $0
+{$1?.map((${2:}, ${3:i}) => (
+  <React.Fragment key={${3:i}}>
+  	$0
+  </React.Fragment>
 ))}
 ]]></content>
   <tabTrigger>forjsx</tabTrigger>

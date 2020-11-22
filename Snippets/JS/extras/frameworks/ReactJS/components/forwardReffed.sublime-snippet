@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+export const $1 = React.forwardRef(({ children, ...props }, ref) => {
+	$0
+  return <></>
+})]]></content>
+  <tabTrigger>reactforwardredcomponent</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
