@@ -4,27 +4,80 @@ import React, { Component } from "react"
 import ReactDOM from "react-dom"
 
 const sketch = component => s => {
+  const p5 = component.p5
+  const container = component.visualization
   const dimensions = component.state?.dimensions
-  const clicked = () => {}
+
+  const mouse = {
+    press: e => {
+      const position = new p5.Vector(s.mouseX, s.mouseY)
+    },
+    release: e => {
+      const position = new p5.Vector(s.mouseX, s.mouseY)
+    },
+    move: e => {
+      const position = new p5.Vector(s.mouseX, s.mouseY)
+    },
+    over: e => {
+      const position = new p5.Vector(s.mouseX, s.mouseY)
+    },
+    out: e => {
+      const position = new p5.Vector(s.mouseX, s.mouseY)
+    },
+    wheel: e => {},
+    click: {
+      single: e => {
+        const position = new p5.Vector(s.mouseX, s.mouseY)
+      },
+      double: e => {
+        const position = new p5.Vector(s.mouseX, s.mouseY)
+      }
+    }
+  }
+
+  const key = {
+    press: e => {
+      const key = s.key || String.fromCharCode(s.keyCode)
+    },
+    down: e => {
+      const key = s.key || String.fromCharCode(s.keyCode)
+    },
+    up: e => {
+      const key = s.key || String.fromCharCode(s.keyCode)
+    }
+  }
+
+  s.preload = () => {}
 
   s.setup = () => {
-    const canvas = s.createCanvas(dimensions.width, dimensions.height)
+    const { width, height } = dimensions
+    const canvas = s.createCanvas(width, height).parent(container)
+    canvas.mousePressed(mouse.press)
+    canvas.mouseReleased(mouse.release)
+    canvas.mouseMoved(mouse.move)
+    canvas.mouseOver(mouse.over)
+    canvas.mouseOut(mouse.out)
+    canvas.mouseClicked(mouse.click.single)
+    canvas.doubleClicked(mouse.click.double)
+
     s.angleMode(s.DEGREES)
     s.colorMode(s.RGB)
     s.rectMode(s.CENTER)
     s.ellipseMode(s.CENTER)
     s.textAlign(s.CENTER, s.CENTER)
-    canvas.mousePressed(clicked)
+    s.smooth()
   }
 
   s.draw = () => {
-    s.background(component.props?.background || 0)
+    s.background(255)
   }
 
-  s.windowResized = () => {
-    s.resizeCanvas(dimensions.width, dimensions.height)
-  }
+  s.windowResized = () => s.setup()
+  s.keyTyped = e => key?.press(e)
+  s.keyPressed = e => key?.press(e)
+  s.keyReleased = e => key?.up(e)
 }
+
 
 class Sketch extends Component {
   constructor(props) {
@@ -37,29 +90,25 @@ class Sketch extends Component {
         height: 0
       }
     }
+    this.style = {
+      width: "100%",
+      height: "100%",
+      position: "relative",
+      top: 0,
+      left: 0,
+      margin: 0,
+      padding: 0,
+      overflow: "hidden",
+      background: "transparent"
+    }
   }
 
   render() {
-    return (
-      <div
-        ref={e => this.init(e)}
-        style={{
-          width: "100%",
-          height: "100%",
-          position: "relative",
-          top: 0,
-          left: 0,
-          margin: 0,
-          padding: 0,
-          overflow: "hidden",
-          background: "transparent"
-        }}
-      />
-    )
+    return <div ref={e => this.init(e)} style={this.style} />
   }
 
   init(visualization) {
-    const p5 = require("p5")
+    this.p5 = require("p5")
     if (!this.visualization) {
       this.visualization = visualization
       const children = this.props.children
@@ -76,9 +125,9 @@ class Sketch extends Component {
             const container = this.visualization
 
             if (isFunction(children)) {
-              this.drawing = new p5(children(this), container)
+              this.drawing = new this.p5(children(this), container)
             } else {
-              this.drawing = new p5(this.sketch(this), container)
+              this.drawing = new this.p5(this.sketch(this), container)
             }
           }
         )
@@ -86,6 +135,7 @@ class Sketch extends Component {
     }
   }
 }
+
 
 export default Sketch
 

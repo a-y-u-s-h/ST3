@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:s.}push()
+$0
+${1:s.}pop()
+]]></content>
+  <tabTrigger>pp</tabTrigger>
+  <scope>source.js</scope>
+  <description>push-pop</description>
+</snippet>

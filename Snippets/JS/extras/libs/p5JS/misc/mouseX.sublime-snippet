@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-${1:s.}mouseX
+${1:s.}mouseX$0
 ]]></content>
-	
+
 	<tabTrigger>mousex</tabTrigger>
-	
+
 	<scope>source.js</scope>
 </snippet>
