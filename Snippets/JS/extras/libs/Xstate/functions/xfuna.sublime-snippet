@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+X.assign((c, e) => {
+  $0
+})
+]]></content>
+  <tabTrigger>xfuna</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

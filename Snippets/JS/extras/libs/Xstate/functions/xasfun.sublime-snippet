@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+"$1": async (c, e) => {
+  $0
+  return {}
+},
+]]></content>
+  <tabTrigger>xasfun</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

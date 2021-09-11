@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+$1: (c, e) => {
+	$0
+	return {}
+},
+]]></content>
+  <tabTrigger>xaprop</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

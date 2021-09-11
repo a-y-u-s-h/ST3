@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+"$1": (c, e) => {
+  $0
+},
+]]></content>
+  <tabTrigger>xskv</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

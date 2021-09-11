@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+"$1": X.assign({
+  $2: (c, e) => e?.data
+}),$0
+]]></content>
+  <tabTrigger>xdfun</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+"$1": (c, e) => (send, listen) => {
+  $0
+  return () => {}
+},
+]]></content>
+  <tabTrigger>xcallback</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
