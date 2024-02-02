@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-%v
+&$0
 ]]></content>
-  <tabTrigger>/</tabTrigger>
+  <tabTrigger>reference</tabTrigger>
   <scope>source.go</scope>
-  <description>/</description>
+  <description>reference</description>
 </snippet>

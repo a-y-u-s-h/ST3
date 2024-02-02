@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+fallthrough
+]]></content>
+  <tabTrigger>fallthrough</tabTrigger>
+  <scope>source.go</scope>
+  <description>fallthrough</description>
+</snippet>

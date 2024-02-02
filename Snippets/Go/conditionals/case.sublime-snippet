@@ -1,8 +1,9 @@
 <snippet>
   <content><![CDATA[
-%v
+case $1:
+  $0
 ]]></content>
-  <tabTrigger>/</tabTrigger>
+  <tabTrigger>case</tabTrigger>
   <scope>source.go</scope>
-  <description>/</description>
+  <description>case</description>
 </snippet>

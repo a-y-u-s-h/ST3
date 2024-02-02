@@ -4,7 +4,7 @@ func ($1) {
   $0
 }
 ]]></content>
-  <tabTrigger>afun</tabTrigger>
+  <tabTrigger>iafun</tabTrigger>
   <scope>source.go</scope>
   <description>iafun</description>
 </snippet>

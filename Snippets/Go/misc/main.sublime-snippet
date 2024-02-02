@@ -2,8 +2,6 @@
   <content><![CDATA[
 package main
 
-import "fmt"
-
 func main () {
   $0
 }

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+fallthrough
+]]></content>
+  <tabTrigger>continue</tabTrigger>
+  <scope>source.go</scope>
+  <description>continue</description>
+</snippet>

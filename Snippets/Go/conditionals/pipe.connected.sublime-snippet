@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+case $1:
+  $0
+  fallthrough
+]]></content>
+  <tabTrigger>\</tabTrigger>
+  <scope>source.go</scope>
+  <description>\</description>
+</snippet>

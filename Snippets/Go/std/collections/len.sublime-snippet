@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-%v
+len($0)
 ]]></content>
-  <tabTrigger>/</tabTrigger>
+  <tabTrigger>len</tabTrigger>
   <scope>source.go</scope>
-  <description>/</description>
+  <description>len</description>
 </snippet>
