@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-/* :: ====================================== :: */
+# :: ====================================== :: #
 
 
 ]]></content>
 	<tabTrigger>===</tabTrigger>
-	<scope>source.</scope>
+	<scope>source.elixir</scope>
 	<description>===</description>
 </snippet>

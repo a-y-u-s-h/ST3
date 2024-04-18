@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-for ${1:key}, ${2:value} := range ${3:iterable} {
+for ${1} := range ${3} {
   $0
 }
 ]]></content>

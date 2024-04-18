@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+defmodule $1 do
+	$0
+end
+]]></content>
+	<tabTrigger>module</tabTrigger>
+	<scope>source.elixir</scope>
+</snippet>
