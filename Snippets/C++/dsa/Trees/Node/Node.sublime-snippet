@@ -1,10 +1,8 @@
 <snippet>
 	<content><![CDATA[
-#include <iostream>
-
 /*
  |======================================================================|
- 
+
     /\$\$   /\$\$  /\$\$\$\$\$\$  /\$\$\$\$\$\$\$  /\$\$\$\$\$\$\$\$
    | \$\$\$ | \$\$ /\$\$__  \$\$| \$\$__  \$\$| \$\$_____/
    | \$\$\$\$| \$\$| \$\$  \ \$\$| \$\$  \ \$\$| \$\$
@@ -15,16 +13,16 @@
    |__/  \__/ \______/ |_______/ |________/
 
 
-  A node contains some data and pointers to roots of its 
+  A node contains some data and pointers to roots of its
   left and right subtrees. To be used with Tree class.
 
   @constructor : data = 0
 
-  @methods : 
+  @methods :
 
   1. print : end = " " : prints data of node with ending character if supplied.
 
-  @usage : 
+  @usage :
 
   Node* node = new Node(value)  : Creating a node.
 
@@ -59,8 +57,8 @@ class Node {
 
 
 ]]></content>
-	
+
 	<tabTrigger>node</tabTrigger>
-	
+
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

@@ -1,10 +1,8 @@
 <snippet>
-	<description>for vector</description>
+	<description>element exists in collection?</description>
 	<content><![CDATA[
-for (int ${1:i} = ${2:0}; ${1:i} < ${3:vector}.size(); ${1:i} += ${4:1}) {
-	${0}
-}
+std::find(std::begin($2), std::end($2), $1) != std::end($2)
 ]]></content>
-	<tabTrigger>forvec</tabTrigger>
+	<tabTrigger>find</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

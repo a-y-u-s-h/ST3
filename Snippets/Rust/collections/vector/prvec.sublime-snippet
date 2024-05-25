@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-for ${1:_} in &${2} { println!("{:?}", _); }
+lfor ${1:_} in &${2} { println!("{:?}", _); }
 
 ]]></content>
   <tabTrigger>prvec</tabTrigger>

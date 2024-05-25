@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-local $0 = $1:constructor ($2)
+local $0 = $1:create ($2)
 ]]></content>
 	<tabTrigger>new</tabTrigger>
 	<scope>source.lua</scope>

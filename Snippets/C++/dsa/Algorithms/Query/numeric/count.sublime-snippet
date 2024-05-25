@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
-std::count(begin($1), end($1), $0)
+std::count(std::begin($1), std::end($1), $0)
 ]]></content>
-  
+
   <tabTrigger>count</tabTrigger>
-  
+
   <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>
