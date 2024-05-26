@@ -1,0 +1,8 @@
+<snippet>
+	<description>ascending sort vector</description>
+	<content><![CDATA[
+std::transform(std::begin($1), std::end($1), std::begin($1), [](auto const &$2) { return $0; });
+]]></content>
+	<tabTrigger>transform</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>
