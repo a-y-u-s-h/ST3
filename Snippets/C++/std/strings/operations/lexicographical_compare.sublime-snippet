@@ -1,0 +1,8 @@
+<snippet>
+  <description>compare</description>
+  <content><![CDATA[
+std::lexicographical_compare(std::begin($1), std::end($1), std::begin($2), std::end($2), [](auto const &a, auto const &b) { return a <  b; });
+]]></content>
+  <tabTrigger>lexicographicalcompare</tabTrigger>
+  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

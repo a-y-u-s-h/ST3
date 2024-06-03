@@ -1,0 +1,8 @@
+<snippet>
+	<description>print map</description>
+	<content><![CDATA[
+for (auto i : $1) { std::cout << i.first << " " << i.second << ", "; } std::cout << std::endl;
+]]></content>
+	<tabTrigger>printmap</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

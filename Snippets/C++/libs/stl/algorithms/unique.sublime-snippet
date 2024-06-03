@@ -1,8 +1,8 @@
 <snippet>
-	<description>declare pair with types</description>
+	<description>removes consecutive duplicate elements in a range</description>
 	<content><![CDATA[
-std::pair<$1> $0
+std::unique(std::begin($1), std::end($1))
 ]]></content>
-	<tabTrigger>pair</tabTrigger>
+	<tabTrigger>unique</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

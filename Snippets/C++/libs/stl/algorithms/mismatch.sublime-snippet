@@ -1,8 +1,8 @@
 <snippet>
-	<description>ascending sort vector</description>
+	<description>element exists?</description>
 	<content><![CDATA[
-[](auto const &$1) { return $0; }
+std::mismatch($0)
 ]]></content>
-	<tabTrigger>predicate</tabTrigger>
+	<tabTrigger>mismatch</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

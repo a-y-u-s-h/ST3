@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-std::inplace_merge(std::begin($1), $1.begin() + $2 ,std::end($1));
+std::inplace_merge(std::begin($1), std::begin($1) + $2 ,std::end($1));
 ]]></content>
   <tabTrigger>inplacemerge</tabTrigger>
   <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>

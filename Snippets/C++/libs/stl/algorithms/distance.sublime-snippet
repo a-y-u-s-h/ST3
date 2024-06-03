@@ -1,8 +1,8 @@
 <snippet>
-	<description>declare pair with types</description>
+	<description>ascending sort vector</description>
 	<content><![CDATA[
-std::pair<$1> $0
+std::distance($0)
 ]]></content>
-	<tabTrigger>pair</tabTrigger>
+	<tabTrigger>distance</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

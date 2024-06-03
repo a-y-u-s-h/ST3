@@ -1,6 +1,6 @@
 <snippet>
 	<description>for..in</description>
-	<content><![CDATA[for (auto ${1:i} : ${2:list}) {
+	<content><![CDATA[for (auto ${1:i} = std::begin($2); ${1:i} != std::end($2); ${1:i} += ${3:1}) {
 	${0}
 }
 ]]></content>

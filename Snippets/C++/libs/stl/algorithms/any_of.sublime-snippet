@@ -1,0 +1,8 @@
+<snippet>
+	<description>any satisfy predicate</description>
+	<content><![CDATA[
+std::any_of(std::begin($1), std::end($1), [](auto const &$3) { return $4; })
+]]></content>
+	<tabTrigger>anyof</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

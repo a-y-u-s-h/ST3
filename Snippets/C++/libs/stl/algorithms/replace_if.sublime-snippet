@@ -1,8 +1,8 @@
 <snippet>
-	<description>declare pair with types</description>
+	<description>any satisfy predicate</description>
 	<content><![CDATA[
-std::pair<$1> $0
+std::replace_if(std::begin($1), std::end($1), $0)
 ]]></content>
-	<tabTrigger>pair</tabTrigger>
+	<tabTrigger>replaceif</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

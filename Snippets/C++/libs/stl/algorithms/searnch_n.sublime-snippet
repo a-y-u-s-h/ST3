@@ -1,0 +1,8 @@
+<snippet>
+	<description>search n consecutive copies of a value</description>
+	<content><![CDATA[
+std::search_n(std::begin($1), std::end($1), ${2:count}, ${3:value})
+]]></content>
+	<tabTrigger>searchn</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

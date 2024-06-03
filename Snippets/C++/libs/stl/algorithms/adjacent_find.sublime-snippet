@@ -1,8 +1,8 @@
 <snippet>
-	<description>declare pair with types</description>
+	<description>consecutive elements equal (first)</description>
 	<content><![CDATA[
-std::pair<$1> $0
+std::adjacent_find(std::begin($1), std::end($1))
 ]]></content>
-	<tabTrigger>pair</tabTrigger>
+	<tabTrigger>adjacentfind</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>
