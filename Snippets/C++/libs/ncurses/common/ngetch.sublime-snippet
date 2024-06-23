@@ -1,8 +1,0 @@
-<snippet>
-	<description>ncurses get char</description>
-	<content><![CDATA[
-ncurses::getch()
-]]></content>
-	<tabTrigger>ngetch</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
-</snippet>

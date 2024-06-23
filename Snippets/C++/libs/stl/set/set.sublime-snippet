@@ -1,0 +1,8 @@
+<snippet>
+	<description>set</description>
+	<content><![CDATA[
+std::set<$1> ${0:}
+]]></content>
+	<tabTrigger>set</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

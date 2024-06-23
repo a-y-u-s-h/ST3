@@ -1,8 +1,0 @@
-<snippet>
-	<description>ncurses window refresh</description>
-	<content><![CDATA[
-ncurses::wprintw(${1:window}, $0);
-]]></content>
-	<tabTrigger>nwindowprint</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
-</snippet>

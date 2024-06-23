@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+for (int ${7:d} = 0; ${7:d} < ${3:N} + ${4:M} - 1; ${7:d}++) { for (int ${5:i} = 0; ${5:i} < ${3:N}; ${5:i}++) { for (int ${6:j} = 0; ${6:j} < ${4:M}; ${6:j}++) { if (${4:i} + ${3:M} - ${5:j} - 1 == ${7:d}) { std::cout << $1[${5:i}][${6:j}] << " "; }}} std::cout << std::endl; }
+$0
+]]></content>
+	<tabTrigger>printmatrixdiagonallytoprightbottomleft</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

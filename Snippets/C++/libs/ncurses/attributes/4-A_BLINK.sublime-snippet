@@ -1,8 +1,0 @@
-<snippet>
-	<description>A_BLINK</description>
-	<content><![CDATA[
-A_BLINK
-]]></content>
-	<tabTrigger>a4</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
-</snippet>

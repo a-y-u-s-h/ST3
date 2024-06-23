@@ -1,0 +1,8 @@
+<snippet>
+	<description>not_equal_to predicate</description>
+	<content><![CDATA[
+std::not_equal_to<>()
+]]></content>
+	<tabTrigger>notequalto</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

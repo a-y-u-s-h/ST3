@@ -1,0 +1,6 @@
+<snippet>
+	<description>minmaxelement</description>
+	<content><![CDATA[*std::minmax_element(std::begin($1), std::end($1))]]></content>
+	<tabTrigger>minmaxelement</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

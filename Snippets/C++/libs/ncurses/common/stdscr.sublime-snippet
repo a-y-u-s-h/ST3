@@ -1,8 +1,0 @@
-<snippet>
-	<description>ncurses stdscr</description>
-	<content><![CDATA[
-ncurses::stdscr
-]]></content>
-	<tabTrigger>nstd</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
-</snippet>

@@ -1,7 +1,7 @@
 <snippet>
     <description>destructor</description>
     <content><![CDATA[
-${1:C} :: ~${1:C} (${2}) {
+~${1} (${2}) {
   ${0}
 }]]></content>
     <tabTrigger>destructor</tabTrigger>

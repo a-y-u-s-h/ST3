@@ -2,14 +2,7 @@
   {
     "args":
     {
-      "characters": " <-"
-    },
-    "command": "insert"
-  },
-  {
-    "args":
-    {
-      "characters": " "
+      "characters": "<-"
     },
     "command": "insert"
   }

@@ -1,13 +1,7 @@
 <snippet>
 	<description>print queue</description>
 	<content><![CDATA[
-[](std::queue<int> q) {
-    while (!q.empty()) {
-      std::cout << q.front() << " ";
-      q.pop();
-    }
-    std::cout << std::endl;
-}(${2:target});
+while (!$1.empty()) { std::cout << $1.front() << " "; $1.pop(); } std::cout << std::endl;
 ]]></content>
 	<tabTrigger>printqueue</tabTrigger>
 	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
