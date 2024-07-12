@@ -1,0 +1,8 @@
+<snippet>
+	<description>list.remove();</description>
+	<content><![CDATA[
+${1:list}.remove(${2:element});
+]]></content>
+	<tabTrigger>listremove</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

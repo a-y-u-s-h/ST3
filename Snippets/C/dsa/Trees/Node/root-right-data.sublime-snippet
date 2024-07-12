@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+root -> right -> data
+]]></content>
+
+	<tabTrigger>rrd</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

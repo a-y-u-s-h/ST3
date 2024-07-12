@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+if (condition) { printf("YES"); } else { printf("NO"); }
+]]></content>
+  <tabTrigger>yesno</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

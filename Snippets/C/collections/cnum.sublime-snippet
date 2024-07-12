@@ -1,0 +1,8 @@
+<snippet>
+	<description>enum class</description>
+	<content><![CDATA[enum class ${1:name} {
+	${2}
+};]]></content>
+	<tabTrigger>cnum</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

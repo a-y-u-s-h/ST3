@@ -1,0 +1,8 @@
+<snippet>
+	<description>all satisfy predicate</description>
+	<content><![CDATA[
+std::all_of(std::begin($1), std::end($1), [](auto const &$3) { return $4; })
+]]></content>
+	<tabTrigger>allof</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

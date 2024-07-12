@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if (this -> right) this -> right -> print();
+
+]]></content>
+
+  <tabTrigger>trp</tabTrigger>
+
+  <scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-emplace-back</description>
+	<content><![CDATA[
+${1:list}.emplace_back(${2:value});
+]]></content>
+	<tabTrigger>listemplaceback</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

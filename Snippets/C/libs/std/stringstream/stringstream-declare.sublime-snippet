@@ -1,0 +1,6 @@
+<snippet>
+	<description>declare stringstream</description>
+	<content><![CDATA[std::stringstream ${2:stream} (${3:string});]]></content>
+	<tabTrigger>dstringstream</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

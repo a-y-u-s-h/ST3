@@ -1,0 +1,8 @@
+<snippet>
+	<description>deque.clear();</description>
+	<content><![CDATA[
+${1:deque}.clear();
+]]></content>
+	<tabTrigger>dqclear</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

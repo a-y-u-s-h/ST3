@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:vertex} -> data
+]]></content>
+
+	<tabTrigger>vdd</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

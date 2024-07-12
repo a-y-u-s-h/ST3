@@ -1,0 +1,8 @@
+<snippet>
+  <description>#include functional</description>
+  <content><![CDATA[#include <functional>
+
+]]></content>
+  <tabTrigger>incfunctional</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

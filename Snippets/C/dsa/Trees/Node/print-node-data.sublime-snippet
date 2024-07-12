@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+std::cout << ${2:node} -> data << std::endl;
+
+]]></content>
+
+  <tabTrigger>prnodedata</tabTrigger>
+
+  <scope>(source.c | source.objc)</scope>
+</snippet>

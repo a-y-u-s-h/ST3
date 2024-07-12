@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-append-another</description>
+	<content><![CDATA[
+${1:frontier}.insert(${1:frontier}.end(), ${2:terminal}.begin(), ${2:terminal}.end());
+]]></content>
+	<tabTrigger>listappendanother</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>Forward list - transfer</description>
+	<content><![CDATA[
+${1:flist}.splice_after(${2:iterators}, ${3:another});
+]]></content>
+	<tabTrigger>sllisttransfer</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

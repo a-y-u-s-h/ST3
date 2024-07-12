@@ -1,0 +1,8 @@
+<snippet>
+	<description>removes consecutive duplicate elements in a range</description>
+	<content><![CDATA[
+std::unique(std::begin($1), std::end($1))
+]]></content>
+	<tabTrigger>unique</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

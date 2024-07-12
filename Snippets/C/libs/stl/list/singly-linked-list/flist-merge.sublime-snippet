@@ -1,0 +1,8 @@
+<snippet>
+	<description>flist-merge</description>
+	<content><![CDATA[
+${1:flist}.merge(${2:another});
+]]></content>
+	<tabTrigger>sllistmerge</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

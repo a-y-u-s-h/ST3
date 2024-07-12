@@ -1,0 +1,18 @@
+<snippet>
+	<description>edit</description>
+	<content><![CDATA[
+/*
+  ======================================
+    Edit file : $1
+  ======================================
+*/
+[=] (const char* f) {
+	std::ofstream file (f, std::ofstream::out);
+	file << "$0";
+	file.close();
+} ("$1");
+
+]]></content>
+	<tabTrigger>edit</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

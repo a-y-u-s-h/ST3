@@ -1,0 +1,8 @@
+<snippet>
+  <description>regex exists in string?</description>
+  <content><![CDATA[
+std::regex_search($1, std::regex("$2"))
+]]></content>
+  <tabTrigger>regexexists</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

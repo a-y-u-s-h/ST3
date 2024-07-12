@@ -1,0 +1,8 @@
+<snippet>
+	<description>print stack</description>
+	<content><![CDATA[
+while (!$1.empty()) { std::cout << $1.top() << " "; $1.pop(); } std::cout << std::endl;
+]]></content>
+	<tabTrigger>printstack</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

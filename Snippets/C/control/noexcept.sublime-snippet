@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+noexcept ${0}
+]]></content>
+
+	<tabTrigger>noexcept</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

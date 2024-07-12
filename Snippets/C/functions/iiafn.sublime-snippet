@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+[${1:&}] (${2:args}) mutable {
+  ${0}
+} (${3:args});
+]]></content>
+
+	<tabTrigger>iiafun</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

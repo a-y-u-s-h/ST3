@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+std::vector<std::vector<$1>> $2 (${3:N}, std::vector<$1> (${4:M}));
+for (int ${5:i} = 0; ${5:i} < ${3:N}; ${5:i}++) { for (int ${6:j} = 0; ${6:j} < ${4:M}; ${6:j}++) { std::cin >> $2[${5:i}][${6:j}]; }}
+]]></content>
+	<tabTrigger>readmatrix</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

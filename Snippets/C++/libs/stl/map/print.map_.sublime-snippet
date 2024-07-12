@@ -2,5 +2,5 @@
 	<description>print map</description>
 	<content><![CDATA[for (auto const &[${2:key}, ${3:value}] : $1) { std::cout << ${2:key} << " " << ${3:value} << ", "; } std::cout << std::endl;]]></content>
 	<tabTrigger>printmap</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<description>print priority_queue</description>
+	<content><![CDATA[
+[](std::priority_queue<int> q) {
+    while (!q.empty()) {
+      std::cout << q.top() << " ";
+      q.pop();
+    }
+    std::cout << std::endl;
+}(${2:target});
+]]></content>
+	<tabTrigger>printpriority_queue</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

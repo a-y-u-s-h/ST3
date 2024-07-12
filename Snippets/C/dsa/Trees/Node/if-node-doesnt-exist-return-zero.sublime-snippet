@@ -1,0 +1,8 @@
+<snippet>
+  <description>Node : exit condition. If no node, exit</description>
+  <content><![CDATA[
+if (!${1:node}) return;
+]]></content>
+  <tabTrigger>nexit</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

@@ -4,5 +4,5 @@
 ${1:flist}.splice_after(${2:iterators}, ${3:another});
 ]]></content>
 	<tabTrigger>sllisttransfer</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

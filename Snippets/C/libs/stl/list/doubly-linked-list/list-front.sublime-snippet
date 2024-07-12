@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-front</description>
+	<content><![CDATA[
+${1:list}.front()
+]]></content>
+	<tabTrigger>listfront</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

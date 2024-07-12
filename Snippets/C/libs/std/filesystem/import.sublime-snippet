@@ -1,0 +1,9 @@
+<snippet>
+	<description>incfs</description>
+	<content><![CDATA[
+#include <fstream>
+
+]]></content>
+	<tabTrigger>incfs</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

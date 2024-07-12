@@ -1,0 +1,8 @@
+<snippet>
+	<description>vector.clear();</description>
+	<content><![CDATA[
+${2:frontier}.insert(std::end(${2:frontier}), std::begin(${3:terminal}), std::end(${3:terminal}));
+]]></content>
+	<tabTrigger>vappend</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

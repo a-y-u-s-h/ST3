@@ -2,5 +2,5 @@
 	<description>1D array</description>
 	<content><![CDATA[${1:int} ${2:name}[${3:size}] = {${4}}]]></content>
 	<tabTrigger>arr</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

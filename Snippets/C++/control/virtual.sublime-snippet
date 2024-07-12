@@ -2,8 +2,8 @@
 	<content><![CDATA[
 virtual ${0}
 ]]></content>
-	
+
 	<tabTrigger>virtual</tabTrigger>
-	
-	<scope>(source.c | source.objc | source.c++ | source.objc++)</scope>
+
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

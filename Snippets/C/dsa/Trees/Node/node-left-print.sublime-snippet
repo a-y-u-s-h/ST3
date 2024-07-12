@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if (${1:node} -> left) ${1:node} -> left -> print();
+
+]]></content>
+
+  <tabTrigger>nlp</tabTrigger>
+
+  <scope>(source.c | source.objc)</scope>
+</snippet>

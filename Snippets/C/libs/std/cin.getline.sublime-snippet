@@ -1,0 +1,6 @@
+<snippet>
+	<description>cin.getline(input, length)</description>
+	<content><![CDATA[std::cin.getline(${2:input}, ${3:length});]]></content>
+	<tabTrigger>getline</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>declare pair with types</description>
+	<content><![CDATA[
+std::pair <${2:data_type1}, ${3:data_type2}> ${4:pair_name} (${5:data_1}, ${6:data_2});
+]]></content>
+	<tabTrigger>initpair</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

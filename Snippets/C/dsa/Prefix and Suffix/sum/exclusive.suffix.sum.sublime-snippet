@@ -1,0 +1,9 @@
+<snippet>
+	<description>exclulsive suffix sum</description>
+	<content><![CDATA[
+std::vector<${3:int}> ${2:suffix}; std::exclusive_scan(std::rbegin($1), std::rend($1), std::back_inserter(${2:suffix}), 0, std::plus());
+$0
+]]></content>
+	<tabTrigger>exclusivesuffixsum</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

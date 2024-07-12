@@ -1,0 +1,8 @@
+<snippet>
+	<description>list.pop_front();</description>
+	<content><![CDATA[
+${1:list}.pop_front();
+]]></content>
+	<tabTrigger>list_pop_front</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

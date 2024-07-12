@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-emplace</description>
+	<content><![CDATA[
+${1:list}.emplace(${2:position}, ${3:value});
+]]></content>
+	<tabTrigger>listemplace</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

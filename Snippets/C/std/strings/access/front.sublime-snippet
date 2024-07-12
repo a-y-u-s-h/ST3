@@ -1,0 +1,8 @@
+<snippet>
+  <description>front</description>
+  <content><![CDATA[
+$0.front()
+]]></content>
+  <tabTrigger>front</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

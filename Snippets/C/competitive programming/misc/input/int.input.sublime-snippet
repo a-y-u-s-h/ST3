@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+int ${1}; scanf("%d", &${1});
+$0
+]]></content>
+  <tabTrigger>readint</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

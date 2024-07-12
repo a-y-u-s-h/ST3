@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+std::llrint($0)
+]]></content>
+  <tabTrigger>llrint</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

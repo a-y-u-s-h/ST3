@@ -1,0 +1,8 @@
+<snippet>
+	<description>list.erase();</description>
+	<content><![CDATA[
+${1:list}.erase(${2:iterator(s)});
+]]></content>
+	<tabTrigger>listerase</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

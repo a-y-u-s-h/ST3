@@ -1,0 +1,8 @@
+<snippet>
+  <description>find_first_not_of</description>
+  <content><![CDATA[
+$1.find_first_not_of($0)
+]]></content>
+  <tabTrigger>find_first_not_of</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

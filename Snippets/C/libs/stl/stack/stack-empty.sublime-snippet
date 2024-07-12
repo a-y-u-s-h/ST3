@@ -1,0 +1,8 @@
+<snippet>
+	<description>stack.empty()</description>
+	<content><![CDATA[
+${1:stack}.empty()
+]]></content>
+	<tabTrigger>stackempty</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

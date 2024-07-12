@@ -1,0 +1,8 @@
+<snippet>
+  <description>#include map</description>
+  <content><![CDATA[#include <map>
+
+]]></content>
+  <tabTrigger>incmap</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

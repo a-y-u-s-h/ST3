@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-merge</description>
+	<content><![CDATA[
+${1:list}.merge(${2:another});
+]]></content>
+	<tabTrigger>listmerge</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

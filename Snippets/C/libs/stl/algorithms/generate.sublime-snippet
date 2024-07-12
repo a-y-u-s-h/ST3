@@ -1,0 +1,8 @@
+<snippet>
+	<description>ascending sort vector</description>
+	<content><![CDATA[
+std::vector<${1:int}> $2 ($4); std::generate(std::begin($2), std::end($2), [i = ${3:1}] () mutable { return ${5:i++}; });
+]]></content>
+	<tabTrigger>generate</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>print array</description>
+	<content><![CDATA[
+std::vector<int> $1 ($3 - $2 + 1); std::iota(std::begin($1), std::end($1), $2);
+]]></content>
+	<tabTrigger>vectorrange</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>make_pair</description>
+	<content><![CDATA[
+std::make_pair(${0})
+]]></content>
+	<tabTrigger>make_pair</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

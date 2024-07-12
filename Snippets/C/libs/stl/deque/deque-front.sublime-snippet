@@ -1,0 +1,8 @@
+<snippet>
+	<description>deque.front()</description>
+	<content><![CDATA[
+${1:deque}.front()
+]]></content>
+	<tabTrigger>dqfront</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

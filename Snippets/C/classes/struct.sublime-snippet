@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+struct ${1} {
+		${0}
+};
+]]></content>
+
+	<tabTrigger>struct</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

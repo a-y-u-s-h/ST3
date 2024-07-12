@@ -1,0 +1,9 @@
+<snippet>
+	<description>inclusive suffix sum</description>
+	<content><![CDATA[
+std::vector<${3:int}> ${2:suffix}; std::partial_sum(std::rbegin($1), std::rend($1), std::back_inserter(${2:suffix}), std::plus());
+$0
+]]></content>
+	<tabTrigger>suffixsum</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

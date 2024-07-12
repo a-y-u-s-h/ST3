@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-end</description>
+	<content><![CDATA[
+${1:list}.end()
+]]></content>
+	<tabTrigger>listend</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

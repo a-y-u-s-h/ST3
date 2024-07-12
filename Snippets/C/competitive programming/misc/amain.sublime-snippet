@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+#include <math.h>
+#include <stdio.h>
+#include <stdbool.h>
+
+int main(int argc, char const *argv[]) {
+	$0
+  return 0;
+}]]></content>
+  <tabTrigger>amain</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

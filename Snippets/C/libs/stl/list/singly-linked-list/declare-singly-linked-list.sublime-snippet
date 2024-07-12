@@ -1,0 +1,8 @@
+<snippet>
+	<description>singly linked list</description>
+	<content><![CDATA[
+std::forward_list <${2:int}> ${0}
+]]></content>
+	<tabTrigger>sllist</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>stack push</description>
+	<content><![CDATA[
+${1:stack}.push(${2});
+]]></content>
+	<tabTrigger>stackpush</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

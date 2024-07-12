@@ -1,0 +1,11 @@
+<snippet>
+	<description>for subarray of an array - k</description>
+	<content><![CDATA[
+for (int ${3:i} = 0; ${3:i} < ${1:N} - ${4:K} + 1; ${3:i}++) {
+  std::vector<int> slice (std::begin(${2}) + ${3:i}, std::begin(${2}) + ${3:i} + ${4:K});
+  $0
+}
+]]></content>
+	<tabTrigger>forsubarrayk</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

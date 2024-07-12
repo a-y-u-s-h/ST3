@@ -1,0 +1,10 @@
+<snippet>
+  <description>regex matched?</description>
+  <content><![CDATA[
+std::regex ${3:expression} ("$2"); for (auto ${4:i} = std::sregex_iterator(std::begin($1), std::end($1), ${3:expression}); ${4:i} != std::sregex_iterator(); ${4:i}++) {
+	$0
+}
+]]></content>
+  <tabTrigger>forregex</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

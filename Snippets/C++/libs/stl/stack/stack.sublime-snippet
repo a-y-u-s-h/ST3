@@ -2,5 +2,5 @@
 	<description>initialize stack</description>
 	<content><![CDATA[std::stack<${1:int}> ${0}]]></content>
 	<tabTrigger>stack</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

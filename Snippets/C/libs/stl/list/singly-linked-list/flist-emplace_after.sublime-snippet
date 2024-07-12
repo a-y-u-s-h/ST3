@@ -1,0 +1,8 @@
+<snippet>
+	<description>Forward list - emplace_after</description>
+	<content><![CDATA[
+${1:flist}.emplace_after(${2:iterator(s)});
+]]></content>
+	<tabTrigger>sllistemplaceafter</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

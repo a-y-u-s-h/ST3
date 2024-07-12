@@ -1,0 +1,8 @@
+<snippet>
+	<description>list--descensing-sort</description>
+	<content><![CDATA[
+${2:list}.sort(std::greater<int>());
+]]></content>
+	<tabTrigger>dsortlist</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

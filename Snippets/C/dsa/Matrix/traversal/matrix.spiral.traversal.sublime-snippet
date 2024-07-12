@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+std::vector<$1> $2;
+
+for (int ${6:T} = 0, ${7:B} = ${4:N} - 1, ${8:L} = 0, ${9:R} = ${5:M} - 1; ${6:T} <= ${7:B} && ${8:L} <= ${9:R};) {
+  for (int j = ${8:L}; j <= ${9:R}; j += 1) { $2.push_back($3[${6:T}][j]); } ${6:T}++;
+  for (int i = ${6:T}; i <= ${7:B}; i += 1) { $2.push_back($3[i][${9:R}]); } ${9:R}--;
+  if (${6:T} <= ${7:B}) { for (int j = ${9:R}; j >= ${8:L}; j -= 1) { $2.push_back($3[${7:B}][j]); } ${7:B}--; }
+  if (${8:L} <= ${9:R}) { for (int i = ${7:B}; i >= ${6:T}; i -= 1) { $2.push_back($3[i][${8:L}]); } ${8:L}++; }
+}
+]]></content>
+	<tabTrigger>matrixspiraltraversal</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

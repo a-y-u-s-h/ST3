@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+this -> left -> data
+]]></content>
+
+  <tabTrigger>tld</tabTrigger>
+
+  <scope>(source.c | source.objc)</scope>
+</snippet>

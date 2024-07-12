@@ -1,0 +1,8 @@
+<snippet>
+	<description>print map</description>
+	<content><![CDATA[
+std::unordered_map<$1> $0
+]]></content>
+	<tabTrigger>unorderedmap</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

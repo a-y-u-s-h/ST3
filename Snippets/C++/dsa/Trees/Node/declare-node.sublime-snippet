@@ -2,8 +2,8 @@
 	<content><![CDATA[
 Node* ${1:root} = new Node (${2});
 ]]></content>
-	
+
 	<tabTrigger>dnode</tabTrigger>
-	
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

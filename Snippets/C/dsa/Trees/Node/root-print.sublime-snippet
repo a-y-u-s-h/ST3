@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if (root) root -> print();
+
+]]></content>
+
+  <tabTrigger>rpp</tabTrigger>
+
+  <scope>(source.c | source.objc)</scope>
+</snippet>

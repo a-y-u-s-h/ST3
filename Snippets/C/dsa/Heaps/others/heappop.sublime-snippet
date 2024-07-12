@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+std::pop_heap(std::begin($1), std::end($1));
+$1.pop_back();
+$0
+]]></content>
+  <tabTrigger>popheap</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

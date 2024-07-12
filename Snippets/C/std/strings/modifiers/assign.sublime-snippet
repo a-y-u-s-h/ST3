@@ -1,0 +1,8 @@
+<snippet>
+  <description>assign</description>
+  <content><![CDATA[
+$1.assign($0)
+]]></content>
+  <tabTrigger>assign</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

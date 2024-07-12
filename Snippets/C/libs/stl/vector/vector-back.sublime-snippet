@@ -1,0 +1,8 @@
+<snippet>
+	<description>vector.back()</description>
+	<content><![CDATA[
+${1:vector}.back()
+]]></content>
+	<tabTrigger>vback</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

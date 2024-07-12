@@ -1,0 +1,8 @@
+<snippet>
+	<description>queue.back()</description>
+	<content><![CDATA[
+${1:queue}.back()
+]]></content>
+	<tabTrigger>queueback</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

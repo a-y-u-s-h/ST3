@@ -1,0 +1,8 @@
+<snippet>
+  <description>#include deque</description>
+  <content><![CDATA[#include <deque>
+
+]]></content>
+  <tabTrigger>incdeque</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

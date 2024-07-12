@@ -1,0 +1,11 @@
+<snippet>
+	<description>print deque</description>
+	<content><![CDATA[
+for (int i : ${2:deque}) {
+  std::cout << i << " ";
+}
+std::cout << std::endl;
+]]></content>
+	<tabTrigger>printdeque</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

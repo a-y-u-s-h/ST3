@@ -1,0 +1,8 @@
+<snippet>
+	<description>queue.empty()</description>
+	<content><![CDATA[
+${1:queue}.empty()
+]]></content>
+	<tabTrigger>queueempty</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

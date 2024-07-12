@@ -1,0 +1,8 @@
+<snippet>
+	<description>list.pop_back();</description>
+	<content><![CDATA[
+${1:list}.pop_back();
+]]></content>
+	<tabTrigger>list_pop_back</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

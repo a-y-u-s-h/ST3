@@ -1,0 +1,8 @@
+<snippet>
+	<description>concatenate 2 vectors into 1st</description>
+	<content><![CDATA[
+$1.insert(std::end($1), std::begin($2), std::end($2));
+]]></content>
+	<tabTrigger>concatenate</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<description>float variable</description>
+	<content><![CDATA[
+float ${1:variable} = ${2:value};
+
+]]></content>
+	<tabTrigger>vfloat</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

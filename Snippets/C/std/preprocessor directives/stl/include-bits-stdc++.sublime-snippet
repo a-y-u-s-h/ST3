@@ -1,0 +1,8 @@
+<snippet>
+	<description>#include bits/stdc++.h</description>
+	<content><![CDATA[#include <bits/stdc++.h>
+
+]]></content>
+	<tabTrigger>incb</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

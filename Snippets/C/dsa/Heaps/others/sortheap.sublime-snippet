@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+std::sort_heap(std::begin($1), std::end($1));
+
+]]></content>
+  <tabTrigger>sortheap</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

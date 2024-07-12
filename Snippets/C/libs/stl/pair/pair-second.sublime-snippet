@@ -1,0 +1,8 @@
+<snippet>
+	<description>pair.second</description>
+	<content><![CDATA[
+${1:pair}.second
+]]></content>
+	<tabTrigger>pairsecond</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

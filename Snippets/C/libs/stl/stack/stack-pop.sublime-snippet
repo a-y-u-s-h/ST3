@@ -1,0 +1,8 @@
+<snippet>
+	<description>stack pop</description>
+	<content><![CDATA[
+${1:stack}.pop();
+]]></content>
+	<tabTrigger>stackpop</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

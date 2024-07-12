@@ -1,0 +1,8 @@
+<snippet>
+	<description>priority_queue.empty()</description>
+	<content><![CDATA[
+${1:priority_queue}.empty()
+]]></content>
+	<tabTrigger>priority_queueempty</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

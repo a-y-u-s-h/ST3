@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Node* ${1:root} = new Node (${2});
+]]></content>
+
+	<tabTrigger>dnode</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

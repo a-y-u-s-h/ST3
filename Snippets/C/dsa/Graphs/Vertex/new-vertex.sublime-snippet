@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Vertex* ${1} = new Vertex(${2});
+]]></content>
+
+	<tabTrigger>nv</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

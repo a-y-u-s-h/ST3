@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+${1:long long} C (${1:long long} n, ${1:long long} r) {
+  if(r > n - r) r = n - r;
+  ${1:long long} answer = 1; for (${1:long long} i = 1; i <= r; i++) { answer *= n - r + i; answer /= i; }
+  return answer;
+}
+]]></content>
+	<tabTrigger>ncr</tabTrigger>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+</snippet>

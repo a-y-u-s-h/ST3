@@ -1,0 +1,8 @@
+<snippet>
+  <description>#include algorithm</description>
+  <content><![CDATA[#include <algorithm>
+
+]]></content>
+  <tabTrigger>incalgorithm</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

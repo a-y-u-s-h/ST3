@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+std::rotate(std::rbegin($1), $1.rbegin() + ${2:1},std::rend($1));
+]]></content>
+  <tabTrigger>rotateright</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

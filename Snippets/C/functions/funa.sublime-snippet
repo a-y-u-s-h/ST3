@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[auto ${1:function} = [${3:&}] (${4}) mutable {
+	${0}
+};
+]]></content>
+
+	<tabTrigger>funa</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

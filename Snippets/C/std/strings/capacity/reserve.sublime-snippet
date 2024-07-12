@@ -1,0 +1,8 @@
+<snippet>
+  <description>reserve</description>
+  <content><![CDATA[
+$0.reserve()
+]]></content>
+  <tabTrigger>reserve</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-size</description>
+	<content><![CDATA[
+${1:list}.size()
+]]></content>
+	<tabTrigger>listsize</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

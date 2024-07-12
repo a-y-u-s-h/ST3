@@ -4,5 +4,5 @@
 std::unique_copy(std::begin($1), std::end($1), std::back_inserter($2), [$3] (auto const &$4, auto const &$5) { return $0; });
 ]]></content>
 	<tabTrigger>uniquecopy</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

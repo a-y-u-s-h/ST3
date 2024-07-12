@@ -1,0 +1,64 @@
+<snippet>
+	<content><![CDATA[
+/*
+ |======================================================================|
+
+    /\$\$   /\$\$  /\$\$\$\$\$\$  /\$\$\$\$\$\$\$  /\$\$\$\$\$\$\$\$
+   | \$\$\$ | \$\$ /\$\$__  \$\$| \$\$__  \$\$| \$\$_____/
+   | \$\$\$\$| \$\$| \$\$  \ \$\$| \$\$  \ \$\$| \$\$
+   | \$\$ \$\$ \$\$| \$\$  | \$\$| \$\$  | \$\$| \$\$\$\$\$
+   | \$\$  \$\$\$\$| \$\$  | \$\$| \$\$  | \$\$| \$\$__/
+   | \$\$\  \$\$\$| \$\$  | \$\$| \$\$  | \$\$| \$\$
+   | \$\$ \  \$\$|  \$\$\$\$\$\$/| \$\$\$\$\$\$\$/| \$\$\$\$\$\$\$\$
+   |__/  \__/ \______/ |_______/ |________/
+
+
+  A node contains some data and pointers to roots of its
+  left and right subtrees. To be used with Tree class.
+
+  @constructor : data = 0
+
+  @methods :
+
+  1. print : end = " " : prints data of node with ending character if supplied.
+
+  @usage :
+
+  Node* node = new Node(value)  : Creating a node.
+
+  node -> data                  : Accessing data.
+  node -> left -> data          : Accessing data of root of left subtree.
+  node -> right -> data         : Accessing data of root of right subtree.
+
+  node -> print()               : Printing data.
+  node -> left -> print()       : Printing data of root of left subtree.
+  node -> right -> print()      : Printing data of root of right subtree.
+
+ |======================================================================|
+*/
+
+class Node {
+  public:
+    int data;
+    Node* left;
+    Node* right;
+
+  public:
+    Node(int data = 0)  {
+      this -> data = data;
+      this -> left = NULL;
+      this -> right = NULL;
+    }
+
+    void print(const char* end = " ") {
+      std::cout << this -> data << end;
+    }
+};
+
+
+]]></content>
+
+	<tabTrigger>node</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

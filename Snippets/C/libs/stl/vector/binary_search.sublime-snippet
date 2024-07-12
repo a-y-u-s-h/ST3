@@ -1,0 +1,8 @@
+<snippet>
+	<description>binary_search</description>
+	<content><![CDATA[
+std::binary_search(begin(std::${2:}), std::end(${2:}), ${3:value})
+]]></content>
+	<tabTrigger>binary_search</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

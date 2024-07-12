@@ -1,0 +1,8 @@
+<snippet>
+	<description>queue.front()</description>
+	<content><![CDATA[
+${1:queue}.front()
+]]></content>
+	<tabTrigger>queuefront</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

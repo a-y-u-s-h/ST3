@@ -1,0 +1,8 @@
+<snippet>
+	<description>fill n</description>
+	<content><![CDATA[
+std::fill_n(std::begin($1), std::end($1), $2, $3);
+]]></content>
+	<tabTrigger>filln</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

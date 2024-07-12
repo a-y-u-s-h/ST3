@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[[${1:capture}] (${2:args}) -> ${3:return-type} {
+  ${0}
+}
+]]></content>
+
+	<tabTrigger>afun</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

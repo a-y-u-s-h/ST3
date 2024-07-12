@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+default:
+	${0}
+break;
+]]></content>
+
+	<tabTrigger>default</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

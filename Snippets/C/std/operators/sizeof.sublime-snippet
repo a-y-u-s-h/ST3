@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+sizeof(${1})
+]]></content>
+
+	<tabTrigger>sizeof</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

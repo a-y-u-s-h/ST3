@@ -2,7 +2,7 @@
   <content><![CDATA[
 class ${1:C} {
   private:
-  
+
   public:
     ${1:C} ();
 
@@ -12,5 +12,5 @@ class ${1:C} {
 };
 ]]></content>
   <tabTrigger>iclass</tabTrigger>
-  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+  <scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

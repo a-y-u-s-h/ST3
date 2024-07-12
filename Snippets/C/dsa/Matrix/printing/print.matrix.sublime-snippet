@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+for (int ${2:i} = 0; ${2:i} < $1.size(); ${2:i}++) { for (int ${3:j} = 0; ${3:j} < $1[${2:i}].size(); ${3:j}++) { std::cout << $1[${2:i}][${3:j}] << " "; } std::cout << std::endl; }
+]]></content>
+	<tabTrigger>printmatrix</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

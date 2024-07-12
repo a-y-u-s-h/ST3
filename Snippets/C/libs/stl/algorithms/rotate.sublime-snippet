@@ -1,0 +1,8 @@
+<snippet>
+	<description>ascending sort vector</description>
+	<content><![CDATA[
+std::rotate(std::begin($1), std::begin($1) + $2, std::end($1));
+]]></content>
+	<tabTrigger>rotate</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

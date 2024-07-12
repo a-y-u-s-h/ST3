@@ -1,0 +1,8 @@
+<snippet>
+	<description>find in collection</description>
+	<content><![CDATA[
+std::find(std::begin($2), std::end($2), $1)
+]]></content>
+	<tabTrigger>find</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

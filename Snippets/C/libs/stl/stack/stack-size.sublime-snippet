@@ -1,0 +1,8 @@
+<snippet>
+	<description>stack-size</description>
+	<content><![CDATA[
+${1:stack}.size()
+]]></content>
+	<tabTrigger>stacksize</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

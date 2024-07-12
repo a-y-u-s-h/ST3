@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+for (int ${3:i} = ${1:N} - 1; ${3:i} >= 0; ${3:i}--) {
+	for (int ${4:j} = 0; ${4:j} < ${2:M}; ${4:j}++) {
+		$0
+	}
+}
+]]></content>
+	<tabTrigger>matrixupsidedowntraversal</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

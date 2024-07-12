@@ -1,0 +1,8 @@
+<snippet>
+	<description>begin(..), end(..)</description>
+	<content><![CDATA[
+std::begin(${2:}), std::end(${2:})
+]]></content>
+	<tabTrigger>beend</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

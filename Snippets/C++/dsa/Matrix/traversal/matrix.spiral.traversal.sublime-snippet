@@ -10,5 +10,5 @@ for (int ${6:T} = 0, ${7:B} = ${4:N} - 1, ${8:L} = 0, ${9:R} = ${5:M} - 1; ${6:T
 }
 ]]></content>
 	<tabTrigger>matrixspiraltraversal</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

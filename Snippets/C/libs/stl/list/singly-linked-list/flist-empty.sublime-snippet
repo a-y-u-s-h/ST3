@@ -1,0 +1,8 @@
+<snippet>
+	<description>flist.empty()</description>
+	<content><![CDATA[
+${1:flist}.empty()
+]]></content>
+	<tabTrigger>sllistempty</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

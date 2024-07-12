@@ -1,0 +1,8 @@
+<snippet>
+	<description>merge 2 containers</description>
+	<content><![CDATA[
+std::merge(std::begin($1), std::end($1), std::begin($2), std::end($2), std::begin($3));
+]]></content>
+	<tabTrigger>merge</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

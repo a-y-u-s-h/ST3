@@ -1,0 +1,8 @@
+<snippet>
+	<description>doubly linked list</description>
+	<content><![CDATA[
+std::list <${2:int}> ${0}
+]]></content>
+	<tabTrigger>dllist</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

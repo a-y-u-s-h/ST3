@@ -2,8 +2,8 @@
 	<content><![CDATA[
 Vertex* ${1} = new Vertex(${2});
 ]]></content>
-	
+
 	<tabTrigger>nv</tabTrigger>
-	
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

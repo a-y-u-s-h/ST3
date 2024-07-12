@@ -1,0 +1,6 @@
+<snippet>
+	<description>string variable</description>
+	<content><![CDATA[string ${1:s} = "${2}";]]></content>
+	<tabTrigger>vstring</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>std::endl</description>
+	<content><![CDATA[<< std::endl;]]></content>
+	<tabTrigger>sendl</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

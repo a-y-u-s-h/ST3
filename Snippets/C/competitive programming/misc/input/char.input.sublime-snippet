@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+char ${1}; scanf("%c", &${1});
+$0
+]]></content>
+  <tabTrigger>readchar</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

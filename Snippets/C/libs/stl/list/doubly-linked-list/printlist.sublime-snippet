@@ -1,0 +1,11 @@
+<snippet>
+	<description>list-print</description>
+	<content><![CDATA[
+for (auto i : ${2:list}) {
+  std::cout << i << " ";
+}
+std::cout << std::endl;
+]]></content>
+	<tabTrigger>printlist</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

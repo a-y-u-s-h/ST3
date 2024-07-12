@@ -1,0 +1,10 @@
+<snippet>
+    <description>Regular function</description>
+    <content><![CDATA[
+template <typename ${1:T}>
+${2:void} ${3:function} (${4}) {
+  ${0}
+}]]></content>
+    <tabTrigger>tfun</tabTrigger>
+    <scope>(source.c | source.objc), source.objc, (source.c | source.objc)++, source.objc++</scope>
+</snippet>

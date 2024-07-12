@@ -1,0 +1,8 @@
+<snippet>
+  <description>printf</description>
+  <content><![CDATA[
+printf(${0});
+]]></content>
+  <tabTrigger>prn</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

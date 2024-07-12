@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+std::is_same($0)::value
+]]></content>
+  <tabTrigger>issame</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

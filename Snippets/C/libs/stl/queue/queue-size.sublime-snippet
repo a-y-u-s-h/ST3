@@ -1,0 +1,8 @@
+<snippet>
+	<description>queue-size</description>
+	<content><![CDATA[
+${1:queue}.size()
+]]></content>
+	<tabTrigger>queuesize</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>get a set of distinct elements</description>
+	<content><![CDATA[
+std::set ${2:D} (std::begin($1), std::end($1));
+]]></content>
+	<tabTrigger>distinct</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

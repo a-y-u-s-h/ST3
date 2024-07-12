@@ -1,0 +1,8 @@
+<snippet>
+	<description>queue push</description>
+	<content><![CDATA[
+${1:queue}.push(${2});
+]]></content>
+	<tabTrigger>queuepush</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

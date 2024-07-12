@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+std::tan($0)
+]]></content>
+  <tabTrigger>tan</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

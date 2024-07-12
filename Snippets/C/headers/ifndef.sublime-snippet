@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+#ifndef $1
+#define $1
+
+	$0
+
+#endif
+]]></content>
+	<tabTrigger>ifndef</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>element exists?</description>
+	<content><![CDATA[
+std::transform(std::begin($1), std::end($1), std::begin($2), std::back_inserter($3), [](auto const &a, auto const &b) { return $0; });
+]]></content>
+	<tabTrigger>zip</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

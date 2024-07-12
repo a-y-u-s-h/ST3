@@ -1,0 +1,6 @@
+<snippet>
+  <description>declare stringstream</description>
+  <content><![CDATA[::iterator]]></content>
+  <tabTrigger>iterator</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

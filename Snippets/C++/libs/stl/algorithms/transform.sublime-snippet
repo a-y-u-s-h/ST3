@@ -4,5 +4,5 @@
 std::transform(std::begin($1), std::end($1), std::begin($1), [$2] (auto const &$3) { return $0; });
 ]]></content>
 	<tabTrigger>transform</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

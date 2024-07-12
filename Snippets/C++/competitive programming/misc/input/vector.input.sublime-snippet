@@ -4,5 +4,5 @@ std::vector<${1:int}> ${3};
 for (int ${4:n} = 0; ${4:n} < ${5:N}; ${4:n}++) { ${1:int} ${2}; std::cin >> ${2}; ${3}.push_back(${2}); }
 $0]]></content>
   <tabTrigger>readvector</tabTrigger>
-  <scope>(source.c | source.objc | source.c++ | source.objc++)</scope>
+  <scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

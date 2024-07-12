@@ -1,0 +1,6 @@
+<snippet>
+	<description>vector back_insert</description>
+	<content><![CDATA[std::copy(std::begin(${2:from}), std::end(${2:from}) , back_inserter(${3:into}));]]></content>
+	<tabTrigger>vbackinsert</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

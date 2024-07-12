@@ -1,0 +1,9 @@
+<snippet>
+  <description>#include stdio.h</description>
+  <content><![CDATA[
+#include <stdio.h>
+
+]]></content>
+  <tabTrigger>incio</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

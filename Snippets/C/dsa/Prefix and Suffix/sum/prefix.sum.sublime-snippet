@@ -1,0 +1,9 @@
+<snippet>
+	<description>inclusive prefix sum</description>
+	<content><![CDATA[
+std::vector<${3:int}> ${2:prefix}; std::partial_sum(std::begin($1), std::end($1), std::back_inserter(${2:prefix}), std::plus());
+$0
+]]></content>
+	<tabTrigger>prefixsum</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

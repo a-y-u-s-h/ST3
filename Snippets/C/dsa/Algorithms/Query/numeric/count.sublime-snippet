@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+std::count(std::begin($1), std::end($1), $0)
+]]></content>
+
+  <tabTrigger>count</tabTrigger>
+
+  <scope>(source.c | source.objc)</scope>
+</snippet>

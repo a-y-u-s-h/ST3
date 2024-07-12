@@ -1,0 +1,8 @@
+<snippet>
+  <description>rbegin</description>
+  <content><![CDATA[
+std::rbegin($0)
+]]></content>
+  <tabTrigger>rbegin</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

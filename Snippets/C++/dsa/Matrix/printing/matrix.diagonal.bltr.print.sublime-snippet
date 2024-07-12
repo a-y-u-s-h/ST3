@@ -4,5 +4,5 @@ for (int ${7:d} = 0; ${7:d} < ${3:N} + ${4:M} - 1; ${7:d}++) { for (int ${5:i} =
 $0
 ]]></content>
 	<tabTrigger>printmatrixdiagonallybottomlefttopright</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

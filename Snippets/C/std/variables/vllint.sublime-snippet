@@ -1,0 +1,9 @@
+<snippet>
+	<description>long long int variable</description>
+	<content><![CDATA[
+long long int ${1:variable} = ${2:value};
+
+]]></content>
+	<tabTrigger>vllint</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

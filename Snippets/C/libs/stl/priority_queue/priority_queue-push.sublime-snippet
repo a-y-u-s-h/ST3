@@ -1,0 +1,8 @@
+<snippet>
+	<description>priority_queue push</description>
+	<content><![CDATA[
+${1:priority_queue}.push(${2});
+]]></content>
+	<tabTrigger>priority_queuepush</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

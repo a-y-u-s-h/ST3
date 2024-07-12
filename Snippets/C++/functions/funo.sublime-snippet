@@ -7,5 +7,5 @@ ${1:void} $2 (${3}) {
 
 	<tabTrigger>funo</tabTrigger>
 
-	<scope>source.c, source.objc, source.c++, source.objc++</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

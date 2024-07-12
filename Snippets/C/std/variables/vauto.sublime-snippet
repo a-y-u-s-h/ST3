@@ -1,0 +1,9 @@
+<snippet>
+	<description>auto variable</description>
+	<content><![CDATA[
+auto ${1:variable} = ${2:value};
+
+]]></content>
+	<tabTrigger>vauto</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

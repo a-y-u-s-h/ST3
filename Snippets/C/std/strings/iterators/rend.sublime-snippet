@@ -1,0 +1,8 @@
+<snippet>
+  <description>rend</description>
+  <content><![CDATA[
+std::rend($0)
+]]></content>
+  <tabTrigger>rend</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

@@ -4,5 +4,5 @@
 std::rotate(std::begin($1), std::begin($1) + $2, std::end($1));
 ]]></content>
 	<tabTrigger>rotate</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

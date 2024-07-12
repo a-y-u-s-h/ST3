@@ -1,0 +1,8 @@
+<snippet>
+	<description>ascending sort vector</description>
+	<content><![CDATA[
+std::sort(begin(${2:arr}), end(${2:arr}));
+]]></content>
+	<tabTrigger>asortarray</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

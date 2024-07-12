@@ -8,5 +8,5 @@ for (int ${4:T} = 0, ${5:B} = ${2:N} - 1, ${6:L} = 0, ${7:R} = ${3:M} - 1; ${4:T
 }
 ]]></content>
 	<tabTrigger>printmatrixspirally</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

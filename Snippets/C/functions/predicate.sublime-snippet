@@ -1,0 +1,8 @@
+<snippet>
+	<description>unary predicate</description>
+	<content><![CDATA[
+[$1] (auto const &$2) { return $0; }
+]]></content>
+	<tabTrigger>predicate</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -3,5 +3,5 @@
 std::cout << (condition ? "YES" : "NO") << std::endl;
 ]]></content>
   <tabTrigger>yesno</tabTrigger>
-  <scope>(source.c | source.objc | source.c++ | source.objc++)</scope>
+  <scope>(source.c++ | source.objc++)</scope>
 </snippet>

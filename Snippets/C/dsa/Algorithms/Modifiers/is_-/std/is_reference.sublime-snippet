@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+std::is_reference($0)
+]]></content>
+  <tabTrigger>isreference</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

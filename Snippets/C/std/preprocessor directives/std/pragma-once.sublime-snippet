@@ -1,0 +1,9 @@
+<snippet>
+	<description>#pragma once</description>
+	<content><![CDATA[#pragma once
+
+
+]]></content>
+	<tabTrigger>po</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

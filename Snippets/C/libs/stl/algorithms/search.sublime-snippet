@@ -1,0 +1,8 @@
+<snippet>
+	<description>search subsequence</description>
+	<content><![CDATA[
+std::search(std::begin($1), std::end($1), std::begin($2), std::end($2))
+]]></content>
+	<tabTrigger>search</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

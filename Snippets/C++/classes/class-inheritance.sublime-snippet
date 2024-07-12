@@ -7,5 +7,5 @@ class ${1:A} :${3: virtual}${4: public} ${2:B} {
 
 	<tabTrigger>classextends</tabTrigger>
 
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <description>#include vector</description>
+  <content><![CDATA[#include <vector>
+
+]]></content>
+  <tabTrigger>incvector</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

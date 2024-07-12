@@ -1,0 +1,8 @@
+<snippet>
+  <description>replace</description>
+  <content><![CDATA[
+$1.replace($0)
+]]></content>
+  <tabTrigger>replace</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+for (int ${4:n} = 0; ${4:n} < ${5:N}; ${4:n}++) { scanf("%${6:d}", &$3[${4:i}]); }
+$0]]></content>
+  <tabTrigger>cinvector</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

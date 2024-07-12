@@ -1,0 +1,9 @@
+<snippet>
+	<description>int variable</description>
+	<content><![CDATA[
+int ${1:variable} = ${2:value};
+
+]]></content>
+	<tabTrigger>vint</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

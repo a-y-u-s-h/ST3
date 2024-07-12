@@ -2,5 +2,5 @@
 	<description>long int keyword</description>
 	<content><![CDATA[long int ${0}]]></content>
 	<tabTrigger>lint</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

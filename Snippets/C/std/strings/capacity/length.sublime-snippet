@@ -1,0 +1,8 @@
+<snippet>
+  <description>length</description>
+  <content><![CDATA[
+strlen($0)
+]]></content>
+  <tabTrigger>length</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

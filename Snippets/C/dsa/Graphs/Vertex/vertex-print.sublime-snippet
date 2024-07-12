@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+if (${1:vertex}) ${1:vertex} -> print();
+]]></content>
+
+	<tabTrigger>vpp</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

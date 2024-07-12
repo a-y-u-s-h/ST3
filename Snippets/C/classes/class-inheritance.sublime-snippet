@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+class ${1:A} :${3: virtual}${4: public} ${2:B} {
+	${0}
+};
+]]></content>
+
+	<tabTrigger>classextends</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

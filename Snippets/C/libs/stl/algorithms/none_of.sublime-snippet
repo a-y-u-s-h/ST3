@@ -1,0 +1,8 @@
+<snippet>
+	<description>none satisfy predicate</description>
+	<content><![CDATA[
+std::none_of(std::begin($1), std::end($1), [](auto const &$3) { return $4; })
+]]></content>
+	<tabTrigger>none_of</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>cin.get()</description>
+	<content><![CDATA[std::this_thread]]></content>
+	<tabTrigger>tt</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

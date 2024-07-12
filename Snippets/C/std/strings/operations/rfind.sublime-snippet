@@ -1,0 +1,8 @@
+<snippet>
+  <description>rfind</description>
+  <content><![CDATA[
+$1.rfind($0)
+]]></content>
+  <tabTrigger>rfind</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

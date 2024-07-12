@@ -1,0 +1,8 @@
+<snippet>
+  <description>new-line</description>
+  <content><![CDATA[
+std::boolalpha << $0
+]]></content>
+  <tabTrigger>ba</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

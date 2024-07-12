@@ -4,5 +4,5 @@
 auto ${2:D} = std::set(std::begin($1), std::end($1)); std::vector<int> ${4:F} (${2:D}.size()); std::transform(std::begin(${2:D}), std::end(${2:D}), std::begin(${4:F}), [$1](auto const &${3:d}) { return std::count(std::begin($1), std::end($1), d); });
 ]]></content>
 	<tabTrigger>distinctfrequencies</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

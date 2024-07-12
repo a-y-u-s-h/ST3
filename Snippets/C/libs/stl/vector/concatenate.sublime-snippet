@@ -1,0 +1,11 @@
+<snippet>
+	<description>concatenate 2 vectors into 3rd</description>
+	<content><![CDATA[
+std::vector<int> $1;
+$1.reserve($2.size() + $3.size());
+$1.insert(std::end($1), std::begin($2), std::end($2));
+$1.insert(std::end($1), std::begin($3), std::end($3));
+]]></content>
+	<tabTrigger>mapconcatenate</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

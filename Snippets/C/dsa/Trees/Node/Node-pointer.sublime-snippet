@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Node* ${0}
+]]></content>
+
+	<tabTrigger>np</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -6,5 +6,5 @@ std::regex ${3:expression} ("$2"); for (auto ${4:i} = std::sregex_iterator(std::
 }
 ]]></content>
   <tabTrigger>forregex</tabTrigger>
-  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+  <scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>priority_queue-length</description>
+	<content><![CDATA[
+${1:priority_queue}.size()
+]]></content>
+	<tabTrigger>priority_queuelength</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

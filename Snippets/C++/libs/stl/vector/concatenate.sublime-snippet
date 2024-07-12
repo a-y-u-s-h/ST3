@@ -7,5 +7,5 @@ $1.insert(std::end($1), std::begin($2), std::end($2));
 $1.insert(std::end($1), std::begin($3), std::end($3));
 ]]></content>
 	<tabTrigger>mapconcatenate</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

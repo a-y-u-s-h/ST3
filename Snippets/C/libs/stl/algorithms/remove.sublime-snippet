@@ -1,0 +1,8 @@
+<snippet>
+	<description>any satisfy predicate</description>
+	<content><![CDATA[
+$1.erase(std::remove(std::begin($1), std::end($1), $0), std::end($1));
+]]></content>
+	<tabTrigger>remove</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

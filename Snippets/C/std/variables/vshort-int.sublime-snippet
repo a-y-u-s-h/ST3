@@ -1,0 +1,9 @@
+<snippet>
+	<description>short int variable</description>
+	<content><![CDATA[
+short int ${1:variable} = ${2:value};
+
+]]></content>
+	<tabTrigger>vsint</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

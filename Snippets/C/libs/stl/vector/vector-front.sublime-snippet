@@ -1,0 +1,8 @@
+<snippet>
+	<description>vector.front()</description>
+	<content><![CDATA[
+${1:vector}.front()
+]]></content>
+	<tabTrigger>vfront</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

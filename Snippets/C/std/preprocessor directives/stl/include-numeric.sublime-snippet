@@ -1,0 +1,8 @@
+<snippet>
+  <description>#include numeric</description>
+  <content><![CDATA[#include <numeric>
+
+]]></content>
+  <tabTrigger>incnumeric</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

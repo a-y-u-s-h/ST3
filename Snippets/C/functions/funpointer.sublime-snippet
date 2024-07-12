@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:void}(*${2:func})(${0})
+]]></content>
+
+	<tabTrigger>funp</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

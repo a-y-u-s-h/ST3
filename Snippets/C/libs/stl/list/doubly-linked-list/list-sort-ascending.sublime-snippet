@@ -1,0 +1,8 @@
+<snippet>
+	<description>list--ascending-sort</description>
+	<content><![CDATA[
+${1:list}.sort();
+]]></content>
+	<tabTrigger>asortlist</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

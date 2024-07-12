@@ -1,0 +1,8 @@
+<snippet>
+	<description>consecutive elements equal (first)</description>
+	<content><![CDATA[
+std::adjacent_find(std::begin($1), std::end($1))
+]]></content>
+	<tabTrigger>adjacentfind</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

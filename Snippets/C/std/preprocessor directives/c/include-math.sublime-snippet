@@ -1,0 +1,8 @@
+<snippet>
+  <description>#include bits/stdc++.h</description>
+  <content><![CDATA[#include <math.h>
+
+]]></content>
+  <tabTrigger>incmath</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

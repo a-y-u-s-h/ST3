@@ -1,0 +1,8 @@
+<snippet>
+  <description>compare</description>
+  <content><![CDATA[
+$1.compare($0)
+]]></content>
+  <tabTrigger>compare</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

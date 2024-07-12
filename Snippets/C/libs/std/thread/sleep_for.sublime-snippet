@@ -1,0 +1,6 @@
+<snippet>
+	<description>cin.get()</description>
+	<content><![CDATA[sleep_for(${1:})]]></content>
+	<tabTrigger>sleepfor</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

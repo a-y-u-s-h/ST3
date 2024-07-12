@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-insert</description>
+	<content><![CDATA[
+${1:list}.insert(${2:iterator}, ${3:value});
+]]></content>
+	<tabTrigger>listinsert</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

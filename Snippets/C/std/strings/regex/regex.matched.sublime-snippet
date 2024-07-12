@@ -1,0 +1,8 @@
+<snippet>
+  <description>regex matched?</description>
+  <content><![CDATA[
+std::regex_search($1, std::regex("$2"))
+]]></content>
+  <tabTrigger>regexmatched</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

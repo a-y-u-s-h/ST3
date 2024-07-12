@@ -1,0 +1,8 @@
+<snippet>
+	<description>get</description>
+	<content><![CDATA[
+std::get<$1>(${2})
+]]></content>
+	<tabTrigger>get</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

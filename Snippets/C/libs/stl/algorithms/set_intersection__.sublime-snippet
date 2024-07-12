@@ -1,0 +1,8 @@
+<snippet>
+	<description>ascending sort vector</description>
+	<content><![CDATA[
+std::vector<$3> $4 ($1.size() + $2.size()); std::set_intersection(std::begin($1), std::end($1), std::begin($2), std::end($2), std::begin($4));
+]]></content>
+	<tabTrigger>intersection</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

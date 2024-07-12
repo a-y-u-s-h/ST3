@@ -1,0 +1,8 @@
+<snippet>
+	<description>list-back</description>
+	<content><![CDATA[
+${1:list}.back()
+]]></content>
+	<tabTrigger>listback</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

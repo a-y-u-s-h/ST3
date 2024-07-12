@@ -1,0 +1,8 @@
+<snippet>
+	<description>main</description>
+	<content><![CDATA[
+#include $0
+]]></content>
+	<tabTrigger>include</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -4,5 +4,5 @@
 $1.find($2) != std::string::npos
 ]]></content>
   <tabTrigger>stringcontainssubstring</tabTrigger>
-  <scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+  <scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

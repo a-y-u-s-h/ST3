@@ -1,0 +1,8 @@
+<snippet>
+	<description>search subsequence if</description>
+	<content><![CDATA[
+std::search(std::begin($1), std::end($1), std::begin($2), std::end($2), [$3] (auto const &$4, auto const &$5) { return $0; })
+]]></content>
+	<tabTrigger>searchif</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

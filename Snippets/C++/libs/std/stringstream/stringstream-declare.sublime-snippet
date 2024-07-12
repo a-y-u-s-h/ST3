@@ -2,5 +2,5 @@
 	<description>declare stringstream</description>
 	<content><![CDATA[std::stringstream ${2:stream} (${3:string});]]></content>
 	<tabTrigger>dstringstream</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

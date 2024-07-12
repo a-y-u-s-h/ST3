@@ -1,0 +1,8 @@
+<snippet>
+	<description>new-line</description>
+	<content><![CDATA[
+printf("\n");
+]]></content>
+	<tabTrigger>nl</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

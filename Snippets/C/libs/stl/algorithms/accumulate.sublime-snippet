@@ -1,0 +1,8 @@
+<snippet>
+	<description>ascending sort vector</description>
+	<content><![CDATA[
+std::accumulate(std::begin($1), std::end($1), ${2:0})
+]]></content>
+	<tabTrigger>accumulate</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

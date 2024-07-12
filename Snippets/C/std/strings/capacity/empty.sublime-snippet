@@ -1,0 +1,8 @@
+<snippet>
+  <description>empty</description>
+  <content><![CDATA[
+$0.empty()
+]]></content>
+  <tabTrigger>empty</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

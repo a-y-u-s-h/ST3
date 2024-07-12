@@ -1,0 +1,8 @@
+<snippet>
+	<description>deque.erase();</description>
+	<content><![CDATA[
+${1:deque}.erase(${2:iterator(s)});
+]]></content>
+	<tabTrigger>dqerase</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

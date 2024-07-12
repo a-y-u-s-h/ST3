@@ -1,0 +1,8 @@
+<snippet>
+	<description>print pair</description>
+	<content><![CDATA[
+std::cout << ${2:pair}.first << " " << ${2:pair}.second << std::endl;
+]]></content>
+	<tabTrigger>printpair</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

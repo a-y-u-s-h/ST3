@@ -1,8 +1,8 @@
 <snippet>
 	<description>ascending sort vector</description>
 	<content><![CDATA[
-std::partial_sum(std::begin($1), std::end($1), std::begin($2));
+std::partial_sum(std::begin($1), std::end($1), std::back_inserter($2));
 ]]></content>
 	<tabTrigger>partialsum</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

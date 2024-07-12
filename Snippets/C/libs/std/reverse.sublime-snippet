@@ -1,0 +1,9 @@
+<snippet>
+	<description>for vector</description>
+	<content><![CDATA[
+std::reverse(std::begin(${1:}), std::end(${1:}));
+
+]]></content>
+	<tabTrigger>reverse</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

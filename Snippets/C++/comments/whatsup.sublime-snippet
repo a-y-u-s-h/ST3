@@ -2,17 +2,17 @@
 	<content><![CDATA[
 /*
  |======================================================================|
- 
+
    Purpose of ${1} :
- 
+
    ${2}
- 
+
  |======================================================================|
 */
 
 
 ]]></content>
 	<tabTrigger>whatsup</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 	<description>whatsup</description>
 </snippet>

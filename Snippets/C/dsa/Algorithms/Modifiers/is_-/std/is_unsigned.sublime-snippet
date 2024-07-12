@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+std::is_unsigned($0)
+]]></content>
+  <tabTrigger>isunsigned</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

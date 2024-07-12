@@ -1,0 +1,8 @@
+<snippet>
+	<description>element exists?</description>
+	<content><![CDATA[
+std::find(std::begin($2), std::end($2), $1) != std::end($2)
+]]></content>
+	<tabTrigger>contains</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

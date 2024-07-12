@@ -1,0 +1,8 @@
+<snippet>
+	<description>Forward list - insert_after</description>
+	<content><![CDATA[
+${1:flist}.insert_after(${2:iterator});
+]]></content>
+	<tabTrigger>sllistinsertafter</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>ascending sort vector</description>
+	<content><![CDATA[
+std::count_if(std::begin($2), std::end($2), [$3] (auto const &$4) { return $5; });
+]]></content>
+	<tabTrigger>countif</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

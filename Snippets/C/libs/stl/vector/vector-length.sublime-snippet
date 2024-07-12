@@ -1,0 +1,8 @@
+<snippet>
+	<description>vector-length</description>
+	<content><![CDATA[
+${1:vector}.size()
+]]></content>
+	<tabTrigger>vectorlength</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

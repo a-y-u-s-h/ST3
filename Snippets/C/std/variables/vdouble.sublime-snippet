@@ -1,0 +1,9 @@
+<snippet>
+	<description>double variable</description>
+	<content><![CDATA[
+double ${1:variable} = ${2:value};
+
+]]></content>
+	<tabTrigger>vdouble</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

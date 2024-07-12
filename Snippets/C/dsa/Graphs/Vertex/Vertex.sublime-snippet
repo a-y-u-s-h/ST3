@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+#include <iostream>
+
+class Vertex {
+  public:
+    int data;
+
+  public:
+    Vertex(int data = 0)  {
+      this -> data = data;
+    }
+
+    void print(const char* end = " ") {
+      std::cout << this -> data << end;
+    }
+};
+
+]]></content>
+
+	<tabTrigger>vertex</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

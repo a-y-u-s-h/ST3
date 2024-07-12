@@ -2,5 +2,5 @@
 	<description>cin.get()</description>
 	<content><![CDATA[*std::max_element(std::begin($1), std::end($1))]]></content>
 	<tabTrigger>maxelement</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

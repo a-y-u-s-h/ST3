@@ -1,0 +1,8 @@
+<snippet>
+	<description>filter a container</description>
+	<content><![CDATA[
+std::copy_if(std::begin($2), std::end($2), std::inserter($3, std::end($3)), [](auto const &$4) { return $5; });
+]]></content>
+	<tabTrigger>filter</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

@@ -2,5 +2,5 @@
 	<description>auto keyword</description>
 	<content><![CDATA[auto ${0}]]></content>
 	<tabTrigger>auto</tabTrigger>
-	<scope>(source.c | source.objc | source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
+	<scope>(source.c++ | source.objc++) - meta.preprocessor.incomplete</scope>
 </snippet>

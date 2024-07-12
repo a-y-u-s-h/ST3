@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if (${1:node}) ${1:node} -> print();
+
+]]></content>
+
+  <tabTrigger>npp</tabTrigger>
+
+  <scope>(source.c | source.objc)</scope>
+</snippet>

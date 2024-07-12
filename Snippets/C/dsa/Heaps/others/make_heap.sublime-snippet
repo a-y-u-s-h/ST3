@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+std::make_heap(std::begin($1), std::end($1));
+
+]]></content>
+  <tabTrigger>makeheap</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

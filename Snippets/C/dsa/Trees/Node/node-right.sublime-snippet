@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+${1:node} -> right
+]]></content>
+
+  <tabTrigger>nr</tabTrigger>
+
+  <scope>(source.c | source.objc)</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>priority_queue declaration</description>
+	<content><![CDATA[
+std::priority_queue <${2:int}> ${0}
+]]></content>
+	<tabTrigger>priority_queue</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

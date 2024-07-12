@@ -1,0 +1,8 @@
+<snippet>
+	<description>list.push_front();</description>
+	<content><![CDATA[
+${1:list}.push_front(${2:});
+]]></content>
+	<tabTrigger>list_push_front</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

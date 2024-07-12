@@ -1,0 +1,8 @@
+<snippet>
+	<description>deque.back()</description>
+	<content><![CDATA[
+${1:deque}.back()
+]]></content>
+	<tabTrigger>dqback</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

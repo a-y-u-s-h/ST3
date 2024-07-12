@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+std::vector<std::vector<$1>> $2 (${3:N}, std::vector<$1> (${4:M}));
+for (int ${8:i} = 0; ${8:i} < ${3:N}; ${8:i}++) { for (int ${9:j} = 0; ${9:j} < ${4:M}; ${9:j}++) { for (int ${10:k} = 0; ${10:k} < ${5:P}; ${10:k}++) { $2[${8:i}][${9:j}] += $6[${8:i}][${10:k}] * $7[${10:k}][${9:j}]; } }}
+]]></content>
+	<tabTrigger>matrixmultiplication</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>

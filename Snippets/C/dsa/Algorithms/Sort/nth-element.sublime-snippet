@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+std::nth_element(std::begin($1), std::begin($1) + $2 ,std::end($1));
+]]></content>
+  <tabTrigger>nthelement</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

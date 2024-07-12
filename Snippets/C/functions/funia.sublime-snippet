@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+auto ${1:function} = [${2:&}] (${3}) { ${4:return ${5};} };
+]]></content>
+
+	<tabTrigger>funia</tabTrigger>
+
+	<scope>(source.c | source.objc)</scope>
+</snippet>

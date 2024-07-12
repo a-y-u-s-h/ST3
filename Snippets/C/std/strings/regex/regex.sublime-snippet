@@ -1,0 +1,8 @@
+<snippet>
+  <description>npos</description>
+  <content><![CDATA[
+string::regex $0
+]]></content>
+  <tabTrigger>regex</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

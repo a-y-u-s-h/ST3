@@ -1,0 +1,6 @@
+<snippet>
+  <description>declare stringstream</description>
+  <content><![CDATA[std::stringstream(${1:line})]]></content>
+  <tabTrigger>stringstream</tabTrigger>
+  <scope>(source.c | source.objc)</scope>
+</snippet>

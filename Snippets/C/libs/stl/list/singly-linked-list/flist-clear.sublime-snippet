@@ -1,0 +1,8 @@
+<snippet>
+	<description>flist.clear();</description>
+	<content><![CDATA[
+${1:flist}.clear();
+]]></content>
+	<tabTrigger>sllistclear</tabTrigger>
+	<scope>(source.c | source.objc)</scope>
+</snippet>
