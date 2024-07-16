@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-for ${1:x} in range(${2:}):
+for ${1:i} in range($2):
 	${0:pass}
 ]]></content>
 	<tabTrigger>for</tabTrigger>

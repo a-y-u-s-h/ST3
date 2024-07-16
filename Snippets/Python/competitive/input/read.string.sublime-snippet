@@ -1,8 +1,9 @@
 <snippet>
   <content><![CDATA[
-char ${1} [$2]; scanf("%s", &${1});
+$1 = input()
 $0
 ]]></content>
   <tabTrigger>readstring</tabTrigger>
-  <scope>(source.c | source.objc)</scope>
+  <scope>source.python</scope>
+  <description>read string</description>
 </snippet>

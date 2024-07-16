@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-char ${1} [$2]; scanf("%s", &${1});
+double ${1}; scanf("%lf", &${1});
 $0
 ]]></content>
-  <tabTrigger>readstring</tabTrigger>
+  <tabTrigger>readdouble</tabTrigger>
   <scope>(source.c | source.objc)</scope>
 </snippet>

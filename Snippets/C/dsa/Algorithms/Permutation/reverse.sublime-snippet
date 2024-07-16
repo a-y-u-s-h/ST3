@@ -1,7 +1,7 @@
 <snippet>
   <description>for vector</description>
   <content><![CDATA[
-std::reverse(std::begin(${1:}), std::end(${1:}));
+for (int ${4:i} = 0; ${4:i} < ${3:N} - ${4:i} - 1; ${4:i}++) { ${1:int} ${5:t}; ${5:t} = ${2:A}[${4:i}]; ${2:A}[${4:i}] = ${2:A}[${3:N} - ${4:i} - 1]; ${2:A}[${3:N} - ${4:i} - 1] = ${5:t}; }
 
 ]]></content>
   <tabTrigger>reverse</tabTrigger>

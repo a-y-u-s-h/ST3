@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+for $1, $2 in zip($3, $4):
+	${0:pass}
+]]></content>
+	<tabTrigger>forzip</tabTrigger>
+	<scope>source.python</scope>
+	<description>For Loop</description>
+</snippet>

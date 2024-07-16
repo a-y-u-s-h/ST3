@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+$1 = input().split()
+$0
+]]></content>
+  <tabTrigger>readwords</tabTrigger>
+  <scope>source.python</scope>
+  <description>read words</description>
+</snippet>

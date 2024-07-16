@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+$1 = float(input())
+$0
+]]></content>
+	<tabTrigger>readfloat</tabTrigger>
+	<scope>source.python</scope>
+	<description>read float</description>
+</snippet>
